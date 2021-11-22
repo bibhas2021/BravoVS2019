@@ -1,0 +1,282 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{6DCEC7E8-090A-433C-A461-607501F6F876}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>EDPComponent</RootNamespace>
+    <AssemblyName>EDPComponent</AssemblyName>
+    <SccProjectName>"%24/EDPComponent_C#", OJMCAAAA</SccProjectName>
+    <SccLocalPath>.</SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>MSSCCI:Microsoft Visual SourceSafe</SccProvider>
+    <StartupObject>
+    </StartupObject>
+    <SignAssembly>false</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>TRACE;DEBUG</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <NoStdLib>false</NoStdLib>
+    <DocumentationFile>
+    </DocumentationFile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Edpcom, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Edpcom\Edpcom\bin\Debug\Edpcom.dll</HintPath>
+    </Reference>
+    <Reference Include="EDPMessageBox, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\EDPMessageBox\EDPMessageBox\bin\Debug\EDPMessageBox.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.Excel, Version=1.3.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\MidasGoldPNew\MidasGoldP\DLL\Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.Office, Version=2.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\MidasGoldP\xxx\MidasGoldP\bin\Debug\Interop.Office.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\WINNT\assembly\GAC_MSIL\System.Web.Services\2.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CalendarColumn.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ComboColumn.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ComboDialog.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ComboDialog.Designer.cs">
+      <DependentUpon>ComboDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ControlPaint.cs" />
+    <Compile Include="DataGridViewCellStyleEDP.cs" />
+    <Compile Include="DataGridViewEDP.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DataGridViewEDP.designer.cs">
+      <DependentUpon>DataGridViewEDP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DateTimePickerEDP.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DateTimePickerEDP.Designer.cs">
+      <DependentUpon>DateTimePickerEDP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EdpDataExcelExport.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="EdpDataExcelExport.Designer.cs">
+      <DependentUpon>EdpDataExcelExport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EDPMenuColorTable.cs" />
+    <Compile Include="EDPMenuHelpers.cs" />
+    <Compile Include="EDPMenuRenderer.cs" />
+    <Compile Include="EDPPrintPreviewDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDPPrintPreviewDialog.designer.cs">
+      <DependentUpon>EDPPrintPreviewDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormBase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBase.Designer.cs">
+      <DependentUpon>FormBase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Box.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Box.Designer.cs">
+      <DependentUpon>Box.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormBaseERP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBaseERP.designer.cs">
+      <DependentUpon>FormBaseERP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmListAddRemove.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmListAddRemove.designer.cs">
+      <DependentUpon>frmListAddRemove.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MyXPButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="PrintComponent.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ProgressBar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Settings.cs" />
+    <Compile Include="ShadowLabel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="SimpleTextReport.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SimpleTextReport.Designer.cs">
+      <DependentUpon>SimpleTextReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="VistaButton.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Service Include="{94E38DFF-614B-4cbd-B67C-F211BB35CE8B}" />
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="ComboDialog.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ComboDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataGridViewEDP.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>DataGridViewEDP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DateTimePickerEDP.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>DateTimePickerEDP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EdpDataExcelExport.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>EdpDataExcelExport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDPPrintPreviewDialog.resx">
+      <DependentUpon>EDPPrintPreviewDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBase.resx">
+      <DependentUpon>FormBase.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Box.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Box.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBaseERP.resx">
+      <DependentUpon>FormBaseERP.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmListAddRemove.resx">
+      <DependentUpon>frmListAddRemove.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MyXPButton.resx">
+      <DependentUpon>MyXPButton.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProgressBar.resx">
+      <DependentUpon>ProgressBar.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SimpleTextReport.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SimpleTextReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VistaButton.resx">
+      <DependentUpon>VistaButton.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ButtonHover.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FormBackground.gif" />
+    <None Include="Resources\CloseIcon.gif" />
+    <None Include="Resources\MaximizeIcon.gif" />
+    <None Include="Resources\MinimizeIcon.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\t1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\accepted_48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Money.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\1 16x16.ico" />
+    <Content Include="Resources\1 8x8.ico" />
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Resources\logo f.png" />
+    <None Include="Resources\popover-close-button.gif" />
+    <None Include="Resources\Image1.bmp" />
+    <None Include="Resources\Minimize Button%281%29.ico" />
+    <None Include="Resources\pop-up-minimize-button.png" />
+    <None Include="Resources\Icon_minimize.jpg" />
+    <None Include="Resources\icon-minimize.jpg" />
+    <Content Include="Resources\Print.png" />
+    <None Include="Resources\thumbs_129883-simple-red-square-icon-symbols-shapes-minimize.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

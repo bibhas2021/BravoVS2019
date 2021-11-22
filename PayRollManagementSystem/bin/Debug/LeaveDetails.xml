@@ -1,0 +1,30 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <LeaveDetails>
+    <Leave_x0020_Head>Total Days</Leave_x0020_Head>
+    <No._x0020_of_x0020_Days>31</No._x0020_of_x0020_Days>
+  </LeaveDetails>
+  <LeaveDetails>
+    <Leave_x0020_Head>CASUAL LEAVE</Leave_x0020_Head>
+    <No._x0020_of_x0020_Days>2</No._x0020_of_x0020_Days>
+  </LeaveDetails>
+  <LeaveDetails>
+    <Leave_x0020_Head>MEDICAL LEAVE FULL PAY</Leave_x0020_Head>
+    <No._x0020_of_x0020_Days>1</No._x0020_of_x0020_Days>
+  </LeaveDetails>
+  <LeaveDetails>
+    <Leave_x0020_Head>MEDICAL LEAVE HALF PAY</Leave_x0020_Head>
+    <No._x0020_of_x0020_Days>2</No._x0020_of_x0020_Days>
+  </LeaveDetails>
+  <LeaveDetails>
+    <Leave_x0020_Head>EARN LEAVE HALF</Leave_x0020_Head>
+    <No._x0020_of_x0020_Days>0</No._x0020_of_x0020_Days>
+  </LeaveDetails>
+  <LeaveDetails>
+    <Leave_x0020_Head>ASAS</Leave_x0020_Head>
+    <No._x0020_of_x0020_Days>0</No._x0020_of_x0020_Days>
+  </LeaveDetails>
+  <LeaveDetails>
+    <Leave_x0020_Head>Present Days</Leave_x0020_Head>
+  </LeaveDetails>
+</DocumentElement>

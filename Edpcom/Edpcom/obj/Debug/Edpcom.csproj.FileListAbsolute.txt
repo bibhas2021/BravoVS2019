@@ -1,0 +1,771 @@
+E:\Project 23.12.14\Accord Four Project 2014 Dec 18\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+E:\Project 23.12.14\Accord Four Project 2014 Dec 18\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+E:\Project 23.12.14\Accord Four Project 2014 Dec 18\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+E:\Project 23.12.14\Accord Four Project 2014 Dec 18\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+E:\Project 23.12.14\Accord Four Project 2014 Dec 18\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+E:\Project 23.12.14\Accord Four Project 2014 Dec 18\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+E:\Project 23.12.14\Accord Four Project 2014 Dec 18\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+E:\Project 23.12.14\Accord Four Project 2014 Dec 18\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+E:\Project 23.12.14\Accord Four Project 2014 Dec 18\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+E:\Project 23.12.14\Accord Four Project 2014 Dec 18\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+F:\PARTHA\Payroll 11.05.15\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+F:\PARTHA\Payroll 11.05.15\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+F:\PARTHA\Payroll 11.05.15\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+F:\PARTHA\Payroll 11.05.15\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+F:\PARTHA\Payroll 11.05.15\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+F:\PARTHA\Payroll 11.05.15\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+F:\PARTHA\Payroll 11.05.15\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+F:\PARTHA\Payroll 11.05.15\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+F:\PARTHA\Payroll 11.05.15\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+F:\PARTHA\Payroll 11.05.15\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+F:\PARTHA\Payroll 11.05.15\200515\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+F:\PARTHA\Payroll 11.05.15\200515\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+F:\PARTHA\Payroll 11.05.15\200515\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+F:\PARTHA\Payroll 11.05.15\200515\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+F:\PARTHA\Payroll 11.05.15\200515\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+F:\PARTHA\Payroll 11.05.15\200515\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+F:\PARTHA\Payroll 11.05.15\200515\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+F:\PARTHA\Payroll 11.05.15\200515\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+F:\PARTHA\Payroll 11.05.15\200515\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+F:\PARTHA\Payroll 11.05.15\200515\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+C:\Documents and Settings\Administrator\Desktop\partha\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+C:\Documents and Settings\Administrator\Desktop\partha\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+C:\Documents and Settings\Administrator\Desktop\partha\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\partha\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+C:\Documents and Settings\Administrator\Desktop\partha\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+C:\Documents and Settings\Administrator\Desktop\partha\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+C:\Documents and Settings\Administrator\Desktop\partha\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\partha\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\partha\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+C:\Documents and Settings\Administrator\Desktop\partha\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+C:\Users\user\Desktop\Payroll Details Menu\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+C:\Users\user\Desktop\Payroll Details Menu\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+C:\Users\user\Desktop\Payroll Details Menu\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\Payroll Details Menu\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+C:\Users\user\Desktop\Payroll Details Menu\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+C:\Users\user\Desktop\Payroll Details Menu\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+C:\Users\user\Desktop\Payroll Details Menu\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+C:\Users\user\Desktop\Payroll Details Menu\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Payroll Details Menu\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+C:\Users\user\Desktop\Payroll Details Menu\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+C:\Users\Picklu\Desktop\24.07.15\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+C:\Users\Picklu\Desktop\24.07.15\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+C:\Users\Picklu\Desktop\24.07.15\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Picklu\Desktop\24.07.15\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+C:\Users\Picklu\Desktop\24.07.15\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+C:\Users\Picklu\Desktop\24.07.15\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+C:\Users\Picklu\Desktop\24.07.15\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+C:\Users\Picklu\Desktop\24.07.15\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+C:\Users\Picklu\Desktop\24.07.15\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+C:\Users\Picklu\Desktop\24.07.15\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+J:\24.07.15\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+J:\24.07.15\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+J:\24.07.15\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+J:\24.07.15\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+J:\24.07.15\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+J:\24.07.15\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+J:\24.07.15\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+J:\24.07.15\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+J:\24.07.15\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+J:\24.07.15\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+J:\24.07.15\080815\Payroll Software 06.08.15_5.44\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+J:\24.07.15\080815\Payroll Software 06.08.15_5.44\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+J:\24.07.15\080815\Payroll Software 06.08.15_5.44\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+J:\24.07.15\080815\Payroll Software 06.08.15_5.44\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+J:\24.07.15\080815\Payroll Software 06.08.15_5.44\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+J:\24.07.15\080815\Payroll Software 06.08.15_5.44\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+J:\24.07.15\080815\Payroll Software 06.08.15_5.44\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+J:\24.07.15\080815\Payroll Software 06.08.15_5.44\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+J:\24.07.15\080815\Payroll Software 06.08.15_5.44\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+J:\24.07.15\080815\Payroll Software 06.08.15_5.44\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+E:\Project 23.12.14\Payroll Software 06.08.15_5.44\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+E:\Project 23.12.14\Payroll Software 06.08.15_5.44\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+E:\Project 23.12.14\Payroll Software 06.08.15_5.44\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+E:\Project 23.12.14\Payroll Software 06.08.15_5.44\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+E:\Project 23.12.14\Payroll Software 06.08.15_5.44\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+E:\Project 23.12.14\Payroll Software 06.08.15_5.44\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+E:\Project 23.12.14\Payroll Software 06.08.15_5.44\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+E:\Project 23.12.14\Payroll Software 06.08.15_5.44\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+E:\Project 23.12.14\Payroll Software 06.08.15_5.44\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+E:\Project 23.12.14\Payroll Software 06.08.15_5.44\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+H:\partha\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+H:\partha\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+H:\partha\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+H:\partha\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+H:\partha\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+H:\partha\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+H:\partha\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+H:\partha\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+H:\partha\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+H:\partha\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+E:\Project 23.12.14\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+E:\Project 23.12.14\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+E:\Project 23.12.14\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+E:\Project 23.12.14\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+E:\Project 23.12.14\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+E:\Project 23.12.14\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+E:\Project 23.12.14\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+E:\Project 23.12.14\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+E:\Project 23.12.14\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+E:\Project 23.12.14\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+E:\Project 23.12.14\partha\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+E:\Project 23.12.14\partha\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+E:\Project 23.12.14\partha\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+E:\Project 23.12.14\partha\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+E:\Project 23.12.14\partha\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+E:\Project 23.12.14\partha\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+E:\Project 23.12.14\partha\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+E:\Project 23.12.14\partha\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+E:\Project 23.12.14\partha\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+E:\Project 23.12.14\partha\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+D:\bibhas\02-02-16\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+D:\bibhas\02-02-16\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+D:\bibhas\02-02-16\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+D:\bibhas\02-02-16\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+D:\bibhas\02-02-16\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+D:\bibhas\02-02-16\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+D:\bibhas\02-02-16\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+D:\bibhas\02-02-16\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+D:\bibhas\02-02-16\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+D:\bibhas\02-02-16\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+E:\Bibhas\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+E:\Bibhas\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+E:\Bibhas\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+E:\Bibhas\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+E:\Bibhas\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+E:\Bibhas\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+E:\Bibhas\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+E:\Bibhas\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+E:\Bibhas\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+E:\Bibhas\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+E:\Bibhas\21-03-2016\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+E:\Bibhas\21-03-2016\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+E:\Bibhas\21-03-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+E:\Bibhas\21-03-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+E:\Bibhas\21-03-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+E:\Bibhas\21-03-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+E:\Bibhas\21-03-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+E:\Bibhas\21-03-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+E:\Bibhas\21-03-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+E:\Bibhas\21-03-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+E:\Bibhas\28-03-2016\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+E:\Bibhas\28-03-2016\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+E:\Bibhas\28-03-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+E:\Bibhas\28-03-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+E:\Bibhas\28-03-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+E:\Bibhas\28-03-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+E:\Bibhas\28-03-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+E:\Bibhas\28-03-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+E:\Bibhas\28-03-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+E:\Bibhas\28-03-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+E:\Bibhas\30-03-2016\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+E:\Bibhas\30-03-2016\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+E:\Bibhas\30-03-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+E:\Bibhas\30-03-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+E:\Bibhas\30-03-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+E:\Bibhas\30-03-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+E:\Bibhas\30-03-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+E:\Bibhas\30-03-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+E:\Bibhas\30-03-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+E:\Bibhas\30-03-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+E:\Bibhas\01-04-2016\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+E:\Bibhas\01-04-2016\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+E:\Bibhas\01-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+E:\Bibhas\01-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+E:\Bibhas\01-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+E:\Bibhas\01-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+E:\Bibhas\01-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+E:\Bibhas\01-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+E:\Bibhas\01-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+E:\Bibhas\01-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+D:\EdpSoft Projects\02-04-2016\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+D:\EdpSoft Projects\02-04-2016\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+D:\EdpSoft Projects\02-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+D:\EdpSoft Projects\02-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+D:\EdpSoft Projects\02-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+D:\EdpSoft Projects\02-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+D:\EdpSoft Projects\02-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+D:\EdpSoft Projects\02-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+D:\EdpSoft Projects\02-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+D:\EdpSoft Projects\02-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+E:\Bibhas\02-04-2016\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+E:\Bibhas\02-04-2016\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+E:\Bibhas\02-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+E:\Bibhas\02-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+E:\Bibhas\02-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+E:\Bibhas\02-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+E:\Bibhas\02-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+E:\Bibhas\02-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+E:\Bibhas\02-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+E:\Bibhas\02-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+D:\Bibhas\05-04-2016\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+D:\Bibhas\05-04-2016\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+D:\Bibhas\05-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+D:\Bibhas\05-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+D:\Bibhas\05-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+D:\Bibhas\05-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+D:\Bibhas\05-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+D:\Bibhas\05-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+D:\Bibhas\05-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+D:\Bibhas\05-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+H:\07-04-2016\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+H:\07-04-2016\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+H:\07-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+H:\07-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+H:\07-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+H:\07-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+H:\07-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+H:\07-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+H:\07-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+H:\07-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+D:\Bibhas\07-04-2016\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+D:\Bibhas\07-04-2016\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+D:\Bibhas\07-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+D:\Bibhas\07-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+D:\Bibhas\07-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+D:\Bibhas\07-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+D:\Bibhas\07-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+D:\Bibhas\07-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+D:\Bibhas\07-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+D:\Bibhas\07-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+D:\Bibhas\14-04-2016\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+D:\Bibhas\14-04-2016\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+D:\Bibhas\14-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+D:\Bibhas\14-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+D:\Bibhas\14-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+D:\Bibhas\14-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+D:\Bibhas\14-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+D:\Bibhas\14-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+D:\Bibhas\14-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+D:\Bibhas\14-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+E:\all works\22-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+E:\all works\22-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+E:\all works\22-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+E:\all works\22-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+E:\all works\22-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+E:\all works\22-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+E:\all works\22-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+E:\all works\22-04-2016\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+E:\all works\22-04-2016\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+E:\all works\22-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+D:\Bibhas\23-04-2016\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+D:\Bibhas\23-04-2016\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+D:\Bibhas\23-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+D:\Bibhas\23-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+D:\Bibhas\23-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+D:\Bibhas\23-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+D:\Bibhas\23-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+D:\Bibhas\23-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+D:\Bibhas\23-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+D:\Bibhas\23-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+H:\25-04-2016\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+H:\25-04-2016\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+H:\25-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+H:\25-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+H:\25-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+H:\25-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+H:\25-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+H:\25-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+H:\25-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+H:\25-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+D:\25-04-2016\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+D:\25-04-2016\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+D:\25-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+D:\25-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+D:\25-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+D:\25-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+D:\25-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+D:\25-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+D:\25-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+D:\25-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+D:\27-04-2016\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+D:\27-04-2016\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+D:\27-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+D:\27-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+D:\27-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+D:\27-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+D:\27-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+D:\27-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+D:\27-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+D:\27-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+D:\28-04-2016\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+D:\28-04-2016\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+D:\28-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+D:\28-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+D:\28-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+D:\28-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+D:\28-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+D:\28-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+D:\28-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+D:\28-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+D:\29-04-2016\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+D:\29-04-2016\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+D:\29-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+D:\29-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+D:\29-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+D:\29-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+D:\29-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+D:\29-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+D:\29-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+D:\29-04-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+I:\02-05-2016\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+I:\02-05-2016\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+I:\02-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+I:\02-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+I:\02-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+I:\02-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+I:\02-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+I:\02-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+I:\02-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+I:\02-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+D:\Bibhas\02-05-2016\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+D:\Bibhas\02-05-2016\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+D:\Bibhas\02-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+D:\Bibhas\02-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+D:\Bibhas\02-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+D:\Bibhas\02-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+D:\Bibhas\02-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+D:\Bibhas\02-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+D:\Bibhas\02-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+D:\Bibhas\02-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+D:\Bibhas\04-05-2016\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+D:\Bibhas\04-05-2016\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+D:\Bibhas\04-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+D:\Bibhas\04-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+D:\Bibhas\04-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+D:\Bibhas\04-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+D:\Bibhas\04-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+D:\Bibhas\04-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+D:\Bibhas\04-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+D:\Bibhas\04-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+D:\Bibhas\07-05-2016\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+D:\Bibhas\07-05-2016\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+D:\Bibhas\07-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+D:\Bibhas\07-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+D:\Bibhas\07-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+D:\Bibhas\07-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+D:\Bibhas\07-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+D:\Bibhas\07-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+D:\Bibhas\07-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+D:\Bibhas\07-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+D:\Bibhas\09-05-2016\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+D:\Bibhas\09-05-2016\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+D:\Bibhas\09-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+D:\Bibhas\09-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+D:\Bibhas\09-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+D:\Bibhas\09-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+D:\Bibhas\09-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+D:\Bibhas\09-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+D:\Bibhas\09-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+D:\Bibhas\09-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+D:\Bibhas\16-05-2016\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+D:\Bibhas\16-05-2016\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+D:\Bibhas\16-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+D:\Bibhas\16-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+D:\Bibhas\16-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+D:\Bibhas\16-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+D:\Bibhas\16-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+D:\Bibhas\16-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+D:\Bibhas\16-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+D:\Bibhas\16-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+I:\16-05-2016\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+I:\16-05-2016\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+I:\16-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+I:\16-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+I:\16-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+I:\16-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+I:\16-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+I:\16-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+I:\16-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+I:\16-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+H:\16-05-2016\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+H:\16-05-2016\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+H:\16-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+H:\16-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+H:\16-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+H:\16-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+H:\16-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+H:\16-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+H:\16-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+H:\16-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+I:\23-05-2016\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+I:\23-05-2016\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+I:\23-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+I:\23-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+I:\23-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+I:\23-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+I:\23-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+I:\23-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+I:\23-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+I:\23-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+C:\Documents and Settings\EdpPc1\Desktop\28-05-2016\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+C:\Documents and Settings\EdpPc1\Desktop\28-05-2016\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+C:\Documents and Settings\EdpPc1\Desktop\28-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\EdpPc1\Desktop\28-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+C:\Documents and Settings\EdpPc1\Desktop\28-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+C:\Documents and Settings\EdpPc1\Desktop\28-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+C:\Documents and Settings\EdpPc1\Desktop\28-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+C:\Documents and Settings\EdpPc1\Desktop\28-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+C:\Documents and Settings\EdpPc1\Desktop\28-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+C:\Documents and Settings\EdpPc1\Desktop\28-05-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+I:\07-06-2016\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+I:\07-06-2016\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+I:\07-06-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+I:\07-06-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+I:\07-06-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+I:\07-06-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+I:\07-06-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+I:\07-06-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+I:\07-06-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+I:\07-06-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+E:\28-06-2016\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+E:\28-06-2016\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+E:\28-06-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+E:\28-06-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+E:\28-06-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+E:\28-06-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+E:\28-06-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+E:\28-06-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+E:\28-06-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+E:\28-06-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+C:\Users\DELL\Desktop\01-07-2016\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+C:\Users\DELL\Desktop\01-07-2016\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+C:\Users\DELL\Desktop\01-07-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\01-07-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+C:\Users\DELL\Desktop\01-07-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+C:\Users\DELL\Desktop\01-07-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+C:\Users\DELL\Desktop\01-07-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+C:\Users\DELL\Desktop\01-07-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\01-07-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+C:\Users\DELL\Desktop\01-07-2016\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+E:\01-07-2016_iso\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+E:\01-07-2016_iso\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+E:\01-07-2016_iso\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+E:\01-07-2016_iso\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+E:\01-07-2016_iso\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+E:\01-07-2016_iso\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+E:\01-07-2016_iso\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+E:\01-07-2016_iso\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+E:\01-07-2016_iso\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+E:\01-07-2016_iso\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+E:\06-08-2016_Bravo\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+E:\06-08-2016_Bravo\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+E:\06-08-2016_Bravo\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+E:\06-08-2016_Bravo\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+E:\06-08-2016_Bravo\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+E:\06-08-2016_Bravo\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+E:\06-08-2016_Bravo\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+E:\06-08-2016_Bravo\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+E:\06-08-2016_Bravo\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+E:\06-08-2016_Bravo\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+E:\20-08-2016_Bravo\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+E:\20-08-2016_Bravo\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+E:\20-08-2016_Bravo\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+E:\20-08-2016_Bravo\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+E:\20-08-2016_Bravo\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+E:\20-08-2016_Bravo\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+E:\20-08-2016_Bravo\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+E:\20-08-2016_Bravo\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+E:\20-08-2016_Bravo\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+E:\20-08-2016_Bravo\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+E:\bravo all\26-11-2016_Bravo\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+E:\bravo all\26-11-2016_Bravo\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+E:\bravo all\26-11-2016_Bravo\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+E:\bravo all\26-11-2016_Bravo\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+E:\bravo all\26-11-2016_Bravo\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+E:\bravo all\26-11-2016_Bravo\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+E:\bravo all\26-11-2016_Bravo\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+E:\bravo all\26-11-2016_Bravo\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+E:\bravo all\26-11-2016_Bravo\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+E:\bravo all\26-11-2016_Bravo\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+E:\bravo all\21-12-2016_Bravo\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+E:\bravo all\21-12-2016_Bravo\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+E:\bravo all\21-12-2016_Bravo\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+E:\bravo all\21-12-2016_Bravo\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+E:\bravo all\21-12-2016_Bravo\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+E:\bravo all\21-12-2016_Bravo\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+E:\bravo all\21-12-2016_Bravo\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+E:\bravo all\21-12-2016_Bravo\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+E:\bravo all\21-12-2016_Bravo\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+E:\bravo all\21-12-2016_Bravo\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+E:\bravo all\14-01-2017_Bravo\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+E:\bravo all\14-01-2017_Bravo\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+E:\bravo all\14-01-2017_Bravo\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+E:\bravo all\14-01-2017_Bravo\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+E:\bravo all\14-01-2017_Bravo\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+E:\bravo all\14-01-2017_Bravo\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+E:\bravo all\14-01-2017_Bravo\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+E:\bravo all\14-01-2017_Bravo\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+E:\bravo all\14-01-2017_Bravo\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+E:\bravo all\14-01-2017_Bravo\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+E:\bravo all\16_02_2017_Bravo\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+E:\bravo all\16_02_2017_Bravo\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+E:\bravo all\16_02_2017_Bravo\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+E:\bravo all\16_02_2017_Bravo\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+E:\bravo all\16_02_2017_Bravo\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+E:\bravo all\16_02_2017_Bravo\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+E:\bravo all\16_02_2017_Bravo\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+E:\bravo all\16_02_2017_Bravo\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+E:\bravo all\16_02_2017_Bravo\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+E:\bravo all\16_02_2017_Bravo\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+E:\edp\16_02_2017_Bravo\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+E:\edp\16_02_2017_Bravo\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+E:\edp\16_02_2017_Bravo\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+E:\edp\16_02_2017_Bravo\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+E:\edp\16_02_2017_Bravo\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+E:\edp\16_02_2017_Bravo\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+E:\edp\16_02_2017_Bravo\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+E:\edp\16_02_2017_Bravo\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+E:\edp\16_02_2017_Bravo\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+E:\edp\16_02_2017_Bravo\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+E:\edp projects\Bravo\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+E:\edp projects\Bravo\PayRollManagementSystem\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+E:\edp projects\Bravo\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+E:\edp projects\Bravo\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+E:\edp projects\Bravo\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+E:\edp projects\Bravo\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+E:\edp projects\Bravo\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+E:\edp projects\Bravo\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+E:\edp projects\Bravo\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+E:\edp projects\Bravo\PayRollManagementSystem\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+E:\edp projects\Bravo_19_04_2017\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+E:\edp projects\Bravo_19_04_2017\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+E:\edp projects\Bravo_19_04_2017\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+E:\edp projects\Bravo_19_04_2017\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+E:\edp projects\Bravo_19_04_2017\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+E:\edp projects\Bravo_19_04_2017\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+E:\edp projects\Bravo_19_04_2017\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+E:\edp projects\Bravo_19_04_2017\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+E:\edp projects\Bravo_19_04_2017\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+E:\edp projects\Bravo_19_04_2017\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+E:\edp projects\Bravo_04_05_2017\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+E:\edp projects\Bravo_04_05_2017\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+E:\edp projects\Bravo_04_05_2017\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+E:\edp projects\Bravo_04_05_2017\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+E:\edp projects\Bravo_04_05_2017\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+E:\edp projects\Bravo_04_05_2017\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+E:\edp projects\Bravo_04_05_2017\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+E:\edp projects\Bravo_04_05_2017\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+E:\edp projects\Bravo_04_05_2017\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+E:\edp projects\Bravo_04_05_2017\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+E:\edp projects\Bravo_30_05_2017\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+E:\edp projects\Bravo_30_05_2017\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+E:\edp projects\Bravo_30_05_2017\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+E:\edp projects\Bravo_30_05_2017\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+E:\edp projects\Bravo_30_05_2017\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+E:\edp projects\Bravo_30_05_2017\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+E:\edp projects\Bravo_30_05_2017\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+E:\edp projects\Bravo_30_05_2017\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+E:\edp projects\Bravo_30_05_2017\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+E:\edp projects\Bravo_30_05_2017\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+E:\New folder\Bravo_30_05_2017\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+E:\New folder\Bravo_30_05_2017\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+E:\New folder\Bravo_30_05_2017\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+E:\New folder\Bravo_30_05_2017\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+E:\New folder\Bravo_30_05_2017\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+E:\New folder\Bravo_30_05_2017\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+E:\New folder\Bravo_30_05_2017\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+E:\New folder\Bravo_30_05_2017\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+E:\New folder\Bravo_30_05_2017\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+E:\New folder\Bravo_30_05_2017\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+E:\bravo all\Bravo_15_01_2018\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+E:\bravo all\Bravo_15_01_2018\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+E:\bravo all\Bravo_15_01_2018\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+E:\bravo all\Bravo_15_01_2018\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+E:\bravo all\Bravo_15_01_2018\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+E:\bravo all\Bravo_15_01_2018\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+E:\bravo all\Bravo_15_01_2018\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+E:\bravo all\Bravo_15_01_2018\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+E:\bravo all\Bravo_15_01_2018\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+E:\bravo all\Bravo_15_01_2018\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+H:\Bravo_15_01_2018\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+H:\Bravo_15_01_2018\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+H:\Bravo_15_01_2018\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+H:\Bravo_15_01_2018\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+H:\Bravo_15_01_2018\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+H:\Bravo_15_01_2018\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+H:\Bravo_15_01_2018\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+H:\Bravo_15_01_2018\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+H:\Bravo_15_01_2018\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+H:\Bravo_15_01_2018\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+E:\bravo all\Bravo_14_03_2018\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+E:\bravo all\Bravo_14_03_2018\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+E:\bravo all\Bravo_14_03_2018\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+E:\bravo all\Bravo_14_03_2018\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+E:\bravo all\Bravo_14_03_2018\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+E:\bravo all\Bravo_14_03_2018\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+E:\bravo all\Bravo_14_03_2018\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+E:\bravo all\Bravo_14_03_2018\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+E:\bravo all\Bravo_14_03_2018\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+E:\bravo all\Bravo_14_03_2018\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+E:\Backup\Bravo_14_03_2018\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+E:\Backup\Bravo_14_03_2018\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+E:\Backup\Bravo_14_03_2018\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+E:\Backup\Bravo_14_03_2018\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+E:\Backup\Bravo_14_03_2018\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+E:\Backup\Bravo_14_03_2018\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+E:\Backup\Bravo_14_03_2018\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+E:\Backup\Bravo_14_03_2018\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+E:\Backup\Bravo_14_03_2018\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+E:\Backup\Bravo_14_03_2018\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+E:\bravo all\Bravo_15_03_2018\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+E:\bravo all\Bravo_15_03_2018\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+E:\bravo all\Bravo_15_03_2018\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+E:\bravo all\Bravo_15_03_2018\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+E:\bravo all\Bravo_15_03_2018\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+E:\bravo all\Bravo_15_03_2018\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+E:\bravo all\Bravo_15_03_2018\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+E:\bravo all\Bravo_15_03_2018\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+E:\bravo all\Bravo_15_03_2018\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+E:\bravo all\Bravo_15_03_2018\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+H:\Bravo_15_03_2018\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+H:\Bravo_15_03_2018\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+H:\Bravo_15_03_2018\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+H:\Bravo_15_03_2018\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+H:\Bravo_15_03_2018\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+H:\Bravo_15_03_2018\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+H:\Bravo_15_03_2018\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+H:\Bravo_15_03_2018\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+H:\Bravo_15_03_2018\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+H:\Bravo_15_03_2018\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+E:\bravo all\Bravo_19_03_2018\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+E:\bravo all\Bravo_19_03_2018\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+E:\bravo all\Bravo_19_03_2018\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+E:\bravo all\Bravo_19_03_2018\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+E:\bravo all\Bravo_19_03_2018\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+E:\bravo all\Bravo_19_03_2018\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+E:\bravo all\Bravo_19_03_2018\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+E:\bravo all\Bravo_19_03_2018\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+E:\bravo all\Bravo_19_03_2018\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+E:\bravo all\Bravo_19_03_2018\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+E:\bravo all\Bravo_28_03_2018\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+E:\bravo all\Bravo_28_03_2018\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+E:\bravo all\Bravo_28_03_2018\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+E:\bravo all\Bravo_28_03_2018\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+E:\bravo all\Bravo_28_03_2018\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+E:\bravo all\Bravo_28_03_2018\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+E:\bravo all\Bravo_28_03_2018\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+E:\bravo all\Bravo_28_03_2018\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+E:\bravo all\Bravo_28_03_2018\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+E:\bravo all\Bravo_28_03_2018\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+E:\bravo all\Bravo_09_04_2018\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+E:\bravo all\Bravo_09_04_2018\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+E:\bravo all\Bravo_09_04_2018\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+E:\bravo all\Bravo_09_04_2018\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+E:\bravo all\Bravo_09_04_2018\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+E:\bravo all\Bravo_09_04_2018\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+E:\bravo all\Bravo_09_04_2018\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+E:\bravo all\Bravo_09_04_2018\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+E:\bravo all\Bravo_09_04_2018\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+E:\bravo all\Bravo_09_04_2018\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+H:\Bravo_09_04_2018\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+H:\Bravo_09_04_2018\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+H:\Bravo_09_04_2018\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+H:\Bravo_09_04_2018\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+H:\Bravo_09_04_2018\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+H:\Bravo_09_04_2018\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+H:\Bravo_09_04_2018\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+H:\Bravo_09_04_2018\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+H:\Bravo_09_04_2018\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+H:\Bravo_09_04_2018\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+G:\Bravo_09_04_2018\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+G:\Bravo_09_04_2018\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+G:\Bravo_09_04_2018\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+G:\Bravo_09_04_2018\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+G:\Bravo_09_04_2018\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+G:\Bravo_09_04_2018\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+G:\Bravo_09_04_2018\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+G:\Bravo_09_04_2018\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+G:\Bravo_09_04_2018\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+G:\Bravo_09_04_2018\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+H:\EDPSOFT-D1\Bravo_09_04_2018\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+H:\EDPSOFT-D1\Bravo_09_04_2018\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+H:\EDPSOFT-D1\Bravo_09_04_2018\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+H:\EDPSOFT-D1\Bravo_09_04_2018\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+H:\EDPSOFT-D1\Bravo_09_04_2018\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+H:\EDPSOFT-D1\Bravo_09_04_2018\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+H:\EDPSOFT-D1\Bravo_09_04_2018\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+H:\EDPSOFT-D1\Bravo_09_04_2018\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+H:\EDPSOFT-D1\Bravo_09_04_2018\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+H:\EDPSOFT-D1\Bravo_09_04_2018\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+E:\Bravo_09_04_2018\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+E:\Bravo_09_04_2018\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+E:\Bravo_09_04_2018\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+E:\Bravo_09_04_2018\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+E:\Bravo_09_04_2018\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+E:\Bravo_09_04_2018\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+E:\Bravo_09_04_2018\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+E:\Bravo_09_04_2018\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+E:\Bravo_09_04_2018\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+E:\Bravo_09_04_2018\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+G:\Projects\Bravo_09_04_2018\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+G:\Projects\Bravo_09_04_2018\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+G:\Projects\Bravo_09_04_2018\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+G:\Projects\Bravo_09_04_2018\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+G:\Projects\Bravo_09_04_2018\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+G:\Projects\Bravo_09_04_2018\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+G:\Projects\Bravo_09_04_2018\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+G:\Projects\Bravo_09_04_2018\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+G:\Projects\Bravo_09_04_2018\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+G:\Projects\Bravo_09_04_2018\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+E:\actual project\Bravo_09_04_2018\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+E:\actual project\Bravo_09_04_2018\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+E:\actual project\Bravo_09_04_2018\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+E:\actual project\Bravo_09_04_2018\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+E:\actual project\Bravo_09_04_2018\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+E:\actual project\Bravo_09_04_2018\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+E:\actual project\Bravo_09_04_2018\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+E:\actual project\Bravo_09_04_2018\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+E:\actual project\Bravo_09_04_2018\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+E:\actual project\Bravo_09_04_2018\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+H:\actual project\Bravo_09_04_2018\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+H:\actual project\Bravo_09_04_2018\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+H:\actual project\Bravo_09_04_2018\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+H:\actual project\Bravo_09_04_2018\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+H:\actual project\Bravo_09_04_2018\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+H:\actual project\Bravo_09_04_2018\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+H:\actual project\Bravo_09_04_2018\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+H:\actual project\Bravo_09_04_2018\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+H:\actual project\Bravo_09_04_2018\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+H:\actual project\Bravo_09_04_2018\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+E:\Bravo Project 26_12_2018\Bravo_26_12_2018\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+E:\Bravo Project 26_12_2018\Bravo_26_12_2018\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+E:\Bravo Project 26_12_2018\Bravo_26_12_2018\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+E:\Bravo Project 26_12_2018\Bravo_26_12_2018\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+E:\Bravo Project 26_12_2018\Bravo_26_12_2018\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+E:\Bravo Project 26_12_2018\Bravo_26_12_2018\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+E:\Bravo Project 26_12_2018\Bravo_26_12_2018\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+E:\Bravo Project 26_12_2018\Bravo_26_12_2018\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+E:\Bravo Project 26_12_2018\Bravo_26_12_2018\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+E:\Bravo Project 26_12_2018\Bravo_26_12_2018\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+E:\Bravo Project 01_01_2019\Bravo_01_01_2019\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+E:\Bravo Project 01_01_2019\Bravo_01_01_2019\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+E:\Bravo Project 01_01_2019\Bravo_01_01_2019\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+E:\Bravo Project 01_01_2019\Bravo_01_01_2019\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+E:\Bravo Project 01_01_2019\Bravo_01_01_2019\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+E:\Bravo Project 01_01_2019\Bravo_01_01_2019\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+E:\Bravo Project 01_01_2019\Bravo_01_01_2019\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+E:\Bravo Project 01_01_2019\Bravo_01_01_2019\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+E:\Bravo Project 01_01_2019\Bravo_01_01_2019\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+E:\Bravo Project 01_01_2019\Bravo_01_01_2019\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+E:\latest works 2019\Bravo Project 01_01_2019\Bravo_01_01_2019\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+E:\latest works 2019\Bravo Project 01_01_2019\Bravo_01_01_2019\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+E:\latest works 2019\Bravo Project 01_01_2019\Bravo_01_01_2019\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+E:\latest works 2019\Bravo Project 01_01_2019\Bravo_01_01_2019\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+E:\latest works 2019\Bravo Project 01_01_2019\Bravo_01_01_2019\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+E:\latest works 2019\Bravo Project 01_01_2019\Bravo_01_01_2019\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+E:\latest works 2019\Bravo Project 01_01_2019\Bravo_01_01_2019\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+E:\latest works 2019\Bravo Project 01_01_2019\Bravo_01_01_2019\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+E:\latest works 2019\Bravo Project 01_01_2019\Bravo_01_01_2019\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+E:\latest works 2019\Bravo Project 01_01_2019\Bravo_01_01_2019\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+E:\BRAVO\dot net project for 2019\Bravo_01_01_2019\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+E:\BRAVO\dot net project for 2019\Bravo_01_01_2019\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+E:\BRAVO\dot net project for 2019\Bravo_01_01_2019\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.AssemblyReference.cache
+E:\BRAVO\dot net project for 2019\Bravo_01_01_2019\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+E:\BRAVO\dot net project for 2019\Bravo_01_01_2019\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+E:\BRAVO\dot net project for 2019\Bravo_01_01_2019\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+E:\BRAVO\dot net project for 2019\Bravo_01_01_2019\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+E:\BRAVO\dot net project for 2019\Bravo_01_01_2019\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.cache
+E:\BRAVO\dot net project for 2019\Bravo_01_01_2019\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.CoreCompileInputs.cache
+E:\BRAVO\dot net project for 2019\Bravo_01_01_2019\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+E:\BRAVO\dot net project for 2019\Bravo_01_01_2019\Edpcom\Edpcom\obj\Debug\Edpcom.pdb

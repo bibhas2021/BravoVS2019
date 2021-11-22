@@ -1,0 +1,9 @@
+E:\MidasGoldP\Version\Version\bin\Debug\Version.dll.config
+E:\MidasGoldP\Version\Version\bin\Debug\Version.dll
+E:\MidasGoldP\Version\Version\bin\Debug\Version.pdb
+E:\MidasGoldP\Version\Version\obj\Debug\ResolveAssemblyReference.cache
+E:\MidasGoldP\Version\Version\obj\Debug\Version.Properties.Resources.resources
+E:\MidasGoldP\Version\Version\obj\Debug\Version.version.resources
+E:\MidasGoldP\Version\Version\obj\Debug\Version.csproj.GenerateResource.Cache
+E:\MidasGoldP\Version\Version\obj\Debug\Version.dll
+E:\MidasGoldP\Version\Version\obj\Debug\Version.pdb

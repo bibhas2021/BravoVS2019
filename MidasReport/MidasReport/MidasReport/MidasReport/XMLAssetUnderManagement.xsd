@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="XMLAssetUnderManagement" targetNamespace="http://tempuri.org/XMLAssetUnderManagement.xsd" elementFormDefault="qualified" xmlns="http://tempuri.org/XMLAssetUnderManagement.xsd" xmlns:mstns="http://tempuri.org/XMLAssetUnderManagement.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="AssetUnderManagement">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="PFName" type="xs:string" />
+        <xs:element name="EQ" type="xs:string" />
+        <xs:element name="FI" type="xs:string" />
+        <xs:element name="Cash" type="xs:string" />
+        <xs:element name="Gold" type="xs:string" />
+        <xs:element name="RE" type="xs:string" />
+        <xs:element name="Other" type="xs:string" />
+        <xs:element name="Total" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  
+  <xs:element name="PerformanceHistory">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="PFName" type="xs:string" />
+        <xs:element name="StMKVal" type="xs:string" />
+        <xs:element name="AW" type="xs:string" />
+        <xs:element name="ID" type="xs:string" />
+        <xs:element name="EdMKVal" type="xs:string" />
+        <xs:element name="Return" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="SummaryRealizedGainsLosses">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="PFName" type="xs:string" />
+        <xs:element name="STG" type="xs:string" />
+        <xs:element name="STL" type="xs:string" />
+        <xs:element name="LTG" type="xs:string" />
+        <xs:element name="LTL" type="xs:string" />
+        <xs:element name="Total" type="xs:string" />        
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  
+</xs:schema>

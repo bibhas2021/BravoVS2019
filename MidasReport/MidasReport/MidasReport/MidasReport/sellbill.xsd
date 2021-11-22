@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<xs:schema id="sellbill" 
+                  targetNamespace="http://tempuri.org/sellbill.xsd"
+                  elementFormDefault="qualified"
+                  xmlns="http://tempuri.org/sellbill.xsd"
+                  xmlns:mstns="http://tempuri.org/sellbill.xsd"
+                  xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="sellbill">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="sl" type="xs:int" />
+        <xs:element name="Particular" type="xs:string" />
+        <xs:element name="Quentity" type="xs:string" />
+        <xs:element name="Rate" type="xs:float" />
+        <xs:element name="StdDis" type="xs:string" />
+        <xs:element name="ExtraDis" type="xs:string" />
+        <xs:element name="SpecialDis" type="xs:string" />
+        <xs:element name="Amount" type="xs:string" />
+        <xs:element name="units" type="xs:string" />
+        </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

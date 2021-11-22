@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Bill"
+    targetNamespace="http://tempuri.org/Bill.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/Bill.xsd"
+    xmlns:mstns="http://tempuri.org/Bill.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="Bill_Rpt">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="BILLNO" type="xs:string" />
+				<xs:element name="BILLDATE" type="xs:date" />
+				<xs:element name="Location_name" type="xs:string" />
+				<xs:element name="Designationname" type="xs:string" />
+				<xs:element name="Hour" type="xs:string" />
+				<xs:element name="MonthDays" type="xs:string" />
+				<xs:element name="Attendance" type="xs:string" />
+				<xs:element name="Rate" type="xs:double" />
+				<xs:element name="BILLAMT" type="xs:double" />
+				<xs:element name="monthly_Amt" type="xs:double" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	
+	
+</xs:schema>

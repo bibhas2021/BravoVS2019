@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<xs:schema id="XMLbillfomat" 
+                  targetNamespace="http://tempuri.org/XMLbillfomat.xsd"
+                  elementFormDefault="qualified"
+                  xmlns="http://tempuri.org/XMLbillfomat.xsd"
+                  xmlns:mstns="http://tempuri.org/XMLbillfomat.xsd"
+                  xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="tax1">
+    <xs:complexType>
+      <xs:sequence>
+
+        <xs:element name="sl" type="xs:string" />
+        <xs:element name="Particular" type="xs:string" />
+        <xs:element name="Quentity" type="xs:string" />
+        <xs:element name="Rate" type="xs:string" />
+        <xs:element name="StdDis" type="xs:string" />
+        <xs:element name="ExtraDis" type="xs:string" />
+        <xs:element name="SpecialDis" type="xs:string" />
+        <xs:element name="Amount" type="xs:string" />
+        <xs:element name="units" type="xs:string" />
+        <xs:element name="VatPar" type="xs:string" />
+        <xs:element name="Vatamt" type="xs:string" />
+        <xs:element name="alise" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="bill">
+    <xs:complexType>
+      <xs:sequence>
+
+        <xs:element name="Date" type="xs:string" />
+        <xs:element name="Sgroup1" type="xs:string" />
+        <xs:element name="Sgroup2" type="xs:string" />
+        <xs:element name="Sgroup3" type="xs:string" />
+        <xs:element name="Sgroup4" type="xs:string" />
+        <xs:element name="Sgroup5" type="xs:string" />
+        <xs:element name="Voucher" type="xs:string" />
+        <xs:element name="Rate" type="xs:string" />
+        <xs:element name="Amount" type="xs:string" />
+        <xs:element name="Ex1" type="xs:string" />
+        <xs:element name="Ex2" type="xs:string" />
+        <xs:element name="Ex3" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

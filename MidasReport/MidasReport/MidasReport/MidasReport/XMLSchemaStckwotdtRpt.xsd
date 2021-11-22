@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="XMLSchemaStckwotdtRpt" targetNamespace="http://tempuri.org/XMLSchemaStckwotdtRpt.xsd" elementFormDefault="qualified" xmlns="http://tempuri.org/XMLSchemaStckwotdtRpt.xsd" xmlns:mstns="http://tempuri.org/XMLSchemaStckwotdtRpt.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="element1">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Stck_CoName" type="xs:string" />
+        <xs:element name="Stck_Clss" type="xs:string" />
+        <xs:element name="Stck_Qty" type="xs:string" />
+        <xs:element name="Stck_Amt" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

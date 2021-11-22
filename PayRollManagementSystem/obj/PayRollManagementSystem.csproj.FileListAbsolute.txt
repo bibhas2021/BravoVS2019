@@ -1,0 +1,63 @@
+G:\NTSPL\23-06-2009\PayRoll Management System\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.exe
+G:\NTSPL\23-06-2009\PayRoll Management System\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.pdb
+G:\NTSPL\23-06-2009\PayRoll Management System\PayRollManagementSystem\bin\Debug\PayRollManagementSystem.exe
+G:\NTSPL\23-06-2009\PayRoll Management System\PayRollManagementSystem\bin\Debug\PayRollManagementSystem.pdb
+G:\NTSPL\23-06-2009\PayRoll Management System\PayRollManagementSystem\obj\Debug\ResolveAssemblyReference.cache
+G:\NTSPL\23-06-2009\PayRoll Management System\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.Designation_Master.resources
+G:\NTSPL\23-06-2009\PayRoll Management System\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.EmpJoining.resources
+G:\NTSPL\23-06-2009\PayRoll Management System\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.Employee_Attendance.resources
+G:\NTSPL\23-06-2009\PayRoll Management System\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.Employee_Salary_Structure.resources
+G:\NTSPL\23-06-2009\PayRoll Management System\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.Employee_Type.resources
+G:\NTSPL\23-06-2009\PayRoll Management System\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.EmployeeSalaryAlert.resources
+G:\NTSPL\23-06-2009\PayRoll Management System\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.Main.resources
+G:\NTSPL\23-06-2009\PayRoll Management System\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.Properties.Resources.resources
+G:\NTSPL\23-06-2009\PayRoll Management System\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.Salary_Head.resources
+G:\NTSPL\23-06-2009\PayRoll Management System\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.csproj.GenerateResource.Cache
+C:\School database\30-07-2009\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.exe
+C:\School database\30-07-2009\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.pdb
+C:\School database\30-07-2009\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\PayRollManagementSystem.exe
+C:\School database\30-07-2009\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\PayRollManagementSystem.pdb
+C:\School database\30-07-2009\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\School database\30-07-2009\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.ReportPaySlip.rpt
+C:\School database\30-07-2009\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.Config_LeaveDetails.resources
+C:\School database\30-07-2009\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.Config_RetirementDetails.resources
+C:\School database\30-07-2009\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.Config_SalaryStructure.resources
+C:\School database\30-07-2009\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.Designation_Master.resources
+C:\School database\30-07-2009\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.EmpJoining.resources
+C:\School database\30-07-2009\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.Employee_Attendance.resources
+C:\School database\30-07-2009\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.Employee_Salary_Structure.resources
+C:\School database\30-07-2009\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.EmployeeSalaryDetails.resources
+C:\School database\30-07-2009\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.Employee_Type.resources
+C:\School database\30-07-2009\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.EmployeeSalaryAlert.resources
+C:\School database\30-07-2009\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.LeaveEncashment.resources
+C:\School database\30-07-2009\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.Main.resources
+C:\School database\30-07-2009\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.Properties.Resources.resources
+C:\School database\30-07-2009\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.rptPaySlip.resources
+C:\School database\30-07-2009\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.Salary_Bill.resources
+C:\School database\30-07-2009\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.Salary_Head.resources
+C:\School database\30-07-2009\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.csproj.GenerateResource.Cache
+C:\School database\30-07-2009\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.reportSalaryBill.rpt
+C:\School database\31-07-2009\31-07-2009\31-07-2009\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.exe
+C:\School database\31-07-2009\31-07-2009\31-07-2009\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.pdb
+C:\School database\31-07-2009\31-07-2009\31-07-2009\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\PayRollManagementSystem.exe
+C:\School database\31-07-2009\31-07-2009\31-07-2009\PayRollManagementSystem\PayRollManagementSystem\bin\Debug\PayRollManagementSystem.pdb
+C:\School database\31-07-2009\31-07-2009\31-07-2009\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\School database\31-07-2009\31-07-2009\31-07-2009\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.ReportPaySlip.rpt
+C:\School database\31-07-2009\31-07-2009\31-07-2009\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.reportSalaryBill.rpt
+C:\School database\31-07-2009\31-07-2009\31-07-2009\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.Config_LeaveDetails.resources
+C:\School database\31-07-2009\31-07-2009\31-07-2009\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.Config_RetirementDetails.resources
+C:\School database\31-07-2009\31-07-2009\31-07-2009\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.Config_SalaryStructure.resources
+C:\School database\31-07-2009\31-07-2009\31-07-2009\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.Designation_Master.resources
+C:\School database\31-07-2009\31-07-2009\31-07-2009\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.EmpJoining.resources
+C:\School database\31-07-2009\31-07-2009\31-07-2009\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.Employee_Attendance.resources
+C:\School database\31-07-2009\31-07-2009\31-07-2009\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.Employee_Salary_Structure.resources
+C:\School database\31-07-2009\31-07-2009\31-07-2009\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.EmployeeSalaryDetails.resources
+C:\School database\31-07-2009\31-07-2009\31-07-2009\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.Employee_Type.resources
+C:\School database\31-07-2009\31-07-2009\31-07-2009\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.EmployeeSalaryAlert.resources
+C:\School database\31-07-2009\31-07-2009\31-07-2009\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.LeaveEncashment.resources
+C:\School database\31-07-2009\31-07-2009\31-07-2009\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.Main.resources
+C:\School database\31-07-2009\31-07-2009\31-07-2009\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.Properties.Resources.resources
+C:\School database\31-07-2009\31-07-2009\31-07-2009\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.rptPaySlip.resources
+C:\School database\31-07-2009\31-07-2009\31-07-2009\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.Salary_Bill.resources
+C:\School database\31-07-2009\31-07-2009\31-07-2009\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.Salary_Head.resources
+C:\School database\31-07-2009\31-07-2009\31-07-2009\PayRollManagementSystem\PayRollManagementSystem\obj\Debug\PayRollManagementSystem.csproj.GenerateResource.Cache

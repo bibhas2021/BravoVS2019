@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<xs:schema id="XMLjournal" 
+                  targetNamespace="http://tempuri.org/XMLjournal.xsd"
+                  elementFormDefault="qualified"
+                  xmlns="http://tempuri.org/XMLjournal.xsd"
+                  xmlns:mstns="http://tempuri.org/XMLjournal.xsd"
+                  xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="journal">
+    <xs:complexType>
+      <xs:sequence>
+
+        <xs:element name="Date" type="xs:string" />
+        <xs:element name="VoucherNo" type="xs:string" />
+        <xs:element name="Particulars" type="xs:string" />
+        <xs:element name="DebitAmt" type="xs:string" />
+        <xs:element name="CreditAmt" type="xs:string" />
+       
+
+
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

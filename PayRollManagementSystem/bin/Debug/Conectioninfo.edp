@@ -1,0 +1,120 @@
+[Conection]
+MachinName=DELL-PC
+*ISO-SERVER
+*FAIZZ-PC
+*MALAY_EDP
+*DELL-PC
+DataSourceExtention=\SQLEXPRESS
+PersistSecurityInfo=False
+TrustedConnection=True
+
+*DataBaseName=EDP_Payroll_Malay
+DataBaseName=EDP_Payroll_ALKF
+*DataBaseName=EDP_Payroll_Demo
+*DataBaseName=EDP_Payroll_ESPY
+*DataBaseName=EDP_Payroll_RBD
+ *DataBaseName=EDP_Payroll_FFS
+
+	*DataBaseName=EDP_Payroll_Gorkha
+	*		DataBaseName=EDP_Payroll_group3
+	*DataBaseName=EDP_Payroll_aone
+	*DataBaseName=EDP_PAYROLL_newgen
+*DataBaseName=EDP_Payroll
+*DataBaseName=EDP_Payroll_raks
+*DataBaseName=EDP_Payroll_totas
+*DataBaseName=EDP_Payroll_Lotus
+ 
+
+
+
+*DataBaseName=EDP_PAYROLL_MANAS
+
+*DataBaseName=EDP_Payroll_Sam
+*DataBaseName=EDP_Payroll_lion
+*DataBaseName=EDP_Payroll_Malay
+*DataBaseName=EDP_Payroll_KIndia
+*DataBaseName=EDP_Payroll_Bravo
+*DataBaseName=EDP_Payroll_NDS
+*DataBaseName=EDP_PAYROLL_KITFINE
+*DataBaseName=EDP_Payroll_NCR
+*DataBaseName=Edp_Payroll_Choice
+*DataBaseName=Edp_Payroll_climax
+*DataBaseName=EDP_Payroll_safeguard
+*DataBaseName=EDP_Payroll_30_12_19_4_30
+*DataBaseName=register
+*DataBaseName=EDP_Payroll_visalastha
+*DataBaseName=EDP_Payroll_ISO
+*DataBaseName=EDP_Payroll_choice
+*DataBaseName=EDP_Payroll_eagle
+*DataBaseName=EDP_Payroll_Bavani
+*DataBaseName=EDP_Payroll_Bhavani
+*DataBaseName=EDP_Payroll_lifecare
+*DataBaseName=EDP_Payroll_shakti
+*DataBaseName=EDP_Payroll_aasmi
+*DataBaseName=EDP_Payroll_Unique
+
+*DataBaseName=EDP_Payroll_test
+	
+	*DataBaseName=EDP_Payroll_test2
+
+	
+	*DataBaseName=EDP_PAYROLL_MANAS
+	*DataBaseName=EDP_Payroll_JMD
+	*	DataBaseName=EDP_Payroll_royal
+	*DataBaseName=EDP_Payroll_leaning
+*DataBaseName=EDP_Payroll_panther
+	*DataBaseName=EDP_Payroll_AUM
+	*DataBaseName=EDP_Payroll_Force1
+	*DataBaseName=EDP_Payroll_QSecurity
+	*DataBaseName=EDP_Payroll_Sirkar
+	*DataBaseName=EDP_Payroll_Q_Security
+    
+    *DataBaseName=Edp_Payroll_composit 
+    *    DataBaseName=EDP_Payroll_UHK
+    *DataBaseName=EDP_Payroll_Hanumant
+	
+	*DataBaseName=EDP_Payroll_totus
+	*DataBaseName=EDP_Payroll_Nirmal
+	*DataBaseName=EDP_Payroll_CC
+	*DataBaseName=EDP_Payroll_Elite
+	*	DataBaseName=EDP_Payroll_Simanchal
+UserID=edp
+PassWord=***
+NetworkLibary=
+IntergrateSecurity=True
+
+
+
+[Conection2]
+MachinName=103.195.185.254
+DataSourceExtention=
+PersistSecurityInfo=False
+TrustedConnection=False
+DataBaseName=byainn9v_EDP_Payroll_QSecurity
+UserID=edp
+PassWord=2477147Edp!
+NetworkLibary=
+IntergrateSecurity=True
+
+[Conection1]
+MachinName=DESKTOP-4M9Q65E
+DataSourceExtention=\SQLEXPRESS
+PersistSecurityInfo=False
+TrustedConnection=False
+DataBaseName=EDP_Payroll
+UserID=edp
+PassWord=***
+NetworkLibary=
+IntergrateSecurity=True
+
+
+[Conection1]
+MachinName=49.50.66.158
+DataSourceExtention=
+PersistSecurityInfo=False
+TrustedConnection=True
+NetworkLibary=
+IntergrateSecurity=TRUE
+DataBaseName=EDP_Payroll_NDS
+UserID=sa
+PassWord=@#$%69*>@WE1#@

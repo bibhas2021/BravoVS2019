@@ -1,0 +1,236 @@
+E:\Midas08.08.2016\MidasGoldP Project 2014 May 21\EDPComponent\bin\Debug\EDPComponent.dll.config
+E:\Midas08.08.2016\MidasGoldP Project 2014 May 21\EDPComponent\bin\Debug\EDPComponent.dll
+E:\Midas08.08.2016\MidasGoldP Project 2014 May 21\EDPComponent\bin\Debug\EDPComponent.pdb
+E:\Midas08.08.2016\MidasGoldP Project 2014 May 21\EDPComponent\bin\Debug\EDPMessageBox.dll
+E:\Midas08.08.2016\MidasGoldP Project 2014 May 21\EDPComponent\bin\Debug\Interop.Office.dll
+E:\Midas08.08.2016\MidasGoldP Project 2014 May 21\EDPComponent\bin\Debug\office.dll
+E:\Midas08.08.2016\MidasGoldP Project 2014 May 21\EDPComponent\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\Midas08.08.2016\MidasGoldP Project 2014 May 21\EDPComponent\bin\Debug\EDPMessageBox.pdb
+E:\Midas08.08.2016\MidasGoldP Project 2014 May 21\EDPComponent\bin\Debug\office.xml
+E:\Midas08.08.2016\MidasGoldP Project 2014 May 21\EDPComponent\obj\Debug\ResolveAssemblyReference.cache
+E:\Midas08.08.2016\MidasGoldP Project 2014 May 21\EDPComponent\obj\Debug\EDPComponent.ComboDialog.resources
+E:\Midas08.08.2016\MidasGoldP Project 2014 May 21\EDPComponent\obj\Debug\EDPComponent.DataGridViewEDP.resources
+E:\Midas08.08.2016\MidasGoldP Project 2014 May 21\EDPComponent\obj\Debug\EDPComponent.DateTimePickerEDP.resources
+E:\Midas08.08.2016\MidasGoldP Project 2014 May 21\EDPComponent\obj\Debug\EDPComponent.EdpDataExcelExport.resources
+E:\Midas08.08.2016\MidasGoldP Project 2014 May 21\EDPComponent\obj\Debug\EDPComponent.EDPDateTimePicker.resources
+E:\Midas08.08.2016\MidasGoldP Project 2014 May 21\EDPComponent\obj\Debug\EDPComponent.EDPPrintPreviewDialog.resources
+E:\Midas08.08.2016\MidasGoldP Project 2014 May 21\EDPComponent\obj\Debug\EDPComponent.FormBase.resources
+E:\Midas08.08.2016\MidasGoldP Project 2014 May 21\EDPComponent\obj\Debug\EDPComponent.Box.resources
+E:\Midas08.08.2016\MidasGoldP Project 2014 May 21\EDPComponent\obj\Debug\EDPComponent.FormBaseERP.resources
+E:\Midas08.08.2016\MidasGoldP Project 2014 May 21\EDPComponent\obj\Debug\EDPComponent.FormBaseMidium.resources
+E:\Midas08.08.2016\MidasGoldP Project 2014 May 21\EDPComponent\obj\Debug\EDPComponent.frmListAddRemove.resources
+E:\Midas08.08.2016\MidasGoldP Project 2014 May 21\EDPComponent\obj\Debug\EDPComponent.MyXPButton.resources
+E:\Midas08.08.2016\MidasGoldP Project 2014 May 21\EDPComponent\obj\Debug\EDPComponent.ProgressBar.resources
+E:\Midas08.08.2016\MidasGoldP Project 2014 May 21\EDPComponent\obj\Debug\EDPComponent.Properties.Resources.resources
+E:\Midas08.08.2016\MidasGoldP Project 2014 May 21\EDPComponent\obj\Debug\EDPComponent.SimpleTextReport.resources
+E:\Midas08.08.2016\MidasGoldP Project 2014 May 21\EDPComponent\obj\Debug\EDPComponent.VistaButton.resources
+E:\Midas08.08.2016\MidasGoldP Project 2014 May 21\EDPComponent\obj\Debug\EDPComponent.csproj.GenerateResource.Cache
+E:\Midas08.08.2016\MidasGoldP Project 2014 May 21\EDPComponent\obj\Debug\EDPComponent.dll
+E:\Midas08.08.2016\MidasGoldP Project 2014 May 21\EDPComponent\obj\Debug\EDPComponent.pdb
+E:\Binay\MidasGold Working Project\MidasGoldP Project 2014 May 21\EDPComponent\bin\Debug\EDPComponent.dll.config
+E:\Binay\MidasGold Working Project\MidasGoldP Project 2014 May 21\EDPComponent\bin\Debug\EDPComponent.dll
+E:\Binay\MidasGold Working Project\MidasGoldP Project 2014 May 21\EDPComponent\bin\Debug\EDPComponent.pdb
+E:\Binay\MidasGold Working Project\MidasGoldP Project 2014 May 21\EDPComponent\bin\Debug\EDPMessageBox.dll
+E:\Binay\MidasGold Working Project\MidasGoldP Project 2014 May 21\EDPComponent\bin\Debug\Interop.Office.dll
+E:\Binay\MidasGold Working Project\MidasGoldP Project 2014 May 21\EDPComponent\bin\Debug\office.dll
+E:\Binay\MidasGold Working Project\MidasGoldP Project 2014 May 21\EDPComponent\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\Binay\MidasGold Working Project\MidasGoldP Project 2014 May 21\EDPComponent\bin\Debug\EDPMessageBox.pdb
+E:\Binay\MidasGold Working Project\MidasGoldP Project 2014 May 21\EDPComponent\bin\Debug\office.xml
+E:\Binay\MidasGold Working Project\MidasGoldP Project 2014 May 21\EDPComponent\obj\Debug\ResolveAssemblyReference.cache
+E:\Binay\MidasGold Working Project\MidasGoldP Project 2014 May 21\EDPComponent\obj\Debug\EDPComponent.ComboDialog.resources
+E:\Binay\MidasGold Working Project\MidasGoldP Project 2014 May 21\EDPComponent\obj\Debug\EDPComponent.DataGridViewEDP.resources
+E:\Binay\MidasGold Working Project\MidasGoldP Project 2014 May 21\EDPComponent\obj\Debug\EDPComponent.DateTimePickerEDP.resources
+E:\Binay\MidasGold Working Project\MidasGoldP Project 2014 May 21\EDPComponent\obj\Debug\EDPComponent.EdpDataExcelExport.resources
+E:\Binay\MidasGold Working Project\MidasGoldP Project 2014 May 21\EDPComponent\obj\Debug\EDPComponent.EDPDateTimePicker.resources
+E:\Binay\MidasGold Working Project\MidasGoldP Project 2014 May 21\EDPComponent\obj\Debug\EDPComponent.EDPPrintPreviewDialog.resources
+E:\Binay\MidasGold Working Project\MidasGoldP Project 2014 May 21\EDPComponent\obj\Debug\EDPComponent.FormBase.resources
+E:\Binay\MidasGold Working Project\MidasGoldP Project 2014 May 21\EDPComponent\obj\Debug\EDPComponent.Box.resources
+E:\Binay\MidasGold Working Project\MidasGoldP Project 2014 May 21\EDPComponent\obj\Debug\EDPComponent.FormBaseERP.resources
+E:\Binay\MidasGold Working Project\MidasGoldP Project 2014 May 21\EDPComponent\obj\Debug\EDPComponent.FormBaseMidium.resources
+E:\Binay\MidasGold Working Project\MidasGoldP Project 2014 May 21\EDPComponent\obj\Debug\EDPComponent.frmListAddRemove.resources
+E:\Binay\MidasGold Working Project\MidasGoldP Project 2014 May 21\EDPComponent\obj\Debug\EDPComponent.MyXPButton.resources
+E:\Binay\MidasGold Working Project\MidasGoldP Project 2014 May 21\EDPComponent\obj\Debug\EDPComponent.ProgressBar.resources
+E:\Binay\MidasGold Working Project\MidasGoldP Project 2014 May 21\EDPComponent\obj\Debug\EDPComponent.Properties.Resources.resources
+E:\Binay\MidasGold Working Project\MidasGoldP Project 2014 May 21\EDPComponent\obj\Debug\EDPComponent.SimpleTextReport.resources
+E:\Binay\MidasGold Working Project\MidasGoldP Project 2014 May 21\EDPComponent\obj\Debug\EDPComponent.VistaButton.resources
+E:\Binay\MidasGold Working Project\MidasGoldP Project 2014 May 21\EDPComponent\obj\Debug\EDPComponent.csproj.GenerateResource.Cache
+E:\Binay\MidasGold Working Project\MidasGoldP Project 2014 May 21\EDPComponent\obj\Debug\EDPComponent.dll
+E:\Binay\MidasGold Working Project\MidasGoldP Project 2014 May 21\EDPComponent\obj\Debug\EDPComponent.pdb
+E:\midas latest proj\MidasGoldP Project 2014 May 21\EDPComponent\bin\Debug\EDPComponent.dll.config
+E:\midas latest proj\MidasGoldP Project 2014 May 21\EDPComponent\bin\Debug\EDPComponent.dll
+E:\midas latest proj\MidasGoldP Project 2014 May 21\EDPComponent\bin\Debug\EDPComponent.pdb
+E:\midas latest proj\MidasGoldP Project 2014 May 21\EDPComponent\bin\Debug\EDPMessageBox.dll
+E:\midas latest proj\MidasGoldP Project 2014 May 21\EDPComponent\bin\Debug\Interop.Office.dll
+E:\midas latest proj\MidasGoldP Project 2014 May 21\EDPComponent\bin\Debug\office.dll
+E:\midas latest proj\MidasGoldP Project 2014 May 21\EDPComponent\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\midas latest proj\MidasGoldP Project 2014 May 21\EDPComponent\bin\Debug\EDPMessageBox.pdb
+E:\midas latest proj\MidasGoldP Project 2014 May 21\EDPComponent\bin\Debug\office.xml
+E:\midas latest proj\MidasGoldP Project 2014 May 21\EDPComponent\obj\Debug\ResolveAssemblyReference.cache
+E:\midas latest proj\MidasGoldP Project 2014 May 21\EDPComponent\obj\Debug\EDPComponent.ComboDialog.resources
+E:\midas latest proj\MidasGoldP Project 2014 May 21\EDPComponent\obj\Debug\EDPComponent.DataGridViewEDP.resources
+E:\midas latest proj\MidasGoldP Project 2014 May 21\EDPComponent\obj\Debug\EDPComponent.DateTimePickerEDP.resources
+E:\midas latest proj\MidasGoldP Project 2014 May 21\EDPComponent\obj\Debug\EDPComponent.EdpDataExcelExport.resources
+E:\midas latest proj\MidasGoldP Project 2014 May 21\EDPComponent\obj\Debug\EDPComponent.EDPDateTimePicker.resources
+E:\midas latest proj\MidasGoldP Project 2014 May 21\EDPComponent\obj\Debug\EDPComponent.EDPPrintPreviewDialog.resources
+E:\midas latest proj\MidasGoldP Project 2014 May 21\EDPComponent\obj\Debug\EDPComponent.FormBase.resources
+E:\midas latest proj\MidasGoldP Project 2014 May 21\EDPComponent\obj\Debug\EDPComponent.Box.resources
+E:\midas latest proj\MidasGoldP Project 2014 May 21\EDPComponent\obj\Debug\EDPComponent.FormBaseERP.resources
+E:\midas latest proj\MidasGoldP Project 2014 May 21\EDPComponent\obj\Debug\EDPComponent.FormBaseMidium.resources
+E:\midas latest proj\MidasGoldP Project 2014 May 21\EDPComponent\obj\Debug\EDPComponent.frmListAddRemove.resources
+E:\midas latest proj\MidasGoldP Project 2014 May 21\EDPComponent\obj\Debug\EDPComponent.MyXPButton.resources
+E:\midas latest proj\MidasGoldP Project 2014 May 21\EDPComponent\obj\Debug\EDPComponent.ProgressBar.resources
+E:\midas latest proj\MidasGoldP Project 2014 May 21\EDPComponent\obj\Debug\EDPComponent.Properties.Resources.resources
+E:\midas latest proj\MidasGoldP Project 2014 May 21\EDPComponent\obj\Debug\EDPComponent.SimpleTextReport.resources
+E:\midas latest proj\MidasGoldP Project 2014 May 21\EDPComponent\obj\Debug\EDPComponent.VistaButton.resources
+E:\midas latest proj\MidasGoldP Project 2014 May 21\EDPComponent\obj\Debug\EDPComponent.csproj.GenerateResource.Cache
+E:\midas latest proj\MidasGoldP Project 2014 May 21\EDPComponent\obj\Debug\EDPComponent.dll
+E:\midas latest proj\MidasGoldP Project 2014 May 21\EDPComponent\obj\Debug\EDPComponent.pdb
+D:\MidasGoldP Project 19 Sept 2016\EDPComponent\obj\Debug\ResolveAssemblyReference.cache
+D:\MidasGoldP Project 19 Sept 2016\EDPComponent\obj\Debug\EDPComponent.ComboDialog.resources
+D:\MidasGoldP Project 19 Sept 2016\EDPComponent\obj\Debug\EDPComponent.DataGridViewEDP.resources
+D:\MidasGoldP Project 19 Sept 2016\EDPComponent\obj\Debug\EDPComponent.DateTimePickerEDP.resources
+D:\MidasGoldP Project 19 Sept 2016\EDPComponent\obj\Debug\EDPComponent.EdpDataExcelExport.resources
+D:\MidasGoldP Project 19 Sept 2016\EDPComponent\obj\Debug\EDPComponent.EDPDateTimePicker.resources
+D:\MidasGoldP Project 19 Sept 2016\EDPComponent\obj\Debug\EDPComponent.EDPPrintPreviewDialog.resources
+D:\MidasGoldP Project 19 Sept 2016\EDPComponent\obj\Debug\EDPComponent.FormBase.resources
+D:\MidasGoldP Project 19 Sept 2016\EDPComponent\obj\Debug\EDPComponent.Box.resources
+D:\MidasGoldP Project 19 Sept 2016\EDPComponent\obj\Debug\EDPComponent.FormBaseERP.resources
+D:\MidasGoldP Project 19 Sept 2016\EDPComponent\obj\Debug\EDPComponent.FormBaseMidium.resources
+D:\MidasGoldP Project 19 Sept 2016\EDPComponent\obj\Debug\EDPComponent.frmListAddRemove.resources
+D:\MidasGoldP Project 19 Sept 2016\EDPComponent\obj\Debug\EDPComponent.MyXPButton.resources
+D:\MidasGoldP Project 19 Sept 2016\EDPComponent\obj\Debug\EDPComponent.ProgressBar.resources
+D:\MidasGoldP Project 19 Sept 2016\EDPComponent\obj\Debug\EDPComponent.Properties.Resources.resources
+D:\MidasGoldP Project 19 Sept 2016\EDPComponent\obj\Debug\EDPComponent.SimpleTextReport.resources
+D:\MidasGoldP Project 19 Sept 2016\EDPComponent\obj\Debug\EDPComponent.VistaButton.resources
+D:\MidasGoldP Project 19 Sept 2016\EDPComponent\obj\Debug\EDPComponent.csproj.GenerateResource.Cache
+D:\MidasGoldP Project 19 Sept 2016\EDPComponent\obj\Debug\EDPComponent.dll
+D:\MidasGoldP Project 19 Sept 2016\EDPComponent\bin\Debug\EDPComponent.dll.config
+D:\MidasGoldP Project 19 Sept 2016\EDPComponent\bin\Debug\EDPComponent.dll
+D:\MidasGoldP Project 19 Sept 2016\EDPComponent\bin\Debug\EDPComponent.pdb
+D:\MidasGoldP Project 19 Sept 2016\EDPComponent\bin\Debug\EDPMessageBox.dll
+D:\MidasGoldP Project 19 Sept 2016\EDPComponent\bin\Debug\Interop.Office.dll
+D:\MidasGoldP Project 19 Sept 2016\EDPComponent\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\MidasGoldP Project 19 Sept 2016\EDPComponent\bin\Debug\office.dll
+D:\MidasGoldP Project 19 Sept 2016\EDPComponent\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\MidasGoldP Project 19 Sept 2016\EDPComponent\bin\Debug\EDPMessageBox.pdb
+D:\MidasGoldP Project 19 Sept 2016\EDPComponent\obj\Debug\EDPComponent.pdb
+E:\Binay\MidasGold Working Project\MidasGoldP Project 27 Sept 2016\EDPComponent\bin\Debug\EDPComponent.dll.config
+E:\Binay\MidasGold Working Project\MidasGoldP Project 27 Sept 2016\EDPComponent\bin\Debug\EDPComponent.dll
+E:\Binay\MidasGold Working Project\MidasGoldP Project 27 Sept 2016\EDPComponent\bin\Debug\EDPComponent.pdb
+E:\Binay\MidasGold Working Project\MidasGoldP Project 27 Sept 2016\EDPComponent\bin\Debug\Edpcom.dll
+E:\Binay\MidasGold Working Project\MidasGoldP Project 27 Sept 2016\EDPComponent\bin\Debug\EDPMessageBox.dll
+E:\Binay\MidasGold Working Project\MidasGoldP Project 27 Sept 2016\EDPComponent\bin\Debug\Interop.Office.dll
+E:\Binay\MidasGold Working Project\MidasGoldP Project 27 Sept 2016\EDPComponent\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\Binay\MidasGold Working Project\MidasGoldP Project 27 Sept 2016\EDPComponent\bin\Debug\office.dll
+E:\Binay\MidasGold Working Project\MidasGoldP Project 27 Sept 2016\EDPComponent\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\Binay\MidasGold Working Project\MidasGoldP Project 27 Sept 2016\EDPComponent\bin\Debug\Edpcom.pdb
+E:\Binay\MidasGold Working Project\MidasGoldP Project 27 Sept 2016\EDPComponent\bin\Debug\EDPMessageBox.pdb
+E:\Binay\MidasGold Working Project\MidasGoldP Project 27 Sept 2016\EDPComponent\obj\Debug\ResolveAssemblyReference.cache
+E:\Binay\MidasGold Working Project\MidasGoldP Project 27 Sept 2016\EDPComponent\obj\Debug\EDPComponent.ComboDialog.resources
+E:\Binay\MidasGold Working Project\MidasGoldP Project 27 Sept 2016\EDPComponent\obj\Debug\EDPComponent.DataGridViewEDP.resources
+E:\Binay\MidasGold Working Project\MidasGoldP Project 27 Sept 2016\EDPComponent\obj\Debug\EDPComponent.DateTimePickerEDP.resources
+E:\Binay\MidasGold Working Project\MidasGoldP Project 27 Sept 2016\EDPComponent\obj\Debug\EDPComponent.EdpDataExcelExport.resources
+E:\Binay\MidasGold Working Project\MidasGoldP Project 27 Sept 2016\EDPComponent\obj\Debug\EDPComponent.EDPDateTimePicker.resources
+E:\Binay\MidasGold Working Project\MidasGoldP Project 27 Sept 2016\EDPComponent\obj\Debug\EDPComponent.EDPPrintPreviewDialog.resources
+E:\Binay\MidasGold Working Project\MidasGoldP Project 27 Sept 2016\EDPComponent\obj\Debug\EDPComponent.FormBase.resources
+E:\Binay\MidasGold Working Project\MidasGoldP Project 27 Sept 2016\EDPComponent\obj\Debug\EDPComponent.Box.resources
+E:\Binay\MidasGold Working Project\MidasGoldP Project 27 Sept 2016\EDPComponent\obj\Debug\EDPComponent.FormBaseERP.resources
+E:\Binay\MidasGold Working Project\MidasGoldP Project 27 Sept 2016\EDPComponent\obj\Debug\EDPComponent.FormBaseMidium.resources
+E:\Binay\MidasGold Working Project\MidasGoldP Project 27 Sept 2016\EDPComponent\obj\Debug\EDPComponent.frmListAddRemove.resources
+E:\Binay\MidasGold Working Project\MidasGoldP Project 27 Sept 2016\EDPComponent\obj\Debug\EDPComponent.MyXPButton.resources
+E:\Binay\MidasGold Working Project\MidasGoldP Project 27 Sept 2016\EDPComponent\obj\Debug\EDPComponent.ProgressBar.resources
+E:\Binay\MidasGold Working Project\MidasGoldP Project 27 Sept 2016\EDPComponent\obj\Debug\EDPComponent.Properties.Resources.resources
+E:\Binay\MidasGold Working Project\MidasGoldP Project 27 Sept 2016\EDPComponent\obj\Debug\EDPComponent.SimpleTextReport.resources
+E:\Binay\MidasGold Working Project\MidasGoldP Project 27 Sept 2016\EDPComponent\obj\Debug\EDPComponent.VistaButton.resources
+E:\Binay\MidasGold Working Project\MidasGoldP Project 27 Sept 2016\EDPComponent\obj\Debug\EDPComponent.csproj.GenerateResource.Cache
+E:\Binay\MidasGold Working Project\MidasGoldP Project 27 Sept 2016\EDPComponent\obj\Debug\EDPComponent.dll
+E:\Binay\MidasGold Working Project\MidasGoldP Project 27 Sept 2016\EDPComponent\obj\Debug\EDPComponent.pdb
+E:\edp projects\Midas_04_05_2017\MidasGoldP Project 27 Sept 2016\EDPComponent\bin\Debug\EDPComponent.dll.config
+E:\edp projects\Midas_04_05_2017\MidasGoldP Project 27 Sept 2016\EDPComponent\bin\Debug\EDPComponent.dll
+E:\edp projects\Midas_04_05_2017\MidasGoldP Project 27 Sept 2016\EDPComponent\bin\Debug\EDPComponent.pdb
+E:\edp projects\Midas_04_05_2017\MidasGoldP Project 27 Sept 2016\EDPComponent\bin\Debug\Edpcom.dll
+E:\edp projects\Midas_04_05_2017\MidasGoldP Project 27 Sept 2016\EDPComponent\bin\Debug\EDPMessageBox.dll
+E:\edp projects\Midas_04_05_2017\MidasGoldP Project 27 Sept 2016\EDPComponent\bin\Debug\Interop.Office.dll
+E:\edp projects\Midas_04_05_2017\MidasGoldP Project 27 Sept 2016\EDPComponent\bin\Debug\Edpcom.pdb
+E:\edp projects\Midas_04_05_2017\MidasGoldP Project 27 Sept 2016\EDPComponent\bin\Debug\EDPMessageBox.pdb
+E:\edp projects\Midas_04_05_2017\MidasGoldP Project 27 Sept 2016\EDPComponent\obj\Debug\ResolveAssemblyReference.cache
+E:\edp projects\Midas_04_05_2017\MidasGoldP Project 27 Sept 2016\EDPComponent\obj\Debug\EDPComponent.ComboDialog.resources
+E:\edp projects\Midas_04_05_2017\MidasGoldP Project 27 Sept 2016\EDPComponent\obj\Debug\EDPComponent.DataGridViewEDP.resources
+E:\edp projects\Midas_04_05_2017\MidasGoldP Project 27 Sept 2016\EDPComponent\obj\Debug\EDPComponent.DateTimePickerEDP.resources
+E:\edp projects\Midas_04_05_2017\MidasGoldP Project 27 Sept 2016\EDPComponent\obj\Debug\EDPComponent.EdpDataExcelExport.resources
+E:\edp projects\Midas_04_05_2017\MidasGoldP Project 27 Sept 2016\EDPComponent\obj\Debug\EDPComponent.EDPDateTimePicker.resources
+E:\edp projects\Midas_04_05_2017\MidasGoldP Project 27 Sept 2016\EDPComponent\obj\Debug\EDPComponent.EDPPrintPreviewDialog.resources
+E:\edp projects\Midas_04_05_2017\MidasGoldP Project 27 Sept 2016\EDPComponent\obj\Debug\EDPComponent.FormBase.resources
+E:\edp projects\Midas_04_05_2017\MidasGoldP Project 27 Sept 2016\EDPComponent\obj\Debug\EDPComponent.Box.resources
+E:\edp projects\Midas_04_05_2017\MidasGoldP Project 27 Sept 2016\EDPComponent\obj\Debug\EDPComponent.FormBaseERP.resources
+E:\edp projects\Midas_04_05_2017\MidasGoldP Project 27 Sept 2016\EDPComponent\obj\Debug\EDPComponent.FormBaseMidium.resources
+E:\edp projects\Midas_04_05_2017\MidasGoldP Project 27 Sept 2016\EDPComponent\obj\Debug\EDPComponent.frmListAddRemove.resources
+E:\edp projects\Midas_04_05_2017\MidasGoldP Project 27 Sept 2016\EDPComponent\obj\Debug\EDPComponent.MyXPButton.resources
+E:\edp projects\Midas_04_05_2017\MidasGoldP Project 27 Sept 2016\EDPComponent\obj\Debug\EDPComponent.ProgressBar.resources
+E:\edp projects\Midas_04_05_2017\MidasGoldP Project 27 Sept 2016\EDPComponent\obj\Debug\EDPComponent.Properties.Resources.resources
+E:\edp projects\Midas_04_05_2017\MidasGoldP Project 27 Sept 2016\EDPComponent\obj\Debug\EDPComponent.SimpleTextReport.resources
+E:\edp projects\Midas_04_05_2017\MidasGoldP Project 27 Sept 2016\EDPComponent\obj\Debug\EDPComponent.VistaButton.resources
+E:\edp projects\Midas_04_05_2017\MidasGoldP Project 27 Sept 2016\EDPComponent\obj\Debug\EDPComponent.csproj.GenerateResource.Cache
+E:\edp projects\Midas_04_05_2017\MidasGoldP Project 27 Sept 2016\EDPComponent\obj\Debug\EDPComponent.dll
+E:\edp projects\Midas_04_05_2017\MidasGoldP Project 27 Sept 2016\EDPComponent\obj\Debug\EDPComponent.pdb
+E:\actual project\Bravo_09_04_2018\EDPComponent\bin\Debug\EDPComponent.dll.config
+E:\actual project\Bravo_09_04_2018\EDPComponent\bin\Debug\EDPComponent.dll
+E:\actual project\Bravo_09_04_2018\EDPComponent\bin\Debug\EDPComponent.pdb
+E:\actual project\Bravo_09_04_2018\EDPComponent\bin\Debug\EDPMessageBox.dll
+E:\actual project\Bravo_09_04_2018\EDPComponent\bin\Debug\Edpcom.pdb
+E:\actual project\Bravo_09_04_2018\EDPComponent\bin\Debug\EDPMessageBox.pdb
+E:\actual project\Bravo_09_04_2018\EDPComponent\obj\Debug\ResolveAssemblyReference.cache
+E:\actual project\Bravo_09_04_2018\EDPComponent\obj\Debug\EDPComponent.ComboDialog.resources
+E:\actual project\Bravo_09_04_2018\EDPComponent\obj\Debug\EDPComponent.DataGridViewEDP.resources
+E:\actual project\Bravo_09_04_2018\EDPComponent\obj\Debug\EDPComponent.DateTimePickerEDP.resources
+E:\actual project\Bravo_09_04_2018\EDPComponent\obj\Debug\EDPComponent.EdpDataExcelExport.resources
+E:\actual project\Bravo_09_04_2018\EDPComponent\obj\Debug\EDPComponent.EDPDateTimePicker.resources
+E:\actual project\Bravo_09_04_2018\EDPComponent\obj\Debug\EDPComponent.EDPPrintPreviewDialog.resources
+E:\actual project\Bravo_09_04_2018\EDPComponent\obj\Debug\EDPComponent.FormBase.resources
+E:\actual project\Bravo_09_04_2018\EDPComponent\obj\Debug\EDPComponent.Box.resources
+E:\actual project\Bravo_09_04_2018\EDPComponent\obj\Debug\EDPComponent.FormBaseERP.resources
+E:\actual project\Bravo_09_04_2018\EDPComponent\obj\Debug\EDPComponent.FormBaseMidium.resources
+E:\actual project\Bravo_09_04_2018\EDPComponent\obj\Debug\EDPComponent.frmListAddRemove.resources
+E:\actual project\Bravo_09_04_2018\EDPComponent\obj\Debug\EDPComponent.MyXPButton.resources
+E:\actual project\Bravo_09_04_2018\EDPComponent\obj\Debug\EDPComponent.ProgressBar.resources
+E:\actual project\Bravo_09_04_2018\EDPComponent\obj\Debug\EDPComponent.Properties.Resources.resources
+E:\actual project\Bravo_09_04_2018\EDPComponent\obj\Debug\EDPComponent.SimpleTextReport.resources
+E:\actual project\Bravo_09_04_2018\EDPComponent\obj\Debug\EDPComponent.VistaButton.resources
+E:\actual project\Bravo_09_04_2018\EDPComponent\obj\Debug\EDPComponent.csproj.GenerateResource.Cache
+E:\actual project\Bravo_09_04_2018\EDPComponent\obj\Debug\EDPComponent.dll
+E:\actual project\Bravo_09_04_2018\EDPComponent\obj\Debug\EDPComponent.pdb
+E:\latest works 2019\Bravo Project 01_01_2019\Bravo_01_01_2019\EDPComponent\bin\Debug\EDPComponent.dll.config
+E:\latest works 2019\Bravo Project 01_01_2019\Bravo_01_01_2019\EDPComponent\bin\Debug\EDPComponent.dll
+E:\latest works 2019\Bravo Project 01_01_2019\Bravo_01_01_2019\EDPComponent\bin\Debug\EDPComponent.pdb
+E:\latest works 2019\Bravo Project 01_01_2019\Bravo_01_01_2019\EDPComponent\bin\Debug\EDPMessageBox.dll
+E:\latest works 2019\Bravo Project 01_01_2019\Bravo_01_01_2019\EDPComponent\bin\Debug\EDPMessageBox.pdb
+E:\latest works 2019\Bravo Project 01_01_2019\Bravo_01_01_2019\EDPComponent\obj\Debug\ResolveAssemblyReference.cache
+E:\latest works 2019\Bravo Project 01_01_2019\Bravo_01_01_2019\EDPComponent\obj\Debug\EDPComponent.ComboDialog.resources
+E:\latest works 2019\Bravo Project 01_01_2019\Bravo_01_01_2019\EDPComponent\obj\Debug\EDPComponent.CustomGrid.resources
+E:\latest works 2019\Bravo Project 01_01_2019\Bravo_01_01_2019\EDPComponent\obj\Debug\EDPComponent.DataGridViewEDP.resources
+E:\latest works 2019\Bravo Project 01_01_2019\Bravo_01_01_2019\EDPComponent\obj\Debug\EDPComponent.DateTimePickerEDP.resources
+E:\latest works 2019\Bravo Project 01_01_2019\Bravo_01_01_2019\EDPComponent\obj\Debug\EDPComponent.EdpDataExcelExport.resources
+E:\latest works 2019\Bravo Project 01_01_2019\Bravo_01_01_2019\EDPComponent\obj\Debug\EDPComponent.EDPDateTimePicker.resources
+E:\latest works 2019\Bravo Project 01_01_2019\Bravo_01_01_2019\EDPComponent\obj\Debug\EDPComponent.EDPPrintPreviewDialog.resources
+E:\latest works 2019\Bravo Project 01_01_2019\Bravo_01_01_2019\EDPComponent\obj\Debug\EDPComponent.FormBase.resources
+E:\latest works 2019\Bravo Project 01_01_2019\Bravo_01_01_2019\EDPComponent\obj\Debug\EDPComponent.Box.resources
+E:\latest works 2019\Bravo Project 01_01_2019\Bravo_01_01_2019\EDPComponent\obj\Debug\EDPComponent.FormBaseERP.resources
+E:\latest works 2019\Bravo Project 01_01_2019\Bravo_01_01_2019\EDPComponent\obj\Debug\EDPComponent.FormBaseLarge.resources
+E:\latest works 2019\Bravo Project 01_01_2019\Bravo_01_01_2019\EDPComponent\obj\Debug\EDPComponent.FormBaseLarge1.resources
+E:\latest works 2019\Bravo Project 01_01_2019\Bravo_01_01_2019\EDPComponent\obj\Debug\EDPComponent.FormBaseMain.resources
+E:\latest works 2019\Bravo Project 01_01_2019\Bravo_01_01_2019\EDPComponent\obj\Debug\EDPComponent.FormBaseMidium.resources
+E:\latest works 2019\Bravo Project 01_01_2019\Bravo_01_01_2019\EDPComponent\obj\Debug\EDPComponent.FormBaseQryMidium.resources
+E:\latest works 2019\Bravo Project 01_01_2019\Bravo_01_01_2019\EDPComponent\obj\Debug\EDPComponent.FormBaseQueryLarge.resources
+E:\latest works 2019\Bravo Project 01_01_2019\Bravo_01_01_2019\EDPComponent\obj\Debug\EDPComponent.FormBaseQuerySmall.resources
+E:\latest works 2019\Bravo Project 01_01_2019\Bravo_01_01_2019\EDPComponent\obj\Debug\EDPComponent.FormBaseRptMidium.resources
+E:\latest works 2019\Bravo Project 01_01_2019\Bravo_01_01_2019\EDPComponent\obj\Debug\EDPComponent.FormBaseRptSmall.resources
+E:\latest works 2019\Bravo Project 01_01_2019\Bravo_01_01_2019\EDPComponent\obj\Debug\EDPComponent.FormBaseSmall.resources
+E:\latest works 2019\Bravo Project 01_01_2019\Bravo_01_01_2019\EDPComponent\obj\Debug\EDPComponent.frmListAddRemove.resources
+E:\latest works 2019\Bravo Project 01_01_2019\Bravo_01_01_2019\EDPComponent\obj\Debug\EDPComponent.MyXPButton.resources
+E:\latest works 2019\Bravo Project 01_01_2019\Bravo_01_01_2019\EDPComponent\obj\Debug\EDPComponent.ProgressBar.resources
+E:\latest works 2019\Bravo Project 01_01_2019\Bravo_01_01_2019\EDPComponent\obj\Debug\EDPComponent.Properties.Resources.resources
+E:\latest works 2019\Bravo Project 01_01_2019\Bravo_01_01_2019\EDPComponent\obj\Debug\EDPComponent.SimpleTextReport.resources
+E:\latest works 2019\Bravo Project 01_01_2019\Bravo_01_01_2019\EDPComponent\obj\Debug\EDPComponent.VistaButton.resources
+E:\latest works 2019\Bravo Project 01_01_2019\Bravo_01_01_2019\EDPComponent\obj\Debug\EDPComponent.csproj.GenerateResource.Cache
+E:\latest works 2019\Bravo Project 01_01_2019\Bravo_01_01_2019\EDPComponent\obj\Debug\EDPComponent.dll
+E:\latest works 2019\Bravo Project 01_01_2019\Bravo_01_01_2019\EDPComponent\obj\Debug\EDPComponent.pdb

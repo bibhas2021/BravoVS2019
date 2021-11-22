@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<xs:schema id="BalancesheetTshap" 
+                  targetNamespace="http://tempuri.org/BalancesheetTshap.xsd"
+                  elementFormDefault="qualified"
+                  xmlns="http://tempuri.org/BalancesheetTshap.xsd"
+                  xmlns:mstns="http://tempuri.org/BalancesheetTshap.xsd"
+                  xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <xs:element name="Tshape">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Liabilities" type="xs:string" />
+        <xs:element name="Amount_ld" type="xs:string" />
+        <xs:element name="Amount_dr" type="xs:string" />
+        <xs:element name="Assets" type="xs:string" />
+        <xs:element name="Amount_lc" type="xs:string" />
+        <xs:element name="Amount_cr" type="xs:string" />
+        <xs:element name="MainGroupD" type="xs:string"/>
+        <xs:element name="MainGroupC" type="xs:string"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

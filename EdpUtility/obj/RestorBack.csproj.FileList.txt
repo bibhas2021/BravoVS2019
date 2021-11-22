@@ -1,0 +1,9 @@
+bin\Debug\RestorBack.exe
+bin\Debug\RestorBack.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\RestorBack.frmRestrBack.resources
+obj\Debug\RestorBack.Properties.Resources.resources
+obj\Debug\RestorBack.csproj.GenerateResource.Cache
+obj\Debug\RestorBack.exe
+obj\Debug\RestorBack.pdb
+obj\Debug\RestorBack.Form1.resources

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<xs:schema id="XMLINTENT" 
+                  targetNamespace="http://tempuri.org/XMLINTENT.xsd"
+                  elementFormDefault="qualified"
+                  xmlns="http://tempuri.org/XMLINTENT.xsd"
+                  xmlns:mstns="http://tempuri.org/XMLINTENT.xsd"
+                  xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+<xs:element name="INTENT">
+  <xs:complexType>
+    <xs:sequence>
+      <xs:element name="sl" type="xs:string" />
+      <xs:element name="itemcode" type="xs:string" />
+      <xs:element name="Description" type="xs:string" />
+      <xs:element name="Unit" type="xs:string" />
+      <xs:element name="quantity" type="xs:string" />                     
+      <xs:element name="rate" type="xs:string" />
+      <xs:element name="Amount" type="xs:string" />
+      <xs:element name="Delivrydate" type="xs:string" />
+      <xs:element name="Stockavlbl" type="xs:string" />
+      <xs:element name="Leadtime" type="xs:string" />
+      <xs:element name="supplier" type="xs:string" />                                    
+      <xs:element name="supplydate" type="xs:string" />
+      <xs:element name="srate" type="xs:string" />
+       <xs:element name="Extra1" type="xs:string" />
+       <xs:element name="Extra2" type="xs:string" />
+       <xs:element name="Extra3" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  </xs:element>
+</xs:schema>
+

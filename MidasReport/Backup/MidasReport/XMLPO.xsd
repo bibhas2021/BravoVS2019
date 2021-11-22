@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="XMLPO" targetNamespace="http://tempuri.org/XMLPO.xsd" elementFormDefault="qualified" xmlns="http://tempuri.org/XMLPO.xsd" xmlns:mstns="http://tempuri.org/XMLPO.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="POELEMENT">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="sl" type="xs:string" />
+        <xs:element name="itemcode" type="xs:string" />
+        <xs:element name="Description" type="xs:string" />
+        <xs:element name="Unit" type="xs:string" />
+        <xs:element name="quantity" type="xs:string" />
+        <xs:element name="rate" type="xs:string" />
+        <xs:element name="Amount" type="xs:string" />
+        <xs:element name="Extra1" type="xs:string" />
+        <xs:element name="Extra2" type="xs:string" />
+        <xs:element name="Extra3" type="xs:string" />
+        <xs:element name="Discount" type="xs:string" />
+        <xs:element name="DisPer" type="xs:string" />
+        <xs:element name="Vatper" type="xs:string" />
+        <xs:element name="Extra4" type="xs:string" />
+        <xs:element name="Extra5" type="xs:string" />
+        <xs:element name="Extra6" type="xs:string" />
+        <xs:element name="Extra7" type="xs:string" />
+        <xs:element name="Extra8" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="GSTSTATEMENT" targetNamespace="http://tempuri.org/GSTSTATEMENT.xsd" xmlns:mstns="http://tempuri.org/GSTSTATEMENT.xsd" xmlns="http://tempuri.org/GSTSTATEMENT.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="GSTSTATEMENT" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="GSTSTATEMENT" msprop:Generator_DataSetName="GSTSTATEMENT" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="tblGST" msprop:Generator_UserTableName="tblGST" msprop:Generator_RowDeletedName="tblGSTRowDeleted" msprop:Generator_RowChangedName="tblGSTRowChanged" msprop:Generator_RowClassName="tblGSTRow" msprop:Generator_RowChangingName="tblGSTRowChanging" msprop:Generator_RowEvArgName="tblGSTRowChangeEvent" msprop:Generator_RowEvHandlerName="tblGSTRowChangeEventHandler" msprop:Generator_TableClassName="tblGSTDataTable" msprop:Generator_TableVarName="tabletblGST" msprop:Generator_RowDeletingName="tblGSTRowDeleting" msprop:Generator_TablePropName="tblGST">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="BillDate" msprop:Generator_UserColumnName="BillDate" msprop:Generator_ColumnVarNameInTable="columnBillDate" msprop:Generator_ColumnPropNameInRow="BillDate" msprop:Generator_ColumnPropNameInTable="BillDateColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="BillNo" msprop:Generator_UserColumnName="BillNo" msprop:Generator_ColumnVarNameInTable="columnBillNo" msprop:Generator_ColumnPropNameInRow="BillNo" msprop:Generator_ColumnPropNameInTable="BillNoColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="CGST" msprop:Generator_UserColumnName="CGST" msprop:Generator_ColumnVarNameInTable="columnCGST" msprop:Generator_ColumnPropNameInRow="CGST" msprop:Generator_ColumnPropNameInTable="CGSTColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="SGST" msprop:Generator_UserColumnName="SGST" msprop:Generator_ColumnVarNameInTable="columnSGST" msprop:Generator_ColumnPropNameInRow="SGST" msprop:Generator_ColumnPropNameInTable="SGSTColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="IGST" msprop:Generator_UserColumnName="IGST" msprop:Generator_ColumnVarNameInTable="columnIGST" msprop:Generator_ColumnPropNameInRow="IGST" msprop:Generator_ColumnPropNameInTable="IGSTColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="GST" msprop:Generator_UserColumnName="GST" msprop:Generator_ColumnVarNameInTable="columnGST" msprop:Generator_ColumnPropNameInRow="GST" msprop:Generator_ColumnPropNameInTable="GSTColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

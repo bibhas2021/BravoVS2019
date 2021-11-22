@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<xs:schema id="PaperStatement" 
+                  targetNamespace="http://tempuri.org/PaperStatement.xsd"
+                  elementFormDefault="qualified"
+                  xmlns="http://tempuri.org/PaperStatement.xsd"
+                  xmlns:mstns="http://tempuri.org/PaperStatement.xsd"
+                  xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <xs:element name="PaperStatemrnt">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="sl" type="xs:string" />
+        <xs:element name="Description" type="xs:string" />
+        <xs:element name="Size" type="xs:string" />
+        <xs:element name="Quentity" type="xs:string" />
+        <xs:element name="Format" type="xs:string" />
+        <xs:element name="Page" type="xs:string" />
+        <xs:element name="Spoil" type="xs:string" />
+        <xs:element name="Rim" type="xs:string" />
+        <xs:element name="Quir" type="xs:string" />
+        <xs:element name="Sheet" type="xs:string" />
+        <xs:element name="SizeR" type="xs:string" />
+        <xs:element name="RimR" type="xs:string" />
+        <xs:element name="QuirR" type="xs:string" />
+        <xs:element name="SheetR" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

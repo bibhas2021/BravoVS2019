@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="XMLSchema6"
+    targetNamespace="http://tempuri.org/XMLSchema6.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/XMLSchema6.xsd"
+    xmlns:mstns="http://tempuri.org/XMLSchema6.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="SALARY_STRUCTURE">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="PayType" type="xs:string" />
+				<xs:element name="SalaryHead" type="xs:string" />
+				<xs:element name="ValidFrom" type="xs:date" />
+				<xs:element name="ValidTo" type="xs:date" />
+				<xs:element name="CalcBasis" type="xs:string" />
+				<xs:element name="CalcType" type="xs:string" />
+				<xs:element name="FormulaSlabLum" type="xs:string" />
+				<xs:element name="PF" type="xs:string" />
+				<xs:element name="ESI" type="xs:string" />
+				<xs:element name="PT" type="xs:string" />
+				<xs:element name="AttenDay" type="xs:string" />
+				<xs:element name="OverTime" type="xs:string" />
+				<xs:element name="DailyWages" type="xs:string" />
+				<xs:element name="Empbasic" type="xs:string" />
+				
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

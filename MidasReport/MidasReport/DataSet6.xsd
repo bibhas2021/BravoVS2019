@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet6" targetNamespace="http://tempuri.org/DataSet6.xsd" xmlns:mstns="http://tempuri.org/DataSet6.xsd" xmlns="http://tempuri.org/DataSet6.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet6" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="DataSet6" msprop:Generator_UserDSName="DataSet6" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="lpm" msprop:Generator_UserTableName="lpm" msprop:Generator_RowDeletedName="lpmRowDeleted" msprop:Generator_TableClassName="lpmDataTable" msprop:Generator_RowChangedName="lpmRowChanged" msprop:Generator_RowClassName="lpmRow" msprop:Generator_RowChangingName="lpmRowChanging" msprop:Generator_RowEvArgName="lpmRowChangeEvent" msprop:Generator_RowEvHandlerName="lpmRowChangeEventHandler" msprop:Generator_TablePropName="lpm" msprop:Generator_TableVarName="tablelpm" msprop:Generator_RowDeletingName="lpmRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="FID" msprop:Generator_UserColumnName="FID" msprop:Generator_ColumnPropNameInRow="FID" msprop:Generator_ColumnVarNameInTable="columnFID" msprop:Generator_ColumnPropNameInTable="FIDColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="FName" msprop:Generator_UserColumnName="FName" msprop:Generator_ColumnPropNameInRow="FName" msprop:Generator_ColumnVarNameInTable="columnFName" msprop:Generator_ColumnPropNameInTable="FNameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="FExp" msprop:Generator_UserColumnName="FExp" msprop:Generator_ColumnPropNameInRow="FExp" msprop:Generator_ColumnVarNameInTable="columnFExp" msprop:Generator_ColumnPropNameInTable="FExpColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Location_Name" msprop:Generator_UserColumnName="Location_Name" msprop:Generator_ColumnPropNameInRow="Location_Name" msprop:Generator_ColumnVarNameInTable="columnLocation_Name" msprop:Generator_ColumnPropNameInTable="Location_NameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="SalaryCategory" msprop:Generator_UserColumnName="SalaryCategory" msprop:Generator_ColumnPropNameInRow="SalaryCategory" msprop:Generator_ColumnVarNameInTable="columnSalaryCategory" msprop:Generator_ColumnPropNameInTable="SalaryCategoryColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

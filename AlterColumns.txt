@@ -1,0 +1,196 @@
+alter table tbl_Employee_Mast ADD Location_id numeric(18,0)
+
+delete from tbl_Employee_Config_LeaveDetails where LeaveId=368
+
+update  tbl_Employee_Config_LeaveDetails set LeaveHead = 'Ab' ,ShortName='Ab'  where LeaveId=367
+
+update  tbl_Employee_Attendance set FstLeave = 367 ,SndLeave=367  where SndLeave=368
+
+
+USE [SchoolManagement]
+GO
+/****** Object:  Table [dbo].[tbl_Employee_Lumpsum]    Script Date: 06/29/2015 13:43:16 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+SET ANSI_PADDING ON
+GO
+CREATE TABLE [dbo].[tbl_Employee_Lumpsum](
+	[LUMPID] [int] NOT NULL,
+	[LUMPNAME] [varchar](50) COLLATE SQL_Latin1_General_CP1_CI_AS NOT NULL,
+	[LUMPTYPE] [int] NOT NULL,
+	[GRADE] [int] NOT NULL,
+	[STRUCID] [int] NULL,
+	[AMOUNT] [numeric](15, 2) NOT NULL,
+ CONSTRAINT [PK_tbl_Employee_Lumpsum] PRIMARY KEY CLUSTERED 
+(
+	[LUMPID] ASC,
+	[LUMPTYPE] ASC,
+	[GRADE] ASC
+)WITH (PAD_INDEX  = OFF, IGNORE_DUP_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+SET ANSI_PADDING OFF
+
+
+
+
+ALTER TABLE [dbo].[tbl_Employee_SalaryMast] ADD [Basic] [numeric](18, 2) NOT NULL DEFAULT ((0)) 
+GO
+
+ALTER TABLE [dbo].[tbl_Employee_SalaryMast] ADD [Location_id] [numeric](18, 0) NOT NULL DEFAULT ((0)) 
+GO
+
+ALTER TABLE [dbo].[tbl_Employee_SalaryMast] ADD [OT] [numeric](18, 0) NOT NULL DEFAULT ((0)) 
+GO
+
+ALTER TABLE [dbo].[tbl_Employee_SalaryDet] ADD [Location_id] [numeric](18, 0) NOT NULL DEFAULT ((0)) 
+
+
+update  tbl_Employee_Mast set Location_id = 2
+
+delete  from  tbl_Employee_Link_SalaryStructure
+
+
+////////////////////////// 06.07.15  ////////////////////////////////////////////
+
+USE [SchoolManagement]
+GO
+/****** Object:  Table [dbo].[tbl_Employee_Proxy_Attendance]    Script Date: 07/06/2015 13:55:31 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+SET ANSI_PADDING ON
+GO
+CREATE TABLE [dbo].[tbl_Employee_Proxy_Attendance](
+	[Proxy_ID] [numeric](18, 0) IDENTITY(1,1) NOT NULL,
+	[Employee_ID] [varchar](50) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
+	[Proxy_Day] [numeric](18, 2) NULL,
+	[Month] [varchar](50) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
+	[Session] [varchar](50) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
+	[Location_ID] [numeric](18, 0) NULL,
+ CONSTRAINT [PK_tbl_Employee_Proxy_Attendance] PRIMARY KEY CLUSTERED 
+(
+	[Proxy_ID] ASC
+)WITH (PAD_INDEX  = OFF, IGNORE_DUP_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+SET ANSI_PADDING OFF
+
+
+ALTER TABLE [dbo].[tbl_Employee_SalaryMast] ADD [Basic] [numeric](18, 2) NOT NULL DEFAULT ((0)) 
+GO
+
+ALTER TABLE [dbo].[tbl_Employee_SalaryMast] ADD [Location_id] [numeric](18, 0) NOT NULL DEFAULT ((0)) 
+GO
+
+ALTER TABLE [dbo].[tbl_Employee_SalaryMast] ADD [OT] [numeric](18, 0) NOT NULL DEFAULT ((0)) 
+GO
+
+ALTER TABLE [dbo].[tbl_Employee_SalaryDet] ADD [Location_id] [numeric](18, 0) NOT NULL DEFAULT ((0)) 
+
+
+
+CREATE TABLE [dbo].[tbl_Sal_Heads_Print]
+(
+	[Location_id] [numeric](18, 0) NOT NULL DEFAULT 0,
+	[BankAcountNo]  bit DEFAULT 0 NOT NULL,
+	[RefBankAcountNo] [numeric](18, 0) NOT NULL DEFAULT 0,
+	[DesignationName]  bit DEFAULT 0 NOT NULL,
+	[RefDesignationName] [numeric](18, 0) NOT NULL DEFAULT 0,
+	[Basic]  bit DEFAULT 0 NOT NULL,
+	[RefBasic] [numeric](18, 0) NOT NULL DEFAULT 0,
+	[DaysPresent]  bit DEFAULT 0 NOT NULL,
+	[RefDaysPresent] [numeric](18, 0) NOT NULL DEFAULT 0,
+	[OT]  bit DEFAULT 0 NOT NULL,
+	[RefOT] [numeric](18, 0) NOT NULL DEFAULT 0,
+	[TotalDays]  bit DEFAULT 0 NOT NULL,
+	[RefTotalDays] [numeric](18, 0) NOT NULL DEFAULT 0
+
+)
+
+GO
+
+go
+INSERT menutable ([MENUCODE], [PARENTCODE], [MENUDESC], [DETAILDESC], [ENABLE_MENU], [FORMCODE], [SHORTCUT_KEY], [TOOLBARBTN]) VALUES (N'40080000000', N'40000000000', N'Salary Sheet Print Setup', N'Salary Sheet Print Setup', 1, NULL, NULL, 0)
+go
+
+
+ALTER TABLE [dbo].[tbl_Employee_SalaryMast] ADD [Calculate_day] [numeric](18, 0) NOT NULL DEFAULT ((0)) 
+
+
+
+///////14.07.15///////////////
+
+
+update Menutable set MENUDESC = 'Salary Sheet' where MENUCODE = 40040000000
+
+update Menutable set ENABLE_MENU = 0  where MENUCODE = 20060000000
+
+///////////////End 14.07.15/////////////////
+
+
+////////////// 22.07.15 ////////////////////
+
+alter table tbl_Employee_Mast ADD Company_id numeric(18,0) NOT NULL DEFAULT ((1)) 
+update tbl_Employee_Mast set Company_id=1 
+
+/////////////End 22.07.15 ///////////////////////////
+
+
+/////////////// 21.08.15 ////////////////////////////
+
+update MenuTable set menudesc='Salary Allotment Report' where MENUCODE=40040000000
+update MenuTable set menudesc='PF/ESI Report' where MENUCODE=40090000000
+
+///////////// End 21.08.15 /////////////////////////
+
+
+////////////// 25.08.15 ////////////////////////////
+
+ALTER TABLE tbl_Employee_SalaryMast DROP CONSTRAINT PK_tbl_Employee_SalaryMast
+ALTER TABLE tbl_Employee_SalaryMast ADD PRIMARY KEY(Emp_Id,Month,Session,Location_id)
+
+ALTER TABLE tbl_Employee_SalaryDet DROP CONSTRAINT PK_tbl_Employee_SalaryDet
+ALTER TABLE tbl_Employee_SalaryDet ADD PRIMARY KEY(EmpId,SalId,TableName,Month,Session,Location_id)
+
+////////////// End 25.08.15 /////////////////////////
+
+
+////////////// 26.08.15 ////////////////////////////
+
+ALTER TABLE [dbo].[tbl_Employee_Assign_SalStructure] ADD [Daily_wages] [int] NULL DEFAULT ((0)) 
+
+///////////// End 26.08.15 /////////////////////////
+
+////////////// 27.08.15 1 ////////////////////////////
+
+ALTER TABLE [dbo].[tbl_Employee_Assign_SalStructure] ADD [Revenue_Stamp] [int] NULL DEFAULT ((0)) 
+ALTER TABLE [dbo].[tbl_Employee_Assign_SalStructure] ADD [Stamp_Amount] varchar (50) NULL DEFAULT ((0)) 
+
+update tbl_Employee_Assign_SalStructure set Revenue_Stamp=0,Stamp_Amount=0 
+
+/////////////// End 27.08.15 ////////////////////////////////
+
+//////////////// 27.08.15 2 /////////////////////////////////
+
+ALTER TABLE [dbo].[tbl_Employee_Mast] ADD [PF_Deduction] [int] NULL DEFAULT ((0)) 
+
+//////////////// End 27.08.15 /////////////////////////////
+
+//////////////// 24.09.15 ///////////////////////////////
+
+ALTER TABLE [dbo].[tbl_Employee_SalaryMast] ALTER column [TotalDays] [numeric](18,2)
+ALTER TABLE [dbo].[tbl_Employee_SalaryMast] ALTER column [OT] [numeric](18,2)
+
+/////////////////// End 24.09.15 ////////////////////////
+
+
+
+
+
+

@@ -1,0 +1,5 @@
+bin\Debug\FirstTimeNeed.dll
+bin\Debug\FirstTimeNeed.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\FirstTimeNeed.dll
+obj\Debug\FirstTimeNeed.pdb

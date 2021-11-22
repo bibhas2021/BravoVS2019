@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<xs:schema id="XMVoucher" 
+                  targetNamespace="http://tempuri.org/XMVoucher.xsd"
+                  elementFormDefault="qualified"
+                  xmlns="http://tempuri.org/XMVoucher.xsd"
+                  xmlns:mstns="http://tempuri.org/XMVoucher.xsd"
+                  xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="Voucher">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Particulars" type="xs:string" />
+        <xs:element name="Debit" type="xs:string" />
+        <xs:element name="Credit" type="xs:string" />
+         <xs:element name="CreditBal" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  
+  <xs:element name="VoucherTType">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Header" type="xs:string" />
+        <xs:element name="Header1" type="xs:string" />
+        <xs:element name="Header2" type="xs:string" />
+        <xs:element name="PerticularsDr" type="xs:string" />
+        <xs:element name="PerticularsCr" type="xs:string" />
+        <xs:element name="DrAmt" type="xs:string" />
+        <xs:element name="CrAmt" type="xs:string" />
+        <xs:element name="Extra1" type="xs:string" />
+        <xs:element name="Extra2" type="xs:string" />
+        <xs:element name="Extra3" type="xs:string" />
+        <xs:element name="Extra4" type="xs:string" />       
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="OpeEQrPri" targetNamespace="http://tempuri.org/OpeEQrPri.xsd" elementFormDefault="qualified" xmlns="http://tempuri.org/OpeEQrPri.xsd" xmlns:mstns="http://tempuri.org/OpeEQrPri.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="edptable">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Company_Name" type="xs:string" />
+        <xs:element name="face_value" type="xs:string" />
+        <xs:element name="User_Voucher" type="xs:string" />
+        <xs:element name="Voucher_Date" type="xs:string" />
+        <xs:element name="DpId_Certificate_No" type="xs:string" />
+        <xs:element name="Quentity" type="xs:float" />
+        <xs:element name="Rate" type="xs:float" />
+        <xs:element name="Amount" type="xs:string" />
+        <xs:element name="Status_Report" type="xs:string" />
+        <xs:element name="Naration" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  
+  
+  <xs:element name="edptable1">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="vch_date" type="xs:string" />
+        <xs:element name="user_vch" type="xs:string" />
+        <xs:element name="co_name" type="xs:string" />
+        <xs:element name="classification" type="xs:string" />
+        <xs:element name="fdrno" type="xs:string" />
+        <xs:element name="startdate" type="xs:string" />
+        <xs:element name="inttype" type="xs:string" />
+        <xs:element name="intrate" type="xs:float" />
+        <xs:element name="period" type="xs:string" />
+        <xs:element name="periodunit" type="xs:string" />
+        <xs:element name="principalamt" type="xs:float" />
+        <xs:element name="frequencyunit" type="xs:string" />
+        <xs:element name="frequency" type="xs:string" />
+        <xs:element name="payoutunit" type="xs:string" />
+        <xs:element name="payout" type="xs:string" />
+        <xs:element name="firstintreceived" type="xs:string" />
+        <xs:element name="periodto" type="xs:string" />
+        <xs:element name="maturityamt" type="xs:float" />
+        <xs:element name="maturitydate" type="xs:string" />
+        <xs:element name="remarks" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  
+  
+  <xs:element name="edptable2">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="vch_date" type="xs:string" />
+        <xs:element name="user_vch" type="xs:string" />
+        <xs:element name="co_name" type="xs:string" />
+        <xs:element name="classification" type="xs:string" />
+        <xs:element name="fdrno" type="xs:string" />
+        <xs:element name="startdate" type="xs:string" />
+        <xs:element name="inttype" type="xs:string" />
+        <xs:element name="intrate" type="xs:float" />
+        <xs:element name="period" type="xs:string" />
+        <xs:element name="periodunit" type="xs:string" />
+        <xs:element name="principalamt" type="xs:float" />
+        <xs:element name="frequencyunit" type="xs:string" />
+        <xs:element name="frequency" type="xs:string" />
+        <xs:element name="payoutunit" type="xs:string" />
+        <xs:element name="payout" type="xs:string" />
+        <xs:element name="firstintreceived" type="xs:string" />
+        <xs:element name="periodto" type="xs:string" />
+        <xs:element name="maturityamt" type="xs:float" />
+        <xs:element name="maturitydate" type="xs:string" />
+        <xs:element name="remarks" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+
+  <xs:element name="edptable3">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="co_name" type="xs:string" />
+        <xs:element name="fdrno" type="xs:string" />
+        <xs:element name="principalamt" type="xs:float" />
+        <xs:element name="startdate" type="xs:string" />
+        <xs:element name="period" type="xs:string" />
+        <xs:element name="periodunit" type="xs:string" />
+        <xs:element name="intrate" type="xs:float" />
+        <xs:element name="inttype" type="xs:string" />
+        <xs:element name="frequencyunit" type="xs:string" />
+        <xs:element name="frequency" type="xs:string" />
+        <xs:element name="payoutunit" type="xs:string" />
+        <xs:element name="payout" type="xs:string" />
+        <xs:element name="vch_date" type="xs:string" />
+        <xs:element name="user_vch" type="xs:string" />
+        <xs:element name ="InterestAmt" type ="xs:float"/>
+      </xs:sequence >
+    </xs:complexType >
+  </xs:element >
+
+
+
+  <xs:element name="edptable4">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="co_name" type="xs:string" />
+        <xs:element name="fdrno" type="xs:string" />
+        <xs:element name="principalamt" type="xs:float" />
+        <xs:element name="startdate" type="xs:string" />
+        <xs:element name="period" type="xs:string" />
+        <xs:element name="periodunit" type="xs:string" />
+        <xs:element name="intrate" type="xs:float" />
+        <xs:element name="inttype" type="xs:string" />
+        <xs:element name="DueMaturity" type="xs:float" />
+        <xs:element name="Maturitydt" type="xs:string" />
+        <xs:element name="Redeematma" type="xs:string" />
+        <xs:element name="Actualdt" type="xs:string" />
+        <xs:element name="ActualAmt" type="xs:float" />
+        <xs:element name="ROI" type="xs:float" />
+        </xs:sequence >
+    </xs:complexType >
+  </xs:element >
+</xs:schema>

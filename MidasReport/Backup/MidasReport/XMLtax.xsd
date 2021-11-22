@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<xs:schema id="XMLtax" 
+                  targetNamespace="http://tempuri.org/XMLtax.xsd"
+                  elementFormDefault="qualified"
+                  xmlns="http://tempuri.org/XMLtax.xsd"
+                  xmlns:mstns="http://tempuri.org/XMLtax.xsd"
+                  xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="tax">
+    <xs:complexType>
+      <xs:sequence>
+
+        <xs:element name="SLNO" type="xs:string" />
+        <xs:element name="date" type="xs:string" />
+        <xs:element name="voucher" type="xs:string" />
+        <xs:element name="party" type="xs:string" />
+        <xs:element name="type" type="xs:string" />
+        <xs:element name="product" type="xs:string" />
+        <xs:element name="qty" type="xs:string" />
+        <xs:element name="rate" type="xs:string" />
+        <xs:element name="amt" type="xs:string" />
+
+
+
+
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

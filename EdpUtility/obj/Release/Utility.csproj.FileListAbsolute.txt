@@ -1,0 +1,9 @@
+E:\06-08-2016_Bravo\PayRollManagementSystem\EdpUtility\obj\Release\ResolveAssemblyReference.cache
+E:\06-08-2016_Bravo\PayRollManagementSystem\EdpUtility\obj\Release\Utility.frmCopyAcc.resources
+E:\06-08-2016_Bravo\PayRollManagementSystem\EdpUtility\obj\Release\Utility.frmfromwisereport.resources
+E:\06-08-2016_Bravo\PayRollManagementSystem\EdpUtility\obj\Release\Utility.FrmGlobalBackup.resources
+E:\06-08-2016_Bravo\PayRollManagementSystem\EdpUtility\obj\Release\Utility.frmRestore.resources
+E:\06-08-2016_Bravo\PayRollManagementSystem\EdpUtility\obj\Release\Utility.frmBackUp.resources
+E:\06-08-2016_Bravo\PayRollManagementSystem\EdpUtility\obj\Release\Utility.Properties.Resources.resources
+E:\06-08-2016_Bravo\PayRollManagementSystem\EdpUtility\obj\Release\Utility.Sessionwise_Report.resources
+E:\06-08-2016_Bravo\PayRollManagementSystem\EdpUtility\obj\Release\Utility.csproj.GenerateResource.Cache

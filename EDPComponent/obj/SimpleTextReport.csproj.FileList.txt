@@ -1,0 +1,7 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SimpleTextReport.csproj.GenerateResource.Cache
+obj\Debug\SimpleTextReport.SimpleTextReport.resources
+bin\Debug\SimpleTextReport.dll
+bin\Debug\SimpleTextReport.pdb
+obj\Debug\SimpleTextReport.dll
+obj\Debug\SimpleTextReport.pdb

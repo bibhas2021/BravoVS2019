@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<xs:schema id="sellbill" 
+                  targetNamespace="http://tempuri.org/sellbill.xsd"
+                  elementFormDefault="qualified"
+                  xmlns="http://tempuri.org/sellbill.xsd"
+                  xmlns:mstns="http://tempuri.org/sellbill.xsd"
+                  xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="sellbill">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="sl" type="xs:string" />
+        <xs:element name="Particular" type="xs:string" />
+        <xs:element name="Quentity" type="xs:string" />
+        <xs:element name="Rate" type="xs:string" />
+        <xs:element name="StdDis" type="xs:string" />
+        <xs:element name="ExtraDis" type="xs:string" />
+        <xs:element name="SpecialDis" type="xs:string" />
+        <xs:element name="Amount" type="xs:string" />
+        <xs:element name="units" type="xs:string" />
+        </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="sellvat">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Date" type="xs:int" />
+        <xs:element name="Particulars" type="xs:string" />
+        <xs:element name="Voucher" type="xs:string" />
+        <xs:element name="ItemNmae" type="xs:float" />
+        <xs:element name="Quentity" type="xs:string" />
+        <xs:element name="Rate" type="xs:string" />
+        <xs:element name="Vatper" type="xs:string" />
+        <xs:element name="Vatamt" type="xs:string" />
+        <xs:element name="Grossamt" type="xs:string" />
+        <xs:element name="LorryNo" type="xs:string" />
+        <xs:element name="unites" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="ACCsellbill">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="sl" type="xs:int" />
+        <xs:element name="Particular" type="xs:string" />
+        <xs:element name="Quentity" type="xs:string" />
+        <xs:element name="Rate" type="xs:float" />
+        <xs:element name="StdDis" type="xs:string" />
+        <xs:element name="ExtraDis" type="xs:string" />
+        <xs:element name="SpecialDis" type="xs:string" />
+        <xs:element name="Amount" type="xs:string" />
+        <xs:element name="units" type="xs:string" />
+        <xs:element name="VatPar" type="xs:string" />
+        <xs:element name="Vatamt" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="sellchallan">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="sl" type="xs:int" />
+        <xs:element name="No" type="xs:string" />
+        <xs:element name="Particular" type="xs:string" />
+        <xs:element name="bundles" type="xs:float" />
+        <xs:element name="Quentity" type="xs:string" />
+        <xs:element name="Unit" type="xs:string" />
+        <xs:element name="Rate" type="xs:string" />
+        <xs:element name="Amount" type="xs:string" />
+        <xs:element name="Addless" type="xs:string" />
+        <xs:element name="AddAmount" type="xs:string" />
+        <xs:element name="Ex1" type="xs:string" />
+        <xs:element name="Ex2" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

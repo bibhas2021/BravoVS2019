@@ -1,0 +1,13 @@
+bin\Release\MidVer.dll.config
+bin\Release\MidVer.dll
+bin\Release\MidVer.pdb
+bin\Release\Edpcom.dll
+bin\Release\FirstTimeNeed.dll
+bin\Release\FirstTimeNeed.pdb
+bin\Release\Edpcom.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\MidVer.csproj.GenerateResource.Cache
+obj\Release\MidVer.dll
+obj\Release\MidVer.pdb
+obj\Release\MidVer.Properties.Resources.resources
+obj\Release\MidVer.version.resources

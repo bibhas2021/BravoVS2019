@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsCanceledBillRegister" targetNamespace="http://tempuri.org/dsCanceledBillRegister.xsd" xmlns:mstns="http://tempuri.org/dsCanceledBillRegister.xsd" xmlns="http://tempuri.org/dsCanceledBillRegister.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsCanceledBillRegister" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="dsCanceledBillRegister" msprop:Generator_UserDSName="dsCanceledBillRegister" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtCanceledBillReg" msprop:Generator_UserTableName="dtCanceledBillReg" msprop:Generator_RowDeletedName="dtCanceledBillRegRowDeleted" msprop:Generator_TableClassName="dtCanceledBillRegDataTable" msprop:Generator_RowChangedName="dtCanceledBillRegRowChanged" msprop:Generator_RowClassName="dtCanceledBillRegRow" msprop:Generator_RowChangingName="dtCanceledBillRegRowChanging" msprop:Generator_RowEvArgName="dtCanceledBillRegRowChangeEvent" msprop:Generator_RowEvHandlerName="dtCanceledBillRegRowChangeEventHandler" msprop:Generator_TablePropName="dtCanceledBillReg" msprop:Generator_TableVarName="tabledtCanceledBillReg" msprop:Generator_RowDeletingName="dtCanceledBillRegRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="BILLNO" msprop:Generator_UserColumnName="BILLNO" msprop:Generator_ColumnPropNameInRow="BILLNO" msprop:Generator_ColumnVarNameInTable="columnBILLNO" msprop:Generator_ColumnPropNameInTable="BILLNOColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="BillDate" msprop:Generator_UserColumnName="BillDate" msprop:Generator_ColumnPropNameInRow="BillDate" msprop:Generator_ColumnVarNameInTable="columnBillDate" msprop:Generator_ColumnPropNameInTable="BillDateColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="LocationName" msprop:Generator_UserColumnName="LocationName" msprop:Generator_ColumnPropNameInRow="LocationName" msprop:Generator_ColumnVarNameInTable="columnLocationName" msprop:Generator_ColumnPropNameInTable="LocationNameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="ClientName" msprop:Generator_UserColumnName="ClientName" msprop:Generator_ColumnPropNameInRow="ClientName" msprop:Generator_ColumnVarNameInTable="columnClientName" msprop:Generator_ColumnPropNameInTable="ClientNameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="BillAmount" msprop:Generator_UserColumnName="BillAmount" msprop:Generator_ColumnPropNameInRow="BillAmount" msprop:Generator_ColumnVarNameInTable="columnBillAmount" msprop:Generator_ColumnPropNameInTable="BillAmountColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EDPComponent", "EDPComponent.csproj", "{6DCEC7E8-090A-433C-A461-607501F6F876}"
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 2
+		SccProjectName0 = \u0022$/EDPComponent_C#\u0022,\u0020OJMCAAAA
+		SccLocalPath0 = .
+		SccProvider0 = MSSCCI:Microsoft\u0020Visual\u0020SourceSafe
+		CanCheckoutShared = false
+		SccProjectUniqueName1 = EDPComponent.csproj
+		SccLocalPath1 = .
+		CanCheckoutShared = false
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DCEC7E8-090A-433C-A461-607501F6F876}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DCEC7E8-090A-433C-A461-607501F6F876}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DCEC7E8-090A-433C-A461-607501F6F876}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DCEC7E8-090A-433C-A461-607501F6F876}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

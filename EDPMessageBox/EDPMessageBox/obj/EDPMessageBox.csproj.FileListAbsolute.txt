@@ -1,0 +1,11 @@
+E:\MidasGoldP\EDPMessageBox\EDPMessageBox\bin\Debug\EDPMessageBox.dll
+E:\MidasGoldP\EDPMessageBox\EDPMessageBox\bin\Debug\EDPMessageBox.pdb
+E:\MidasGoldP\EDPMessageBox\EDPMessageBox\bin\Debug\Edpcom.dll
+E:\MidasGoldP\EDPMessageBox\EDPMessageBox\bin\Debug\EDPComponent.dll
+E:\MidasGoldP\EDPMessageBox\EDPMessageBox\bin\Debug\Edpcom.pdb
+E:\MidasGoldP\EDPMessageBox\EDPMessageBox\bin\Debug\EDPComponent.pdb
+E:\MidasGoldP\EDPMessageBox\EDPMessageBox\obj\Debug\ResolveAssemblyReference.cache
+E:\MidasGoldP\EDPMessageBox\EDPMessageBox\obj\Debug\EDPMessageBox.Properties.Resources.resources
+E:\MidasGoldP\EDPMessageBox\EDPMessageBox\obj\Debug\EDPMessageBox.csproj.GenerateResource.Cache
+E:\MidasGoldP\EDPMessageBox\EDPMessageBox\obj\Debug\EDPMessageBox.dll
+E:\MidasGoldP\EDPMessageBox\EDPMessageBox\obj\Debug\EDPMessageBox.pdb

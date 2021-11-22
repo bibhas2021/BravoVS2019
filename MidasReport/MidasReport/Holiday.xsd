@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Holiday"
+    targetNamespace="http://tempuri.org/Holiday.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/Holiday.xsd"
+    xmlns:mstns="http://tempuri.org/Holiday.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="Holiday_rpt">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="holdate" type="xs:date" />
+				<xs:element name="holidayname" type="xs:string" />
+				<xs:element name="nationflag" type="xs:string" />
+				</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

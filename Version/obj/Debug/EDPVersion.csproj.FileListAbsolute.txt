@@ -1,0 +1,1071 @@
+E:\Project 23.12.14\Accord Four Project 2014 Dec 18\Version\bin\Debug\EDPVersion.dll.config
+E:\Project 23.12.14\Accord Four Project 2014 Dec 18\Version\bin\Debug\EDPVersion.dll
+E:\Project 23.12.14\Accord Four Project 2014 Dec 18\Version\bin\Debug\EDPVersion.pdb
+E:\Project 23.12.14\Accord Four Project 2014 Dec 18\Version\bin\Debug\FirstTimeNeed.dll
+E:\Project 23.12.14\Accord Four Project 2014 Dec 18\Version\bin\Debug\EDPMessageBox.dll
+E:\Project 23.12.14\Accord Four Project 2014 Dec 18\Version\bin\Debug\FirstTimeNeed.pdb
+E:\Project 23.12.14\Accord Four Project 2014 Dec 18\Version\obj\Debug\ResolveAssemblyReference.cache
+E:\Project 23.12.14\Accord Four Project 2014 Dec 18\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+E:\Project 23.12.14\Accord Four Project 2014 Dec 18\Version\obj\Debug\EDPVersion.versionEDP.resources
+E:\Project 23.12.14\Accord Four Project 2014 Dec 18\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+E:\Project 23.12.14\Accord Four Project 2014 Dec 18\Version\obj\Debug\EDPVersion.dll
+E:\Project 23.12.14\Accord Four Project 2014 Dec 18\Version\obj\Debug\EDPVersion.pdb
+E:\Project 23.12.14\Accord Four Project\Version\bin\Debug\EDPVersion.dll.config
+E:\Project 23.12.14\Accord Four Project\Version\bin\Debug\EDPVersion.dll
+E:\Project 23.12.14\Accord Four Project\Version\bin\Debug\EDPVersion.pdb
+E:\Project 23.12.14\Accord Four Project\Version\bin\Debug\FirstTimeNeed.dll
+E:\Project 23.12.14\Accord Four Project\Version\bin\Debug\EDPMessageBox.dll
+E:\Project 23.12.14\Accord Four Project\Version\bin\Debug\FirstTimeNeed.pdb
+E:\Project 23.12.14\Accord Four Project\Version\obj\Debug\ResolveAssemblyReference.cache
+E:\Project 23.12.14\Accord Four Project\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+E:\Project 23.12.14\Accord Four Project\Version\obj\Debug\EDPVersion.versionEDP.resources
+E:\Project 23.12.14\Accord Four Project\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+E:\Project 23.12.14\Accord Four Project\Version\obj\Debug\EDPVersion.dll
+E:\Project 23.12.14\Accord Four Project\Version\obj\Debug\EDPVersion.pdb
+H:\partha\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll.config
+H:\partha\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll
+H:\partha\PayRollManagementSystem\Version\bin\Debug\EDPVersion.pdb
+H:\partha\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.dll
+H:\partha\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.pdb
+H:\partha\PayRollManagementSystem\Version\obj\Debug\ResolveAssemblyReference.cache
+H:\partha\PayRollManagementSystem\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+H:\partha\PayRollManagementSystem\Version\obj\Debug\EDPVersion.versionEDP.resources
+H:\partha\PayRollManagementSystem\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+H:\partha\PayRollManagementSystem\Version\obj\Debug\EDPVersion.dll
+H:\partha\PayRollManagementSystem\Version\obj\Debug\EDPVersion.pdb
+E:\Project 23.12.14\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll.config
+E:\Project 23.12.14\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll
+E:\Project 23.12.14\PayRollManagementSystem\Version\bin\Debug\EDPVersion.pdb
+E:\Project 23.12.14\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.dll
+E:\Project 23.12.14\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.pdb
+E:\Project 23.12.14\PayRollManagementSystem\Version\obj\Debug\ResolveAssemblyReference.cache
+E:\Project 23.12.14\PayRollManagementSystem\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+E:\Project 23.12.14\PayRollManagementSystem\Version\obj\Debug\EDPVersion.versionEDP.resources
+E:\Project 23.12.14\PayRollManagementSystem\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+E:\Project 23.12.14\PayRollManagementSystem\Version\obj\Debug\EDPVersion.dll
+E:\Project 23.12.14\PayRollManagementSystem\Version\obj\Debug\EDPVersion.pdb
+E:\Project 23.12.14\partha\PayRollManagementSystem\Version\obj\Debug\ResolveAssemblyReference.cache
+E:\Project 23.12.14\partha\PayRollManagementSystem\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+E:\Project 23.12.14\partha\PayRollManagementSystem\Version\obj\Debug\EDPVersion.versionEDP.resources
+E:\Project 23.12.14\partha\PayRollManagementSystem\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+E:\Project 23.12.14\partha\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll.config
+E:\Project 23.12.14\partha\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll
+E:\Project 23.12.14\partha\PayRollManagementSystem\Version\bin\Debug\EDPVersion.pdb
+E:\Project 23.12.14\partha\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.dll
+E:\Project 23.12.14\partha\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.pdb
+E:\Project 23.12.14\partha\PayRollManagementSystem\Version\obj\Debug\EDPVersion.dll
+E:\Project 23.12.14\partha\PayRollManagementSystem\Version\obj\Debug\EDPVersion.pdb
+D:\bibhas\02-02-16\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll.config
+D:\bibhas\02-02-16\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll
+D:\bibhas\02-02-16\PayRollManagementSystem\Version\bin\Debug\EDPVersion.pdb
+D:\bibhas\02-02-16\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.dll
+D:\bibhas\02-02-16\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.pdb
+D:\bibhas\02-02-16\PayRollManagementSystem\Version\obj\Debug\ResolveAssemblyReference.cache
+D:\bibhas\02-02-16\PayRollManagementSystem\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+D:\bibhas\02-02-16\PayRollManagementSystem\Version\obj\Debug\EDPVersion.versionEDP.resources
+D:\bibhas\02-02-16\PayRollManagementSystem\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+D:\bibhas\02-02-16\PayRollManagementSystem\Version\obj\Debug\EDPVersion.dll
+D:\bibhas\02-02-16\PayRollManagementSystem\Version\obj\Debug\EDPVersion.pdb
+D:\bibhas\8-2-16\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll.config
+D:\bibhas\8-2-16\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll
+D:\bibhas\8-2-16\PayRollManagementSystem\Version\bin\Debug\EDPVersion.pdb
+D:\bibhas\8-2-16\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.dll
+D:\bibhas\8-2-16\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.pdb
+D:\bibhas\8-2-16\PayRollManagementSystem\Version\obj\Debug\ResolveAssemblyReference.cache
+D:\bibhas\8-2-16\PayRollManagementSystem\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+D:\bibhas\8-2-16\PayRollManagementSystem\Version\obj\Debug\EDPVersion.versionEDP.resources
+D:\bibhas\8-2-16\PayRollManagementSystem\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+D:\bibhas\8-2-16\PayRollManagementSystem\Version\obj\Debug\EDPVersion.dll
+D:\bibhas\8-2-16\PayRollManagementSystem\Version\obj\Debug\EDPVersion.pdb
+E:\Bibhas\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll.config
+E:\Bibhas\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll
+E:\Bibhas\PayRollManagementSystem\Version\bin\Debug\EDPVersion.pdb
+E:\Bibhas\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.dll
+E:\Bibhas\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.pdb
+E:\Bibhas\PayRollManagementSystem\Version\obj\Debug\ResolveAssemblyReference.cache
+E:\Bibhas\PayRollManagementSystem\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+E:\Bibhas\PayRollManagementSystem\Version\obj\Debug\EDPVersion.versionEDP.resources
+E:\Bibhas\PayRollManagementSystem\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+E:\Bibhas\PayRollManagementSystem\Version\obj\Debug\EDPVersion.dll
+E:\Bibhas\PayRollManagementSystem\Version\obj\Debug\EDPVersion.pdb
+D:\12-03-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll.config
+D:\12-03-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll
+D:\12-03-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.pdb
+D:\12-03-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.dll
+D:\12-03-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.pdb
+D:\12-03-2016\PayRollManagementSystem\Version\obj\Debug\ResolveAssemblyReference.cache
+D:\12-03-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+D:\12-03-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.versionEDP.resources
+D:\12-03-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+D:\12-03-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.dll
+D:\12-03-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.pdb
+E:\Bibhas\12-03-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll.config
+E:\Bibhas\12-03-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll
+E:\Bibhas\12-03-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.pdb
+E:\Bibhas\12-03-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.dll
+E:\Bibhas\12-03-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.pdb
+E:\Bibhas\12-03-2016\PayRollManagementSystem\Version\obj\Debug\ResolveAssemblyReference.cache
+E:\Bibhas\12-03-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+E:\Bibhas\12-03-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.versionEDP.resources
+E:\Bibhas\12-03-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+E:\Bibhas\12-03-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.dll
+E:\Bibhas\12-03-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.pdb
+D:\15-03-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll.config
+D:\15-03-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll
+D:\15-03-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.pdb
+D:\15-03-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.dll
+D:\15-03-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.pdb
+D:\15-03-2016\PayRollManagementSystem\Version\obj\Debug\ResolveAssemblyReference.cache
+D:\15-03-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+D:\15-03-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.versionEDP.resources
+D:\15-03-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+D:\15-03-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.dll
+D:\15-03-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.pdb
+E:\Bibhas\15-03-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll.config
+E:\Bibhas\15-03-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll
+E:\Bibhas\15-03-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.pdb
+E:\Bibhas\15-03-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.dll
+E:\Bibhas\15-03-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.pdb
+E:\Bibhas\15-03-2016\PayRollManagementSystem\Version\obj\Debug\ResolveAssemblyReference.cache
+E:\Bibhas\15-03-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+E:\Bibhas\15-03-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.versionEDP.resources
+E:\Bibhas\15-03-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+E:\Bibhas\15-03-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.dll
+E:\Bibhas\15-03-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.pdb
+E:\Bibhas\17-03-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll.config
+E:\Bibhas\17-03-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll
+E:\Bibhas\17-03-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.pdb
+E:\Bibhas\17-03-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.dll
+E:\Bibhas\17-03-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.pdb
+E:\Bibhas\17-03-2016\PayRollManagementSystem\Version\obj\Debug\ResolveAssemblyReference.cache
+E:\Bibhas\17-03-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+E:\Bibhas\17-03-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.versionEDP.resources
+E:\Bibhas\17-03-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+E:\Bibhas\17-03-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.dll
+E:\Bibhas\17-03-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.pdb
+E:\Bibhas\20-03-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll.config
+E:\Bibhas\20-03-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll
+E:\Bibhas\20-03-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.dll
+E:\Bibhas\20-03-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.pdb
+E:\Bibhas\20-03-2016\PayRollManagementSystem\Version\obj\Debug\ResolveAssemblyReference.cache
+E:\Bibhas\20-03-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+E:\Bibhas\20-03-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.versionEDP.resources
+E:\Bibhas\20-03-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+E:\Bibhas\20-03-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.dll
+E:\Bibhas\20-03-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.pdb
+E:\Bibhas\20-03-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.pdb
+E:\Bibhas\21-03-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll.config
+E:\Bibhas\21-03-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll
+E:\Bibhas\21-03-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.pdb
+E:\Bibhas\21-03-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.dll
+E:\Bibhas\21-03-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.pdb
+E:\Bibhas\21-03-2016\PayRollManagementSystem\Version\obj\Debug\ResolveAssemblyReference.cache
+E:\Bibhas\21-03-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+E:\Bibhas\21-03-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.versionEDP.resources
+E:\Bibhas\21-03-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+E:\Bibhas\21-03-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.dll
+E:\Bibhas\21-03-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.pdb
+E:\Bibhas\25-03-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll.config
+E:\Bibhas\25-03-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll
+E:\Bibhas\25-03-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.pdb
+E:\Bibhas\25-03-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.dll
+E:\Bibhas\25-03-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.pdb
+E:\Bibhas\25-03-2016\PayRollManagementSystem\Version\obj\Debug\ResolveAssemblyReference.cache
+E:\Bibhas\25-03-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+E:\Bibhas\25-03-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.versionEDP.resources
+E:\Bibhas\25-03-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+E:\Bibhas\25-03-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.dll
+E:\Bibhas\25-03-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.pdb
+E:\Bibhas\28-03-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll.config
+E:\Bibhas\28-03-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll
+E:\Bibhas\28-03-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.pdb
+E:\Bibhas\28-03-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.dll
+E:\Bibhas\28-03-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.pdb
+E:\Bibhas\28-03-2016\PayRollManagementSystem\Version\obj\Debug\ResolveAssemblyReference.cache
+E:\Bibhas\28-03-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+E:\Bibhas\28-03-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.versionEDP.resources
+E:\Bibhas\28-03-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+E:\Bibhas\28-03-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.dll
+E:\Bibhas\28-03-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.pdb
+E:\Bibhas\30-03-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll.config
+E:\Bibhas\30-03-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll
+E:\Bibhas\30-03-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.pdb
+E:\Bibhas\30-03-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.dll
+E:\Bibhas\30-03-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.pdb
+E:\Bibhas\30-03-2016\PayRollManagementSystem\Version\obj\Debug\ResolveAssemblyReference.cache
+E:\Bibhas\30-03-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+E:\Bibhas\30-03-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.versionEDP.resources
+E:\Bibhas\30-03-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+E:\Bibhas\30-03-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.dll
+E:\Bibhas\30-03-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.pdb
+E:\Bibhas\01-04-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll.config
+E:\Bibhas\01-04-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll
+E:\Bibhas\01-04-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.pdb
+E:\Bibhas\01-04-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.dll
+E:\Bibhas\01-04-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.pdb
+E:\Bibhas\01-04-2016\PayRollManagementSystem\Version\obj\Debug\ResolveAssemblyReference.cache
+E:\Bibhas\01-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+E:\Bibhas\01-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.versionEDP.resources
+E:\Bibhas\01-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+E:\Bibhas\01-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.dll
+E:\Bibhas\01-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.pdb
+D:\EdpSoft Projects\02-04-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll.config
+D:\EdpSoft Projects\02-04-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll
+D:\EdpSoft Projects\02-04-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.pdb
+D:\EdpSoft Projects\02-04-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.dll
+D:\EdpSoft Projects\02-04-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.pdb
+D:\EdpSoft Projects\02-04-2016\PayRollManagementSystem\Version\obj\Debug\ResolveAssemblyReference.cache
+D:\EdpSoft Projects\02-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+D:\EdpSoft Projects\02-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.versionEDP.resources
+D:\EdpSoft Projects\02-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+D:\EdpSoft Projects\02-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.dll
+D:\EdpSoft Projects\02-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.pdb
+E:\Bibhas\02-04-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll.config
+E:\Bibhas\02-04-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll
+E:\Bibhas\02-04-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.pdb
+E:\Bibhas\02-04-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.dll
+E:\Bibhas\02-04-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.pdb
+E:\Bibhas\02-04-2016\PayRollManagementSystem\Version\obj\Debug\ResolveAssemblyReference.cache
+E:\Bibhas\02-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+E:\Bibhas\02-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.versionEDP.resources
+E:\Bibhas\02-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+E:\Bibhas\02-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.dll
+E:\Bibhas\02-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.pdb
+D:\Bibhas\05-04-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll.config
+D:\Bibhas\05-04-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll
+D:\Bibhas\05-04-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.pdb
+D:\Bibhas\05-04-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.dll
+D:\Bibhas\05-04-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.pdb
+D:\Bibhas\05-04-2016\PayRollManagementSystem\Version\obj\Debug\ResolveAssemblyReference.cache
+D:\Bibhas\05-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+D:\Bibhas\05-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.versionEDP.resources
+D:\Bibhas\05-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+D:\Bibhas\05-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.dll
+D:\Bibhas\05-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.pdb
+H:\07-04-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll.config
+H:\07-04-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll
+H:\07-04-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.pdb
+H:\07-04-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.dll
+H:\07-04-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.pdb
+H:\07-04-2016\PayRollManagementSystem\Version\obj\Debug\ResolveAssemblyReference.cache
+H:\07-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+H:\07-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.versionEDP.resources
+H:\07-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+H:\07-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.dll
+H:\07-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.pdb
+D:\Bibhas\07-04-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll.config
+D:\Bibhas\07-04-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll
+D:\Bibhas\07-04-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.pdb
+D:\Bibhas\07-04-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.dll
+D:\Bibhas\07-04-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.pdb
+D:\Bibhas\07-04-2016\PayRollManagementSystem\Version\obj\Debug\ResolveAssemblyReference.cache
+D:\Bibhas\07-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+D:\Bibhas\07-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.versionEDP.resources
+D:\Bibhas\07-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+D:\Bibhas\07-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.dll
+D:\Bibhas\07-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.pdb
+D:\Bibhas\14-04-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll.config
+D:\Bibhas\14-04-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll
+D:\Bibhas\14-04-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.pdb
+D:\Bibhas\14-04-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.dll
+D:\Bibhas\14-04-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.pdb
+D:\Bibhas\14-04-2016\PayRollManagementSystem\Version\obj\Debug\ResolveAssemblyReference.cache
+D:\Bibhas\14-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+D:\Bibhas\14-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.versionEDP.resources
+D:\Bibhas\14-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+D:\Bibhas\14-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.dll
+D:\Bibhas\14-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.pdb
+D:\Bibhas\20-04-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll.config
+D:\Bibhas\20-04-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll
+D:\Bibhas\20-04-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.pdb
+D:\Bibhas\20-04-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.dll
+D:\Bibhas\20-04-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.pdb
+D:\Bibhas\20-04-2016\PayRollManagementSystem\Version\obj\Debug\ResolveAssemblyReference.cache
+D:\Bibhas\20-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+D:\Bibhas\20-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.versionEDP.resources
+D:\Bibhas\20-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+D:\Bibhas\20-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.dll
+D:\Bibhas\20-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.pdb
+E:\all works\22-04-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll.config
+E:\all works\22-04-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll
+E:\all works\22-04-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.pdb
+E:\all works\22-04-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.dll
+E:\all works\22-04-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.pdb
+E:\all works\22-04-2016\PayRollManagementSystem\Version\obj\Debug\ResolveAssemblyReference.cache
+E:\all works\22-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+E:\all works\22-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.versionEDP.resources
+E:\all works\22-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+E:\all works\22-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.dll
+E:\all works\22-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.pdb
+D:\Bibhas\23-04-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll.config
+D:\Bibhas\23-04-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll
+D:\Bibhas\23-04-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.pdb
+D:\Bibhas\23-04-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.dll
+D:\Bibhas\23-04-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.pdb
+D:\Bibhas\23-04-2016\PayRollManagementSystem\Version\obj\Debug\ResolveAssemblyReference.cache
+D:\Bibhas\23-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+D:\Bibhas\23-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.versionEDP.resources
+D:\Bibhas\23-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+D:\Bibhas\23-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.dll
+D:\Bibhas\23-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.pdb
+H:\25-04-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll.config
+H:\25-04-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll
+H:\25-04-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.pdb
+H:\25-04-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.dll
+H:\25-04-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.pdb
+H:\25-04-2016\PayRollManagementSystem\Version\obj\Debug\ResolveAssemblyReference.cache
+H:\25-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+H:\25-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.versionEDP.resources
+H:\25-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+H:\25-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.dll
+H:\25-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.pdb
+D:\25-04-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll.config
+D:\25-04-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll
+D:\25-04-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.pdb
+D:\25-04-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.dll
+D:\25-04-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.pdb
+D:\25-04-2016\PayRollManagementSystem\Version\obj\Debug\ResolveAssemblyReference.cache
+D:\25-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+D:\25-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.versionEDP.resources
+D:\25-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+D:\25-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.dll
+D:\25-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.pdb
+D:\26-04-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll.config
+D:\26-04-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll
+D:\26-04-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.pdb
+D:\26-04-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.dll
+D:\26-04-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.pdb
+D:\26-04-2016\PayRollManagementSystem\Version\obj\Debug\ResolveAssemblyReference.cache
+D:\26-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+D:\26-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.versionEDP.resources
+D:\26-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+D:\26-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.dll
+D:\26-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.pdb
+D:\27-04-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll.config
+D:\27-04-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll
+D:\27-04-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.pdb
+D:\27-04-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.dll
+D:\27-04-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.pdb
+D:\27-04-2016\PayRollManagementSystem\Version\obj\Debug\ResolveAssemblyReference.cache
+D:\27-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+D:\27-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.versionEDP.resources
+D:\27-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+D:\27-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.dll
+D:\27-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.pdb
+I:\27-04-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll.config
+I:\27-04-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll
+I:\27-04-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.pdb
+I:\27-04-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.dll
+I:\27-04-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.pdb
+I:\27-04-2016\PayRollManagementSystem\Version\obj\Debug\ResolveAssemblyReference.cache
+I:\27-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+I:\27-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.versionEDP.resources
+I:\27-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+I:\27-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.dll
+I:\27-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.pdb
+D:\28-04-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll.config
+D:\28-04-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll
+D:\28-04-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.pdb
+D:\28-04-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.dll
+D:\28-04-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.pdb
+D:\28-04-2016\PayRollManagementSystem\Version\obj\Debug\ResolveAssemblyReference.cache
+D:\28-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+D:\28-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.versionEDP.resources
+D:\28-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+D:\28-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.dll
+D:\28-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.pdb
+D:\29-04-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll.config
+D:\29-04-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll
+D:\29-04-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.pdb
+D:\29-04-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.dll
+D:\29-04-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.pdb
+D:\29-04-2016\PayRollManagementSystem\Version\obj\Debug\ResolveAssemblyReference.cache
+D:\29-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+D:\29-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.versionEDP.resources
+D:\29-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+D:\29-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.dll
+D:\29-04-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.pdb
+I:\02-05-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll.config
+I:\02-05-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll
+I:\02-05-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.pdb
+I:\02-05-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.dll
+I:\02-05-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.pdb
+I:\02-05-2016\PayRollManagementSystem\Version\obj\Debug\ResolveAssemblyReference.cache
+I:\02-05-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+I:\02-05-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.versionEDP.resources
+I:\02-05-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+I:\02-05-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.dll
+I:\02-05-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.pdb
+D:\Bibhas\02-05-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll.config
+D:\Bibhas\02-05-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll
+D:\Bibhas\02-05-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.pdb
+D:\Bibhas\02-05-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.dll
+D:\Bibhas\02-05-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.pdb
+D:\Bibhas\02-05-2016\PayRollManagementSystem\Version\obj\Debug\ResolveAssemblyReference.cache
+D:\Bibhas\02-05-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+D:\Bibhas\02-05-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.versionEDP.resources
+D:\Bibhas\02-05-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+D:\Bibhas\02-05-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.dll
+D:\Bibhas\02-05-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.pdb
+D:\Bibhas\04-05-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll.config
+D:\Bibhas\04-05-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll
+D:\Bibhas\04-05-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.pdb
+D:\Bibhas\04-05-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.dll
+D:\Bibhas\04-05-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.pdb
+D:\Bibhas\04-05-2016\PayRollManagementSystem\Version\obj\Debug\ResolveAssemblyReference.cache
+D:\Bibhas\04-05-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+D:\Bibhas\04-05-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.versionEDP.resources
+D:\Bibhas\04-05-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+D:\Bibhas\04-05-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.dll
+D:\Bibhas\04-05-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.pdb
+D:\Bibhas\07-05-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll.config
+D:\Bibhas\07-05-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll
+D:\Bibhas\07-05-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.pdb
+D:\Bibhas\07-05-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.dll
+D:\Bibhas\07-05-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.pdb
+D:\Bibhas\07-05-2016\PayRollManagementSystem\Version\obj\Debug\ResolveAssemblyReference.cache
+D:\Bibhas\07-05-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+D:\Bibhas\07-05-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.versionEDP.resources
+D:\Bibhas\07-05-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+D:\Bibhas\07-05-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.dll
+D:\Bibhas\07-05-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.pdb
+D:\Bibhas\09-05-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll.config
+D:\Bibhas\09-05-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll
+D:\Bibhas\09-05-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.pdb
+D:\Bibhas\09-05-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.dll
+D:\Bibhas\09-05-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.pdb
+D:\Bibhas\09-05-2016\PayRollManagementSystem\Version\obj\Debug\ResolveAssemblyReference.cache
+D:\Bibhas\09-05-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+D:\Bibhas\09-05-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.versionEDP.resources
+D:\Bibhas\09-05-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+D:\Bibhas\09-05-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.dll
+D:\Bibhas\09-05-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.pdb
+D:\Bibhas\12-05-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll.config
+D:\Bibhas\12-05-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll
+D:\Bibhas\12-05-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.pdb
+D:\Bibhas\12-05-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.dll
+D:\Bibhas\12-05-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.pdb
+D:\Bibhas\12-05-2016\PayRollManagementSystem\Version\obj\Debug\ResolveAssemblyReference.cache
+D:\Bibhas\12-05-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+D:\Bibhas\12-05-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.versionEDP.resources
+D:\Bibhas\12-05-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+D:\Bibhas\12-05-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.dll
+D:\Bibhas\12-05-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.pdb
+D:\Bibhas\16-05-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll.config
+D:\Bibhas\16-05-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll
+D:\Bibhas\16-05-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.pdb
+D:\Bibhas\16-05-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.dll
+D:\Bibhas\16-05-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.pdb
+D:\Bibhas\16-05-2016\PayRollManagementSystem\Version\obj\Debug\ResolveAssemblyReference.cache
+D:\Bibhas\16-05-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+D:\Bibhas\16-05-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.versionEDP.resources
+D:\Bibhas\16-05-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+D:\Bibhas\16-05-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.dll
+D:\Bibhas\16-05-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.pdb
+H:\16-05-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll.config
+H:\16-05-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll
+H:\16-05-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.pdb
+H:\16-05-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.dll
+H:\16-05-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.pdb
+H:\16-05-2016\PayRollManagementSystem\Version\obj\Debug\ResolveAssemblyReference.cache
+H:\16-05-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+H:\16-05-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.versionEDP.resources
+H:\16-05-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+H:\16-05-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.dll
+H:\16-05-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.pdb
+I:\16-05-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll.config
+I:\16-05-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll
+I:\16-05-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.pdb
+I:\16-05-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.dll
+I:\16-05-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.pdb
+I:\16-05-2016\PayRollManagementSystem\Version\obj\Debug\ResolveAssemblyReference.cache
+I:\16-05-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+I:\16-05-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.versionEDP.resources
+I:\16-05-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+I:\16-05-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.dll
+I:\16-05-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.pdb
+I:\23-05-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll.config
+I:\23-05-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll
+I:\23-05-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.pdb
+I:\23-05-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.dll
+I:\23-05-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.pdb
+I:\23-05-2016\PayRollManagementSystem\Version\obj\Debug\ResolveAssemblyReference.cache
+I:\23-05-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+I:\23-05-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.versionEDP.resources
+I:\23-05-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+I:\23-05-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.dll
+I:\23-05-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.pdb
+C:\Documents and Settings\EdpPc1\Desktop\28-05-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll.config
+C:\Documents and Settings\EdpPc1\Desktop\28-05-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll
+C:\Documents and Settings\EdpPc1\Desktop\28-05-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.pdb
+C:\Documents and Settings\EdpPc1\Desktop\28-05-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.dll
+C:\Documents and Settings\EdpPc1\Desktop\28-05-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.pdb
+C:\Documents and Settings\EdpPc1\Desktop\28-05-2016\PayRollManagementSystem\Version\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\EdpPc1\Desktop\28-05-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+C:\Documents and Settings\EdpPc1\Desktop\28-05-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.versionEDP.resources
+C:\Documents and Settings\EdpPc1\Desktop\28-05-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+C:\Documents and Settings\EdpPc1\Desktop\28-05-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.dll
+C:\Documents and Settings\EdpPc1\Desktop\28-05-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.pdb
+H:\01-06-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll.config
+H:\01-06-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll
+H:\01-06-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.pdb
+H:\01-06-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.dll
+H:\01-06-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.pdb
+H:\01-06-2016\PayRollManagementSystem\Version\obj\Debug\ResolveAssemblyReference.cache
+H:\01-06-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+H:\01-06-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.versionEDP.resources
+H:\01-06-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+H:\01-06-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.dll
+H:\01-06-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.pdb
+I:\03-06-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll.config
+I:\03-06-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll
+I:\03-06-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.pdb
+I:\03-06-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.dll
+I:\03-06-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.pdb
+I:\03-06-2016\PayRollManagementSystem\Version\obj\Debug\ResolveAssemblyReference.cache
+I:\03-06-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+I:\03-06-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.versionEDP.resources
+I:\03-06-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+I:\03-06-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.dll
+I:\03-06-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.pdb
+I:\07-06-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll.config
+I:\07-06-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll
+I:\07-06-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.pdb
+I:\07-06-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.dll
+I:\07-06-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.pdb
+I:\07-06-2016\PayRollManagementSystem\Version\obj\Debug\ResolveAssemblyReference.cache
+I:\07-06-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+I:\07-06-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.versionEDP.resources
+I:\07-06-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+I:\07-06-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.dll
+I:\07-06-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.pdb
+D:\Bibhas\07-06-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll.config
+D:\Bibhas\07-06-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll
+D:\Bibhas\07-06-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.pdb
+D:\Bibhas\07-06-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.dll
+D:\Bibhas\07-06-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.pdb
+D:\Bibhas\07-06-2016\PayRollManagementSystem\Version\obj\Debug\ResolveAssemblyReference.cache
+D:\Bibhas\07-06-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+D:\Bibhas\07-06-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.versionEDP.resources
+D:\Bibhas\07-06-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+D:\Bibhas\07-06-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.dll
+D:\Bibhas\07-06-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.pdb
+E:\Bibhas\07-06-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll.config
+E:\Bibhas\07-06-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll
+E:\Bibhas\07-06-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.pdb
+E:\Bibhas\07-06-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.dll
+E:\Bibhas\07-06-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.pdb
+E:\Bibhas\07-06-2016\PayRollManagementSystem\Version\obj\Debug\ResolveAssemblyReference.cache
+E:\Bibhas\07-06-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+E:\Bibhas\07-06-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.versionEDP.resources
+E:\Bibhas\07-06-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+E:\Bibhas\07-06-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.dll
+E:\Bibhas\07-06-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.pdb
+E:\28-06-2016\PayRollManagementSystem\Version\obj\Debug\ResolveAssemblyReference.cache
+E:\28-06-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+E:\28-06-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.versionEDP.resources
+E:\28-06-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+E:\28-06-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll.config
+E:\28-06-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll
+E:\28-06-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.pdb
+E:\28-06-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.dll
+E:\28-06-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.pdb
+E:\28-06-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.dll
+E:\28-06-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.pdb
+C:\Users\DELL\Desktop\01-07-2016\PayRollManagementSystem\Version\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\01-07-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+C:\Users\DELL\Desktop\01-07-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.versionEDP.resources
+C:\Users\DELL\Desktop\01-07-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\01-07-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll.config
+C:\Users\DELL\Desktop\01-07-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll
+C:\Users\DELL\Desktop\01-07-2016\PayRollManagementSystem\Version\bin\Debug\EDPVersion.pdb
+C:\Users\DELL\Desktop\01-07-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.dll
+C:\Users\DELL\Desktop\01-07-2016\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.pdb
+C:\Users\DELL\Desktop\01-07-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.dll
+C:\Users\DELL\Desktop\01-07-2016\PayRollManagementSystem\Version\obj\Debug\EDPVersion.pdb
+E:\01-07-2016_iso\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll.config
+E:\01-07-2016_iso\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll
+E:\01-07-2016_iso\PayRollManagementSystem\Version\bin\Debug\EDPVersion.pdb
+E:\01-07-2016_iso\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.dll
+E:\01-07-2016_iso\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.pdb
+E:\01-07-2016_iso\PayRollManagementSystem\Version\obj\Debug\ResolveAssemblyReference.cache
+E:\01-07-2016_iso\PayRollManagementSystem\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+E:\01-07-2016_iso\PayRollManagementSystem\Version\obj\Debug\EDPVersion.versionEDP.resources
+E:\01-07-2016_iso\PayRollManagementSystem\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+E:\01-07-2016_iso\PayRollManagementSystem\Version\obj\Debug\EDPVersion.dll
+E:\01-07-2016_iso\PayRollManagementSystem\Version\obj\Debug\EDPVersion.pdb
+E:\25-07-2016_iso\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll.config
+E:\25-07-2016_iso\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll
+E:\25-07-2016_iso\PayRollManagementSystem\Version\bin\Debug\EDPVersion.pdb
+E:\25-07-2016_iso\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.dll
+E:\25-07-2016_iso\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.pdb
+E:\25-07-2016_iso\PayRollManagementSystem\Version\obj\Debug\ResolveAssemblyReference.cache
+E:\25-07-2016_iso\PayRollManagementSystem\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+E:\25-07-2016_iso\PayRollManagementSystem\Version\obj\Debug\EDPVersion.versionEDP.resources
+E:\25-07-2016_iso\PayRollManagementSystem\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+E:\25-07-2016_iso\PayRollManagementSystem\Version\obj\Debug\EDPVersion.dll
+E:\25-07-2016_iso\PayRollManagementSystem\Version\obj\Debug\EDPVersion.pdb
+E:\06-08-2016_Bravo\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll.config
+E:\06-08-2016_Bravo\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll
+E:\06-08-2016_Bravo\PayRollManagementSystem\Version\bin\Debug\EDPVersion.pdb
+E:\06-08-2016_Bravo\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.dll
+E:\06-08-2016_Bravo\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.pdb
+E:\06-08-2016_Bravo\PayRollManagementSystem\Version\obj\Debug\ResolveAssemblyReference.cache
+E:\06-08-2016_Bravo\PayRollManagementSystem\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+E:\06-08-2016_Bravo\PayRollManagementSystem\Version\obj\Debug\EDPVersion.versionEDP.resources
+E:\06-08-2016_Bravo\PayRollManagementSystem\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+E:\06-08-2016_Bravo\PayRollManagementSystem\Version\obj\Debug\EDPVersion.dll
+E:\06-08-2016_Bravo\PayRollManagementSystem\Version\obj\Debug\EDPVersion.pdb
+E:\20-08-2016_Bravo\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll.config
+E:\20-08-2016_Bravo\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll
+E:\20-08-2016_Bravo\PayRollManagementSystem\Version\bin\Debug\EDPVersion.pdb
+E:\20-08-2016_Bravo\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.dll
+E:\20-08-2016_Bravo\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.pdb
+E:\20-08-2016_Bravo\PayRollManagementSystem\Version\obj\Debug\ResolveAssemblyReference.cache
+E:\20-08-2016_Bravo\PayRollManagementSystem\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+E:\20-08-2016_Bravo\PayRollManagementSystem\Version\obj\Debug\EDPVersion.versionEDP.resources
+E:\20-08-2016_Bravo\PayRollManagementSystem\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+E:\20-08-2016_Bravo\PayRollManagementSystem\Version\obj\Debug\EDPVersion.dll
+E:\20-08-2016_Bravo\PayRollManagementSystem\Version\obj\Debug\EDPVersion.pdb
+E:\31-08-2016_Bravo\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll.config
+E:\31-08-2016_Bravo\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll
+E:\31-08-2016_Bravo\PayRollManagementSystem\Version\bin\Debug\EDPVersion.pdb
+E:\31-08-2016_Bravo\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.dll
+E:\31-08-2016_Bravo\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.pdb
+E:\31-08-2016_Bravo\PayRollManagementSystem\Version\obj\Debug\ResolveAssemblyReference.cache
+E:\31-08-2016_Bravo\PayRollManagementSystem\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+E:\31-08-2016_Bravo\PayRollManagementSystem\Version\obj\Debug\EDPVersion.versionEDP.resources
+E:\31-08-2016_Bravo\PayRollManagementSystem\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+E:\31-08-2016_Bravo\PayRollManagementSystem\Version\obj\Debug\EDPVersion.dll
+E:\31-08-2016_Bravo\PayRollManagementSystem\Version\obj\Debug\EDPVersion.pdb
+E:\06-09-2016_Bravo\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll.config
+E:\06-09-2016_Bravo\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll
+E:\06-09-2016_Bravo\PayRollManagementSystem\Version\bin\Debug\EDPVersion.pdb
+E:\06-09-2016_Bravo\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.dll
+E:\06-09-2016_Bravo\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.pdb
+E:\06-09-2016_Bravo\PayRollManagementSystem\Version\obj\Debug\ResolveAssemblyReference.cache
+E:\06-09-2016_Bravo\PayRollManagementSystem\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+E:\06-09-2016_Bravo\PayRollManagementSystem\Version\obj\Debug\EDPVersion.versionEDP.resources
+E:\06-09-2016_Bravo\PayRollManagementSystem\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+E:\06-09-2016_Bravo\PayRollManagementSystem\Version\obj\Debug\EDPVersion.dll
+E:\06-09-2016_Bravo\PayRollManagementSystem\Version\obj\Debug\EDPVersion.pdb
+E:\bravo all\10-09-2016_Bravo\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll.config
+E:\bravo all\10-09-2016_Bravo\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll
+E:\bravo all\10-09-2016_Bravo\PayRollManagementSystem\Version\bin\Debug\EDPVersion.pdb
+E:\bravo all\10-09-2016_Bravo\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.dll
+E:\bravo all\10-09-2016_Bravo\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.pdb
+E:\bravo all\10-09-2016_Bravo\PayRollManagementSystem\Version\obj\Debug\ResolveAssemblyReference.cache
+E:\bravo all\10-09-2016_Bravo\PayRollManagementSystem\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+E:\bravo all\10-09-2016_Bravo\PayRollManagementSystem\Version\obj\Debug\EDPVersion.versionEDP.resources
+E:\bravo all\10-09-2016_Bravo\PayRollManagementSystem\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+E:\bravo all\10-09-2016_Bravo\PayRollManagementSystem\Version\obj\Debug\EDPVersion.dll
+E:\bravo all\10-09-2016_Bravo\PayRollManagementSystem\Version\obj\Debug\EDPVersion.pdb
+E:\bravo all\21-10-2016_Bravo\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll.config
+E:\bravo all\21-10-2016_Bravo\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll
+E:\bravo all\21-10-2016_Bravo\PayRollManagementSystem\Version\bin\Debug\EDPVersion.pdb
+E:\bravo all\21-10-2016_Bravo\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.dll
+E:\bravo all\21-10-2016_Bravo\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.pdb
+E:\bravo all\21-10-2016_Bravo\PayRollManagementSystem\Version\obj\Debug\ResolveAssemblyReference.cache
+E:\bravo all\21-10-2016_Bravo\PayRollManagementSystem\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+E:\bravo all\21-10-2016_Bravo\PayRollManagementSystem\Version\obj\Debug\EDPVersion.versionEDP.resources
+E:\bravo all\21-10-2016_Bravo\PayRollManagementSystem\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+E:\bravo all\21-10-2016_Bravo\PayRollManagementSystem\Version\obj\Debug\EDPVersion.dll
+E:\bravo all\21-10-2016_Bravo\PayRollManagementSystem\Version\obj\Debug\EDPVersion.pdb
+E:\bravo all\07-11-2016_Bravo\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll.config
+E:\bravo all\07-11-2016_Bravo\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll
+E:\bravo all\07-11-2016_Bravo\PayRollManagementSystem\Version\bin\Debug\EDPVersion.pdb
+E:\bravo all\07-11-2016_Bravo\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.dll
+E:\bravo all\07-11-2016_Bravo\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.pdb
+E:\bravo all\07-11-2016_Bravo\PayRollManagementSystem\Version\obj\Debug\ResolveAssemblyReference.cache
+E:\bravo all\07-11-2016_Bravo\PayRollManagementSystem\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+E:\bravo all\07-11-2016_Bravo\PayRollManagementSystem\Version\obj\Debug\EDPVersion.versionEDP.resources
+E:\bravo all\07-11-2016_Bravo\PayRollManagementSystem\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+E:\bravo all\07-11-2016_Bravo\PayRollManagementSystem\Version\obj\Debug\EDPVersion.dll
+E:\bravo all\07-11-2016_Bravo\PayRollManagementSystem\Version\obj\Debug\EDPVersion.pdb
+E:\bravo all\26-11-2016_Bravo\PayRollManagementSystem\Version\obj\Debug\ResolveAssemblyReference.cache
+E:\bravo all\26-11-2016_Bravo\PayRollManagementSystem\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+E:\bravo all\26-11-2016_Bravo\PayRollManagementSystem\Version\obj\Debug\EDPVersion.versionEDP.resources
+E:\bravo all\26-11-2016_Bravo\PayRollManagementSystem\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+E:\bravo all\26-11-2016_Bravo\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll.config
+E:\bravo all\26-11-2016_Bravo\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll
+E:\bravo all\26-11-2016_Bravo\PayRollManagementSystem\Version\bin\Debug\EDPVersion.pdb
+E:\bravo all\26-11-2016_Bravo\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.dll
+E:\bravo all\26-11-2016_Bravo\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.pdb
+E:\bravo all\26-11-2016_Bravo\PayRollManagementSystem\Version\obj\Debug\EDPVersion.dll
+E:\bravo all\26-11-2016_Bravo\PayRollManagementSystem\Version\obj\Debug\EDPVersion.pdb
+E:\bravo all\21-12-2016_Bravo\PayRollManagementSystem\Version\obj\Debug\ResolveAssemblyReference.cache
+E:\bravo all\21-12-2016_Bravo\PayRollManagementSystem\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+E:\bravo all\21-12-2016_Bravo\PayRollManagementSystem\Version\obj\Debug\EDPVersion.versionEDP.resources
+E:\bravo all\21-12-2016_Bravo\PayRollManagementSystem\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+E:\bravo all\21-12-2016_Bravo\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll.config
+E:\bravo all\21-12-2016_Bravo\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll
+E:\bravo all\21-12-2016_Bravo\PayRollManagementSystem\Version\bin\Debug\EDPVersion.pdb
+E:\bravo all\21-12-2016_Bravo\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.dll
+E:\bravo all\21-12-2016_Bravo\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.pdb
+E:\bravo all\21-12-2016_Bravo\PayRollManagementSystem\Version\obj\Debug\EDPVersion.dll
+E:\bravo all\21-12-2016_Bravo\PayRollManagementSystem\Version\obj\Debug\EDPVersion.pdb
+E:\bravo all\05-01-2017_Bravo\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll.config
+E:\bravo all\05-01-2017_Bravo\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll
+E:\bravo all\05-01-2017_Bravo\PayRollManagementSystem\Version\bin\Debug\EDPVersion.pdb
+E:\bravo all\05-01-2017_Bravo\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.dll
+E:\bravo all\05-01-2017_Bravo\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.pdb
+E:\bravo all\05-01-2017_Bravo\PayRollManagementSystem\Version\obj\Debug\ResolveAssemblyReference.cache
+E:\bravo all\05-01-2017_Bravo\PayRollManagementSystem\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+E:\bravo all\05-01-2017_Bravo\PayRollManagementSystem\Version\obj\Debug\EDPVersion.versionEDP.resources
+E:\bravo all\05-01-2017_Bravo\PayRollManagementSystem\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+E:\bravo all\05-01-2017_Bravo\PayRollManagementSystem\Version\obj\Debug\EDPVersion.dll
+E:\bravo all\05-01-2017_Bravo\PayRollManagementSystem\Version\obj\Debug\EDPVersion.pdb
+E:\bravo all\11-01-2017_Bravo\PayRollManagementSystem\Version\obj\Debug\ResolveAssemblyReference.cache
+E:\bravo all\11-01-2017_Bravo\PayRollManagementSystem\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+E:\bravo all\11-01-2017_Bravo\PayRollManagementSystem\Version\obj\Debug\EDPVersion.versionEDP.resources
+E:\bravo all\11-01-2017_Bravo\PayRollManagementSystem\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+E:\bravo all\11-01-2017_Bravo\PayRollManagementSystem\Version\obj\Debug\EDPVersion.dll
+E:\bravo all\11-01-2017_Bravo\PayRollManagementSystem\Version\obj\Debug\EDPVersion.pdb
+E:\bravo all\11-01-2017_Bravo\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll.config
+E:\bravo all\11-01-2017_Bravo\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll
+E:\bravo all\11-01-2017_Bravo\PayRollManagementSystem\Version\bin\Debug\EDPVersion.pdb
+E:\bravo all\11-01-2017_Bravo\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.dll
+E:\bravo all\11-01-2017_Bravo\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.pdb
+E:\bravo all\14-01-2017_Bravo\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll.config
+E:\bravo all\14-01-2017_Bravo\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll
+E:\bravo all\14-01-2017_Bravo\PayRollManagementSystem\Version\bin\Debug\EDPVersion.pdb
+E:\bravo all\14-01-2017_Bravo\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.dll
+E:\bravo all\14-01-2017_Bravo\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.pdb
+E:\bravo all\14-01-2017_Bravo\PayRollManagementSystem\Version\obj\Debug\ResolveAssemblyReference.cache
+E:\bravo all\14-01-2017_Bravo\PayRollManagementSystem\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+E:\bravo all\14-01-2017_Bravo\PayRollManagementSystem\Version\obj\Debug\EDPVersion.versionEDP.resources
+E:\bravo all\14-01-2017_Bravo\PayRollManagementSystem\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+E:\bravo all\14-01-2017_Bravo\PayRollManagementSystem\Version\obj\Debug\EDPVersion.dll
+E:\bravo all\14-01-2017_Bravo\PayRollManagementSystem\Version\obj\Debug\EDPVersion.pdb
+E:\bravo all\16_02_2017_Bravo\PayRollManagementSystem\Version\obj\Debug\ResolveAssemblyReference.cache
+E:\bravo all\16_02_2017_Bravo\PayRollManagementSystem\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+E:\bravo all\16_02_2017_Bravo\PayRollManagementSystem\Version\obj\Debug\EDPVersion.versionEDP.resources
+E:\bravo all\16_02_2017_Bravo\PayRollManagementSystem\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+E:\bravo all\16_02_2017_Bravo\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll.config
+E:\bravo all\16_02_2017_Bravo\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll
+E:\bravo all\16_02_2017_Bravo\PayRollManagementSystem\Version\bin\Debug\EDPVersion.pdb
+E:\bravo all\16_02_2017_Bravo\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.dll
+E:\bravo all\16_02_2017_Bravo\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.pdb
+E:\bravo all\16_02_2017_Bravo\PayRollManagementSystem\Version\obj\Debug\EDPVersion.dll
+E:\bravo all\16_02_2017_Bravo\PayRollManagementSystem\Version\obj\Debug\EDPVersion.pdb
+E:\edp\16_02_2017_Bravo\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll.config
+E:\edp\16_02_2017_Bravo\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll
+E:\edp\16_02_2017_Bravo\PayRollManagementSystem\Version\bin\Debug\EDPVersion.pdb
+E:\edp\16_02_2017_Bravo\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.dll
+E:\edp\16_02_2017_Bravo\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.pdb
+E:\edp\16_02_2017_Bravo\PayRollManagementSystem\Version\obj\Debug\ResolveAssemblyReference.cache
+E:\edp\16_02_2017_Bravo\PayRollManagementSystem\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+E:\edp\16_02_2017_Bravo\PayRollManagementSystem\Version\obj\Debug\EDPVersion.versionEDP.resources
+E:\edp\16_02_2017_Bravo\PayRollManagementSystem\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+E:\edp\16_02_2017_Bravo\PayRollManagementSystem\Version\obj\Debug\EDPVersion.dll
+E:\edp\16_02_2017_Bravo\PayRollManagementSystem\Version\obj\Debug\EDPVersion.pdb
+E:\edp projects\Bravo\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll.config
+E:\edp projects\Bravo\PayRollManagementSystem\Version\bin\Debug\EDPVersion.dll
+E:\edp projects\Bravo\PayRollManagementSystem\Version\bin\Debug\EDPVersion.pdb
+E:\edp projects\Bravo\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.dll
+E:\edp projects\Bravo\PayRollManagementSystem\Version\bin\Debug\FirstTimeNeed.pdb
+E:\edp projects\Bravo\PayRollManagementSystem\Version\obj\Debug\ResolveAssemblyReference.cache
+E:\edp projects\Bravo\PayRollManagementSystem\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+E:\edp projects\Bravo\PayRollManagementSystem\Version\obj\Debug\EDPVersion.versionEDP.resources
+E:\edp projects\Bravo\PayRollManagementSystem\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+E:\edp projects\Bravo\PayRollManagementSystem\Version\obj\Debug\EDPVersion.dll
+E:\edp projects\Bravo\PayRollManagementSystem\Version\obj\Debug\EDPVersion.pdb
+D:\New folder\Bravo_13_04_2017\Version\bin\Debug\EDPVersion.dll.config
+D:\New folder\Bravo_13_04_2017\Version\bin\Debug\EDPVersion.dll
+D:\New folder\Bravo_13_04_2017\Version\bin\Debug\EDPVersion.pdb
+D:\New folder\Bravo_13_04_2017\Version\bin\Debug\FirstTimeNeed.dll
+D:\New folder\Bravo_13_04_2017\Version\bin\Debug\FirstTimeNeed.pdb
+D:\New folder\Bravo_13_04_2017\Version\obj\Debug\ResolveAssemblyReference.cache
+D:\New folder\Bravo_13_04_2017\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+D:\New folder\Bravo_13_04_2017\Version\obj\Debug\EDPVersion.versionEDP.resources
+D:\New folder\Bravo_13_04_2017\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+D:\New folder\Bravo_13_04_2017\Version\obj\Debug\EDPVersion.dll
+D:\New folder\Bravo_13_04_2017\Version\obj\Debug\EDPVersion.pdb
+E:\edp projects\Bravo_19_04_2017\Version\bin\Debug\EDPVersion.dll.config
+E:\edp projects\Bravo_19_04_2017\Version\bin\Debug\EDPVersion.dll
+E:\edp projects\Bravo_19_04_2017\Version\bin\Debug\EDPVersion.pdb
+E:\edp projects\Bravo_19_04_2017\Version\bin\Debug\FirstTimeNeed.dll
+E:\edp projects\Bravo_19_04_2017\Version\bin\Debug\FirstTimeNeed.pdb
+E:\edp projects\Bravo_19_04_2017\Version\obj\Debug\ResolveAssemblyReference.cache
+E:\edp projects\Bravo_19_04_2017\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+E:\edp projects\Bravo_19_04_2017\Version\obj\Debug\EDPVersion.versionEDP.resources
+E:\edp projects\Bravo_19_04_2017\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+E:\edp projects\Bravo_19_04_2017\Version\obj\Debug\EDPVersion.dll
+E:\edp projects\Bravo_19_04_2017\Version\obj\Debug\EDPVersion.pdb
+E:\edp projects\Bravo_04_05_2017\Version\bin\Debug\EDPVersion.dll.config
+E:\edp projects\Bravo_04_05_2017\Version\bin\Debug\EDPVersion.dll
+E:\edp projects\Bravo_04_05_2017\Version\bin\Debug\EDPVersion.pdb
+E:\edp projects\Bravo_04_05_2017\Version\bin\Debug\FirstTimeNeed.dll
+E:\edp projects\Bravo_04_05_2017\Version\bin\Debug\FirstTimeNeed.pdb
+E:\edp projects\Bravo_04_05_2017\Version\obj\Debug\ResolveAssemblyReference.cache
+E:\edp projects\Bravo_04_05_2017\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+E:\edp projects\Bravo_04_05_2017\Version\obj\Debug\EDPVersion.versionEDP.resources
+E:\edp projects\Bravo_04_05_2017\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+E:\edp projects\Bravo_04_05_2017\Version\obj\Debug\EDPVersion.dll
+E:\edp projects\Bravo_04_05_2017\Version\obj\Debug\EDPVersion.pdb
+H:\ERP\Bravo_04_05_2017\Version\bin\Debug\EDPVersion.dll.config
+H:\ERP\Bravo_04_05_2017\Version\bin\Debug\EDPVersion.dll
+H:\ERP\Bravo_04_05_2017\Version\bin\Debug\EDPVersion.pdb
+H:\ERP\Bravo_04_05_2017\Version\bin\Debug\FirstTimeNeed.dll
+H:\ERP\Bravo_04_05_2017\Version\bin\Debug\FirstTimeNeed.pdb
+H:\ERP\Bravo_04_05_2017\Version\obj\Debug\ResolveAssemblyReference.cache
+H:\ERP\Bravo_04_05_2017\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+H:\ERP\Bravo_04_05_2017\Version\obj\Debug\EDPVersion.versionEDP.resources
+H:\ERP\Bravo_04_05_2017\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+H:\ERP\Bravo_04_05_2017\Version\obj\Debug\EDPVersion.dll
+H:\ERP\Bravo_04_05_2017\Version\obj\Debug\EDPVersion.pdb
+D:\me\Bravo_27_05_2017\Version\bin\Debug\EDPVersion.dll.config
+D:\me\Bravo_27_05_2017\Version\bin\Debug\EDPVersion.dll
+D:\me\Bravo_27_05_2017\Version\bin\Debug\EDPVersion.pdb
+D:\me\Bravo_27_05_2017\Version\bin\Debug\FirstTimeNeed.dll
+D:\me\Bravo_27_05_2017\Version\bin\Debug\FirstTimeNeed.pdb
+D:\me\Bravo_27_05_2017\Version\obj\Debug\ResolveAssemblyReference.cache
+D:\me\Bravo_27_05_2017\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+D:\me\Bravo_27_05_2017\Version\obj\Debug\EDPVersion.versionEDP.resources
+D:\me\Bravo_27_05_2017\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+D:\me\Bravo_27_05_2017\Version\obj\Debug\EDPVersion.dll
+D:\me\Bravo_27_05_2017\Version\obj\Debug\EDPVersion.pdb
+E:\edp projects\Bravo_30_05_2017\Version\bin\Debug\EDPVersion.dll.config
+E:\edp projects\Bravo_30_05_2017\Version\bin\Debug\EDPVersion.dll
+E:\edp projects\Bravo_30_05_2017\Version\bin\Debug\EDPVersion.pdb
+E:\edp projects\Bravo_30_05_2017\Version\bin\Debug\FirstTimeNeed.dll
+E:\edp projects\Bravo_30_05_2017\Version\bin\Debug\FirstTimeNeed.pdb
+E:\edp projects\Bravo_30_05_2017\Version\obj\Debug\ResolveAssemblyReference.cache
+E:\edp projects\Bravo_30_05_2017\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+E:\edp projects\Bravo_30_05_2017\Version\obj\Debug\EDPVersion.versionEDP.resources
+E:\edp projects\Bravo_30_05_2017\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+E:\edp projects\Bravo_30_05_2017\Version\obj\Debug\EDPVersion.dll
+E:\edp projects\Bravo_30_05_2017\Version\obj\Debug\EDPVersion.pdb
+E:\New folder\Bravo_30_05_2017\Version\bin\Debug\EDPVersion.dll.config
+E:\New folder\Bravo_30_05_2017\Version\bin\Debug\EDPVersion.dll
+E:\New folder\Bravo_30_05_2017\Version\bin\Debug\EDPVersion.pdb
+E:\New folder\Bravo_30_05_2017\Version\bin\Debug\FirstTimeNeed.dll
+E:\New folder\Bravo_30_05_2017\Version\bin\Debug\FirstTimeNeed.pdb
+E:\New folder\Bravo_30_05_2017\Version\obj\Debug\ResolveAssemblyReference.cache
+E:\New folder\Bravo_30_05_2017\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+E:\New folder\Bravo_30_05_2017\Version\obj\Debug\EDPVersion.versionEDP.resources
+E:\New folder\Bravo_30_05_2017\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+E:\New folder\Bravo_30_05_2017\Version\obj\Debug\EDPVersion.dll
+E:\New folder\Bravo_30_05_2017\Version\obj\Debug\EDPVersion.pdb
+E:\bravo all\Bravo_15_01_2018\Version\bin\Debug\EDPVersion.dll.config
+E:\bravo all\Bravo_15_01_2018\Version\bin\Debug\EDPVersion.dll
+E:\bravo all\Bravo_15_01_2018\Version\bin\Debug\EDPVersion.pdb
+E:\bravo all\Bravo_15_01_2018\Version\bin\Debug\FirstTimeNeed.dll
+E:\bravo all\Bravo_15_01_2018\Version\bin\Debug\FirstTimeNeed.pdb
+E:\bravo all\Bravo_15_01_2018\Version\obj\Debug\ResolveAssemblyReference.cache
+E:\bravo all\Bravo_15_01_2018\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+E:\bravo all\Bravo_15_01_2018\Version\obj\Debug\EDPVersion.versionEDP.resources
+E:\bravo all\Bravo_15_01_2018\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+E:\bravo all\Bravo_15_01_2018\Version\obj\Debug\EDPVersion.dll
+E:\bravo all\Bravo_15_01_2018\Version\obj\Debug\EDPVersion.pdb
+H:\Bravo_15_01_2018\Version\bin\Debug\EDPVersion.dll.config
+H:\Bravo_15_01_2018\Version\bin\Debug\EDPVersion.dll
+H:\Bravo_15_01_2018\Version\bin\Debug\EDPVersion.pdb
+H:\Bravo_15_01_2018\Version\bin\Debug\FirstTimeNeed.dll
+H:\Bravo_15_01_2018\Version\bin\Debug\FirstTimeNeed.pdb
+H:\Bravo_15_01_2018\Version\obj\Debug\ResolveAssemblyReference.cache
+H:\Bravo_15_01_2018\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+H:\Bravo_15_01_2018\Version\obj\Debug\EDPVersion.versionEDP.resources
+H:\Bravo_15_01_2018\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+H:\Bravo_15_01_2018\Version\obj\Debug\EDPVersion.dll
+H:\Bravo_15_01_2018\Version\obj\Debug\EDPVersion.pdb
+E:\bravo all\Bravo_14_03_2018\Version\obj\Debug\ResolveAssemblyReference.cache
+E:\bravo all\Bravo_14_03_2018\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+E:\bravo all\Bravo_14_03_2018\Version\obj\Debug\EDPVersion.versionEDP.resources
+E:\bravo all\Bravo_14_03_2018\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+E:\bravo all\Bravo_14_03_2018\Version\bin\Debug\EDPVersion.dll.config
+E:\bravo all\Bravo_14_03_2018\Version\bin\Debug\EDPVersion.dll
+E:\bravo all\Bravo_14_03_2018\Version\bin\Debug\EDPVersion.pdb
+E:\bravo all\Bravo_14_03_2018\Version\bin\Debug\FirstTimeNeed.dll
+E:\bravo all\Bravo_14_03_2018\Version\bin\Debug\FirstTimeNeed.pdb
+E:\bravo all\Bravo_14_03_2018\Version\obj\Debug\EDPVersion.dll
+E:\bravo all\Bravo_14_03_2018\Version\obj\Debug\EDPVersion.pdb
+E:\Backup\Bravo_14_03_2018\Version\bin\Debug\EDPVersion.dll.config
+E:\Backup\Bravo_14_03_2018\Version\bin\Debug\EDPVersion.dll
+E:\Backup\Bravo_14_03_2018\Version\bin\Debug\EDPVersion.pdb
+E:\Backup\Bravo_14_03_2018\Version\bin\Debug\FirstTimeNeed.dll
+E:\Backup\Bravo_14_03_2018\Version\bin\Debug\FirstTimeNeed.pdb
+E:\Backup\Bravo_14_03_2018\Version\obj\Debug\ResolveAssemblyReference.cache
+E:\Backup\Bravo_14_03_2018\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+E:\Backup\Bravo_14_03_2018\Version\obj\Debug\EDPVersion.versionEDP.resources
+E:\Backup\Bravo_14_03_2018\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+E:\Backup\Bravo_14_03_2018\Version\obj\Debug\EDPVersion.dll
+E:\Backup\Bravo_14_03_2018\Version\obj\Debug\EDPVersion.pdb
+E:\bravo all\Bravo_15_03_2018\Version\bin\Debug\EDPVersion.dll.config
+E:\bravo all\Bravo_15_03_2018\Version\bin\Debug\EDPVersion.dll
+E:\bravo all\Bravo_15_03_2018\Version\bin\Debug\EDPVersion.pdb
+E:\bravo all\Bravo_15_03_2018\Version\bin\Debug\FirstTimeNeed.dll
+E:\bravo all\Bravo_15_03_2018\Version\bin\Debug\FirstTimeNeed.pdb
+E:\bravo all\Bravo_15_03_2018\Version\obj\Debug\ResolveAssemblyReference.cache
+E:\bravo all\Bravo_15_03_2018\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+E:\bravo all\Bravo_15_03_2018\Version\obj\Debug\EDPVersion.versionEDP.resources
+E:\bravo all\Bravo_15_03_2018\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+E:\bravo all\Bravo_15_03_2018\Version\obj\Debug\EDPVersion.dll
+E:\bravo all\Bravo_15_03_2018\Version\obj\Debug\EDPVersion.pdb
+H:\Bravo_15_03_2018\Version\obj\Debug\ResolveAssemblyReference.cache
+H:\Bravo_15_03_2018\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+H:\Bravo_15_03_2018\Version\obj\Debug\EDPVersion.versionEDP.resources
+H:\Bravo_15_03_2018\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+H:\Bravo_15_03_2018\Version\bin\Debug\EDPVersion.dll.config
+H:\Bravo_15_03_2018\Version\bin\Debug\EDPVersion.dll
+H:\Bravo_15_03_2018\Version\bin\Debug\EDPVersion.pdb
+H:\Bravo_15_03_2018\Version\bin\Debug\FirstTimeNeed.dll
+H:\Bravo_15_03_2018\Version\bin\Debug\FirstTimeNeed.pdb
+H:\Bravo_15_03_2018\Version\obj\Debug\EDPVersion.dll
+H:\Bravo_15_03_2018\Version\obj\Debug\EDPVersion.pdb
+E:\bravo all\Bravo_19_03_2018\Version\bin\Debug\EDPVersion.dll.config
+E:\bravo all\Bravo_19_03_2018\Version\bin\Debug\EDPVersion.dll
+E:\bravo all\Bravo_19_03_2018\Version\bin\Debug\EDPVersion.pdb
+E:\bravo all\Bravo_19_03_2018\Version\bin\Debug\FirstTimeNeed.dll
+E:\bravo all\Bravo_19_03_2018\Version\bin\Debug\FirstTimeNeed.pdb
+E:\bravo all\Bravo_19_03_2018\Version\obj\Debug\ResolveAssemblyReference.cache
+E:\bravo all\Bravo_19_03_2018\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+E:\bravo all\Bravo_19_03_2018\Version\obj\Debug\EDPVersion.versionEDP.resources
+E:\bravo all\Bravo_19_03_2018\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+E:\bravo all\Bravo_19_03_2018\Version\obj\Debug\EDPVersion.dll
+E:\bravo all\Bravo_19_03_2018\Version\obj\Debug\EDPVersion.pdb
+E:\bravo all\Bravo_28_03_2018\Version\bin\Debug\EDPVersion.dll.config
+E:\bravo all\Bravo_28_03_2018\Version\bin\Debug\EDPVersion.dll
+E:\bravo all\Bravo_28_03_2018\Version\bin\Debug\EDPVersion.pdb
+E:\bravo all\Bravo_28_03_2018\Version\bin\Debug\FirstTimeNeed.dll
+E:\bravo all\Bravo_28_03_2018\Version\bin\Debug\FirstTimeNeed.pdb
+E:\bravo all\Bravo_28_03_2018\Version\obj\Debug\ResolveAssemblyReference.cache
+E:\bravo all\Bravo_28_03_2018\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+E:\bravo all\Bravo_28_03_2018\Version\obj\Debug\EDPVersion.versionEDP.resources
+E:\bravo all\Bravo_28_03_2018\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+E:\bravo all\Bravo_28_03_2018\Version\obj\Debug\EDPVersion.dll
+E:\bravo all\Bravo_28_03_2018\Version\obj\Debug\EDPVersion.pdb
+E:\bravo all\Bravo_09_04_2018\Version\bin\Debug\EDPVersion.dll.config
+E:\bravo all\Bravo_09_04_2018\Version\bin\Debug\EDPVersion.dll
+E:\bravo all\Bravo_09_04_2018\Version\bin\Debug\EDPVersion.pdb
+E:\bravo all\Bravo_09_04_2018\Version\bin\Debug\FirstTimeNeed.dll
+E:\bravo all\Bravo_09_04_2018\Version\bin\Debug\FirstTimeNeed.pdb
+E:\bravo all\Bravo_09_04_2018\Version\obj\Debug\ResolveAssemblyReference.cache
+E:\bravo all\Bravo_09_04_2018\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+E:\bravo all\Bravo_09_04_2018\Version\obj\Debug\EDPVersion.versionEDP.resources
+E:\bravo all\Bravo_09_04_2018\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+E:\bravo all\Bravo_09_04_2018\Version\obj\Debug\EDPVersion.dll
+E:\bravo all\Bravo_09_04_2018\Version\obj\Debug\EDPVersion.pdb
+H:\Bravo_09_04_2018\Version\bin\Debug\EDPVersion.dll.config
+H:\Bravo_09_04_2018\Version\bin\Debug\EDPVersion.dll
+H:\Bravo_09_04_2018\Version\bin\Debug\EDPVersion.pdb
+H:\Bravo_09_04_2018\Version\bin\Debug\FirstTimeNeed.dll
+H:\Bravo_09_04_2018\Version\bin\Debug\FirstTimeNeed.pdb
+H:\Bravo_09_04_2018\Version\obj\Debug\ResolveAssemblyReference.cache
+H:\Bravo_09_04_2018\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+H:\Bravo_09_04_2018\Version\obj\Debug\EDPVersion.versionEDP.resources
+H:\Bravo_09_04_2018\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+H:\Bravo_09_04_2018\Version\obj\Debug\EDPVersion.dll
+H:\Bravo_09_04_2018\Version\obj\Debug\EDPVersion.pdb
+G:\Bravo_09_04_2018\Version\bin\Debug\EDPVersion.dll.config
+G:\Bravo_09_04_2018\Version\bin\Debug\EDPVersion.dll
+G:\Bravo_09_04_2018\Version\bin\Debug\EDPVersion.pdb
+G:\Bravo_09_04_2018\Version\bin\Debug\FirstTimeNeed.dll
+G:\Bravo_09_04_2018\Version\bin\Debug\FirstTimeNeed.pdb
+G:\Bravo_09_04_2018\Version\obj\Debug\ResolveAssemblyReference.cache
+G:\Bravo_09_04_2018\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+G:\Bravo_09_04_2018\Version\obj\Debug\EDPVersion.versionEDP.resources
+G:\Bravo_09_04_2018\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+G:\Bravo_09_04_2018\Version\obj\Debug\EDPVersion.dll
+G:\Bravo_09_04_2018\Version\obj\Debug\EDPVersion.pdb
+H:\EDPSOFT-D1\Bravo_09_04_2018\Version\bin\Debug\EDPVersion.dll.config
+H:\EDPSOFT-D1\Bravo_09_04_2018\Version\bin\Debug\EDPVersion.dll
+H:\EDPSOFT-D1\Bravo_09_04_2018\Version\bin\Debug\EDPVersion.pdb
+H:\EDPSOFT-D1\Bravo_09_04_2018\Version\bin\Debug\FirstTimeNeed.dll
+H:\EDPSOFT-D1\Bravo_09_04_2018\Version\bin\Debug\FirstTimeNeed.pdb
+H:\EDPSOFT-D1\Bravo_09_04_2018\Version\obj\Debug\ResolveAssemblyReference.cache
+H:\EDPSOFT-D1\Bravo_09_04_2018\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+H:\EDPSOFT-D1\Bravo_09_04_2018\Version\obj\Debug\EDPVersion.versionEDP.resources
+H:\EDPSOFT-D1\Bravo_09_04_2018\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+H:\EDPSOFT-D1\Bravo_09_04_2018\Version\obj\Debug\EDPVersion.dll
+H:\EDPSOFT-D1\Bravo_09_04_2018\Version\obj\Debug\EDPVersion.pdb
+E:\Bravo_09_04_2018\Version\bin\Debug\EDPVersion.dll.config
+E:\Bravo_09_04_2018\Version\bin\Debug\EDPVersion.dll
+E:\Bravo_09_04_2018\Version\bin\Debug\EDPVersion.pdb
+E:\Bravo_09_04_2018\Version\bin\Debug\FirstTimeNeed.dll
+E:\Bravo_09_04_2018\Version\bin\Debug\FirstTimeNeed.pdb
+E:\Bravo_09_04_2018\Version\obj\Debug\ResolveAssemblyReference.cache
+E:\Bravo_09_04_2018\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+E:\Bravo_09_04_2018\Version\obj\Debug\EDPVersion.versionEDP.resources
+E:\Bravo_09_04_2018\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+E:\Bravo_09_04_2018\Version\obj\Debug\EDPVersion.dll
+E:\Bravo_09_04_2018\Version\obj\Debug\EDPVersion.pdb
+G:\Projects\Bravo_09_04_2018\Version\bin\Debug\EDPVersion.dll.config
+G:\Projects\Bravo_09_04_2018\Version\bin\Debug\EDPVersion.dll
+G:\Projects\Bravo_09_04_2018\Version\bin\Debug\EDPVersion.pdb
+G:\Projects\Bravo_09_04_2018\Version\bin\Debug\FirstTimeNeed.dll
+G:\Projects\Bravo_09_04_2018\Version\bin\Debug\FirstTimeNeed.pdb
+G:\Projects\Bravo_09_04_2018\Version\obj\Debug\ResolveAssemblyReference.cache
+G:\Projects\Bravo_09_04_2018\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+G:\Projects\Bravo_09_04_2018\Version\obj\Debug\EDPVersion.versionEDP.resources
+G:\Projects\Bravo_09_04_2018\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+G:\Projects\Bravo_09_04_2018\Version\obj\Debug\EDPVersion.dll
+G:\Projects\Bravo_09_04_2018\Version\obj\Debug\EDPVersion.pdb
+H:\actual project\Bravo_09_04_2018\Version\bin\Debug\EDPVersion.dll.config
+H:\actual project\Bravo_09_04_2018\Version\bin\Debug\EDPVersion.dll
+H:\actual project\Bravo_09_04_2018\Version\bin\Debug\EDPVersion.pdb
+H:\actual project\Bravo_09_04_2018\Version\bin\Debug\FirstTimeNeed.dll
+H:\actual project\Bravo_09_04_2018\Version\bin\Debug\FirstTimeNeed.pdb
+H:\actual project\Bravo_09_04_2018\Version\obj\Debug\ResolveAssemblyReference.cache
+H:\actual project\Bravo_09_04_2018\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+H:\actual project\Bravo_09_04_2018\Version\obj\Debug\EDPVersion.versionEDP.resources
+H:\actual project\Bravo_09_04_2018\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+H:\actual project\Bravo_09_04_2018\Version\obj\Debug\EDPVersion.dll
+H:\actual project\Bravo_09_04_2018\Version\obj\Debug\EDPVersion.pdb
+E:\actual project\Bravo_09_04_2018\Version\obj\Debug\ResolveAssemblyReference.cache
+E:\actual project\Bravo_09_04_2018\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+E:\actual project\Bravo_09_04_2018\Version\obj\Debug\EDPVersion.versionEDP.resources
+E:\actual project\Bravo_09_04_2018\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+E:\actual project\Bravo_09_04_2018\Version\bin\Debug\EDPVersion.dll.config
+E:\actual project\Bravo_09_04_2018\Version\bin\Debug\EDPVersion.dll
+E:\actual project\Bravo_09_04_2018\Version\bin\Debug\EDPVersion.pdb
+E:\actual project\Bravo_09_04_2018\Version\bin\Debug\FirstTimeNeed.dll
+E:\actual project\Bravo_09_04_2018\Version\bin\Debug\FirstTimeNeed.pdb
+E:\actual project\Bravo_09_04_2018\Version\obj\Debug\EDPVersion.dll
+E:\actual project\Bravo_09_04_2018\Version\obj\Debug\EDPVersion.pdb
+E:\Bravo Project 26_12_2018\Bravo_26_12_2018\Version\bin\Debug\EDPVersion.dll.config
+E:\Bravo Project 26_12_2018\Bravo_26_12_2018\Version\bin\Debug\EDPVersion.dll
+E:\Bravo Project 26_12_2018\Bravo_26_12_2018\Version\bin\Debug\EDPVersion.pdb
+E:\Bravo Project 26_12_2018\Bravo_26_12_2018\Version\bin\Debug\FirstTimeNeed.dll
+E:\Bravo Project 26_12_2018\Bravo_26_12_2018\Version\bin\Debug\FirstTimeNeed.pdb
+E:\Bravo Project 26_12_2018\Bravo_26_12_2018\Version\obj\Debug\ResolveAssemblyReference.cache
+E:\Bravo Project 26_12_2018\Bravo_26_12_2018\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+E:\Bravo Project 26_12_2018\Bravo_26_12_2018\Version\obj\Debug\EDPVersion.versionEDP.resources
+E:\Bravo Project 26_12_2018\Bravo_26_12_2018\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+E:\Bravo Project 26_12_2018\Bravo_26_12_2018\Version\obj\Debug\EDPVersion.dll
+E:\Bravo Project 26_12_2018\Bravo_26_12_2018\Version\obj\Debug\EDPVersion.pdb
+E:\Bravo Project 01_01_2019\Bravo_01_01_2019\Version\obj\Debug\ResolveAssemblyReference.cache
+E:\Bravo Project 01_01_2019\Bravo_01_01_2019\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+E:\Bravo Project 01_01_2019\Bravo_01_01_2019\Version\obj\Debug\EDPVersion.versionEDP.resources
+E:\Bravo Project 01_01_2019\Bravo_01_01_2019\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+E:\Bravo Project 01_01_2019\Bravo_01_01_2019\Version\obj\Debug\EDPVersion.dll
+E:\Bravo Project 01_01_2019\Bravo_01_01_2019\Version\bin\Debug\EDPVersion.dll.config
+E:\Bravo Project 01_01_2019\Bravo_01_01_2019\Version\bin\Debug\EDPVersion.dll
+E:\Bravo Project 01_01_2019\Bravo_01_01_2019\Version\bin\Debug\EDPVersion.pdb
+E:\Bravo Project 01_01_2019\Bravo_01_01_2019\Version\bin\Debug\FirstTimeNeed.dll
+E:\Bravo Project 01_01_2019\Bravo_01_01_2019\Version\bin\Debug\FirstTimeNeed.pdb
+E:\Bravo Project 01_01_2019\Bravo_01_01_2019\Version\obj\Debug\EDPVersion.pdb
+E:\latest works 2019\Bravo Project 01_01_2019\Bravo_01_01_2019\Version\bin\Debug\EDPVersion.dll.config
+E:\latest works 2019\Bravo Project 01_01_2019\Bravo_01_01_2019\Version\bin\Debug\EDPVersion.dll
+E:\latest works 2019\Bravo Project 01_01_2019\Bravo_01_01_2019\Version\bin\Debug\EDPVersion.pdb
+E:\latest works 2019\Bravo Project 01_01_2019\Bravo_01_01_2019\Version\bin\Debug\FirstTimeNeed.dll
+E:\latest works 2019\Bravo Project 01_01_2019\Bravo_01_01_2019\Version\bin\Debug\FirstTimeNeed.pdb
+E:\latest works 2019\Bravo Project 01_01_2019\Bravo_01_01_2019\Version\obj\Debug\ResolveAssemblyReference.cache
+E:\latest works 2019\Bravo Project 01_01_2019\Bravo_01_01_2019\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+E:\latest works 2019\Bravo Project 01_01_2019\Bravo_01_01_2019\Version\obj\Debug\EDPVersion.versionEDP.resources
+E:\latest works 2019\Bravo Project 01_01_2019\Bravo_01_01_2019\Version\obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+E:\latest works 2019\Bravo Project 01_01_2019\Bravo_01_01_2019\Version\obj\Debug\EDPVersion.dll
+E:\latest works 2019\Bravo Project 01_01_2019\Bravo_01_01_2019\Version\obj\Debug\EDPVersion.pdb
+E:\BRAVO\dot net project for 2019\Bravo_01_01_2019\Version\bin\Debug\EDPVersion.dll.config
+E:\BRAVO\dot net project for 2019\Bravo_01_01_2019\Version\bin\Debug\EDPVersion.dll
+E:\BRAVO\dot net project for 2019\Bravo_01_01_2019\Version\bin\Debug\EDPVersion.pdb
+E:\BRAVO\dot net project for 2019\Bravo_01_01_2019\Version\bin\Debug\FirstTimeNeed.dll
+E:\BRAVO\dot net project for 2019\Bravo_01_01_2019\Version\bin\Debug\FirstTimeNeed.pdb
+E:\BRAVO\dot net project for 2019\Bravo_01_01_2019\Version\obj\Debug\EDPVersion.csproj.AssemblyReference.cache
+E:\BRAVO\dot net project for 2019\Bravo_01_01_2019\Version\obj\Debug\EDPVersion.Properties.Resources.resources
+E:\BRAVO\dot net project for 2019\Bravo_01_01_2019\Version\obj\Debug\EDPVersion.versionEDP.resources
+E:\BRAVO\dot net project for 2019\Bravo_01_01_2019\Version\obj\Debug\EDPVersion.csproj.GenerateResource.cache
+E:\BRAVO\dot net project for 2019\Bravo_01_01_2019\Version\obj\Debug\EDPVersion.csproj.CoreCompileInputs.cache
+E:\BRAVO\dot net project for 2019\Bravo_01_01_2019\Version\obj\Debug\EDPVersion.dll
+E:\BRAVO\dot net project for 2019\Bravo_01_01_2019\Version\obj\Debug\EDPVersion.pdb
+E:\BRAVO\dot net project for 2019\Bravo_01_01_2019\Version\obj\Debug\EDPVersion.csproj.CopyComplete

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="XMLSchema6"
+    targetNamespace="http://tempuri.org/XMLSchema6.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/XMLSchema6.xsd"
+    xmlns:mstns="http://tempuri.org/XMLSchema6.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="Attenrpt">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="firstname" type="xs:string" />
+				<xs:element name="middlename" type="xs:string" />
+				<xs:element name="lastname" type="xs:string" />
+				<xs:element name="ab" type="xs:int" />
+				<xs:element name="sl" type="xs:int" />
+				<xs:element name="cl" type="xs:int" />
+				<xs:element name="holiday" type="xs:int" />
+				<xs:element name="proxy" type="xs:int" />
+				<xs:element name="Present" type="xs:string" />
+				<xs:element name="DaysPresent" type="xs:int" />
+				
+				
+
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DS_DOC" targetNamespace="http://tempuri.org/DS_DOC.xsd" xmlns:mstns="http://tempuri.org/DS_DOC.xsd" xmlns="http://tempuri.org/DS_DOC.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DS_DOC" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="DS_DOC" msprop:Generator_UserDSName="DS_DOC" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtEimg" msprop:Generator_UserTableName="dtEimg" msprop:Generator_RowDeletedName="dtEimgRowDeleted" msprop:Generator_TableClassName="dtEimgDataTable" msprop:Generator_RowChangedName="dtEimgRowChanged" msprop:Generator_RowClassName="dtEimgRow" msprop:Generator_RowChangingName="dtEimgRowChanging" msprop:Generator_RowEvArgName="dtEimgRowChangeEvent" msprop:Generator_RowEvHandlerName="dtEimgRowChangeEventHandler" msprop:Generator_TablePropName="dtEimg" msprop:Generator_TableVarName="tabledtEimg" msprop:Generator_RowDeletingName="dtEimgRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ID" msprop:Generator_UserColumnName="ID" msprop:Generator_ColumnPropNameInRow="ID" msprop:Generator_ColumnVarNameInTable="columnID" msprop:Generator_ColumnPropNameInTable="IDColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="ename" msprop:Generator_UserColumnName="ename" msprop:Generator_ColumnPropNameInRow="ename" msprop:Generator_ColumnVarNameInTable="columnename" msprop:Generator_ColumnPropNameInTable="enameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Document_Type" msprop:Generator_UserColumnName="Document_Type" msprop:Generator_ColumnPropNameInRow="Document_Type" msprop:Generator_ColumnVarNameInTable="columnDocument_Type" msprop:Generator_ColumnPropNameInTable="Document_TypeColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Document_Image" msprop:Generator_UserColumnName="Document_Image" msprop:Generator_ColumnPropNameInRow="Document_Image" msprop:Generator_ColumnVarNameInTable="columnDocument_Image" msprop:Generator_ColumnPropNameInTable="Document_ImageColumn" type="xs:base64Binary" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

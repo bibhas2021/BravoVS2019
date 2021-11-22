@@ -1,0 +1,9 @@
+E:\06-08-2016_Bravo\PayRollManagementSystem\FirstTimeNeed\bin\Release\FirstTimeNeed.dll
+E:\06-08-2016_Bravo\PayRollManagementSystem\FirstTimeNeed\bin\Release\FirstTimeNeed.pdb
+E:\06-08-2016_Bravo\PayRollManagementSystem\FirstTimeNeed\bin\Release\Edpcom.dll
+E:\06-08-2016_Bravo\PayRollManagementSystem\FirstTimeNeed\bin\Release\EDPMessageBox.dll
+E:\06-08-2016_Bravo\PayRollManagementSystem\FirstTimeNeed\bin\Release\EDPComponent.dll
+E:\06-08-2016_Bravo\PayRollManagementSystem\FirstTimeNeed\bin\Release\Edpcom.pdb
+E:\06-08-2016_Bravo\PayRollManagementSystem\FirstTimeNeed\obj\Release\ResolveAssemblyReference.cache
+E:\06-08-2016_Bravo\PayRollManagementSystem\FirstTimeNeed\obj\Release\FirstTimeNeed.dll
+E:\06-08-2016_Bravo\PayRollManagementSystem\FirstTimeNeed\obj\Release\FirstTimeNeed.pdb

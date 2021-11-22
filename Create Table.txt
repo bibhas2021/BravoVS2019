@@ -1,0 +1,145 @@
+USE [SchoolManagement]
+GO
+/****** Object:  Table [dbo].[tbl_Emp_Posting]    Script Date: 06/17/2015 11:56:06 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+SET ANSI_PADDING ON
+GO
+CREATE TABLE [dbo].[tbl_Emp_Posting](
+	[ID] [numeric](18, 0) NOT NULL,
+	[Employ_ID] [varchar](50) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
+	[Cliant_ID] [numeric](18, 0) NULL,
+	[LOcation_ID] [numeric](18, 0) NULL,
+	[FromDate] [varchar](50) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
+	[ToDate] [varchar](50) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
+	[Posting_Month] [varchar](20) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
+	[Order_Person] [varchar](max) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
+	[Order_Date] [varchar](50) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
+	[UserName] [varchar](max) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
+	[Transaction_ID] [varchar](50) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
+	[Order_No] [varchar](50) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
+	[Session] [varchar](50) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
+ CONSTRAINT [PK_tbl_Emp_Posting] PRIMARY KEY CLUSTERED 
+(
+	[ID] ASC
+)WITH (PAD_INDEX  = OFF, IGNORE_DUP_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+SET ANSI_PADDING OFF
+
+
+
+USE [SchoolManagement]
+GO
+/****** Object:  Table [dbo].[tbl_Emp_Location]    Script Date: 05/25/2015 17:57:46 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+SET ANSI_PADDING ON
+GO
+CREATE TABLE [dbo].[tbl_Emp_Location](
+	[Location_ID] [numeric](18, 0) NOT NULL,
+	[Location_Name] [varchar](100) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
+	[Cliant_ID] [numeric](18, 0) NULL,
+ CONSTRAINT [PK_tbl_Emp_Location] PRIMARY KEY CLUSTERED 
+(
+	[Location_ID] ASC
+)WITH (PAD_INDEX  = OFF, IGNORE_DUP_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+SET ANSI_PADDING OFF
+
+USE [SchoolManagement]
+GO
+/****** Object:  Table [dbo].[tbl_Employee_OrderDetails]    Script Date: 06/17/2015 11:06:25 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+SET ANSI_PADDING ON
+GO
+CREATE TABLE [dbo].[tbl_Employee_OrderDetails](
+	[Order_ID] [numeric](18, 0) NOT NULL,
+	[Co_Code] [numeric](18, 0) NULL,
+	[Cliant_ID] [numeric](18, 0) NULL,
+	[Order_Name] [varchar](100) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
+	[Order_Date] [varchar](50) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
+	[FromDate] [varchar](50) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
+	[ToDate] [varchar](50) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
+	[Contract_Person] [varchar](50) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
+	[PnoneNo] [varchar](50) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
+	[Location] [varchar](50) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
+	[ManPower] [varchar](50) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
+	[Order_Remarks] [varchar](max) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
+	[Cliant_OrderNo] [numeric](18, 0) NULL,
+ CONSTRAINT [PK_tbl_Employee_OrderDetails] PRIMARY KEY CLUSTERED 
+(
+	[Order_ID] ASC
+)WITH (PAD_INDEX  = OFF, IGNORE_DUP_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+SET ANSI_PADDING OFF
+
+
+
+USE [SchoolManagement]
+GO
+/****** Object:  Table [dbo].[tbl_Employee_Link_SalaryStructure]    Script Date: 04/29/2015 12:46:31 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[tbl_Employee_Link_SalaryStructure](
+	[Link_ID] [numeric](18, 0) NOT NULL,
+	[Location_ID] [numeric](18, 0) NULL,
+	[SalaryStructure_ID] [numeric](18, 0) NULL,
+ CONSTRAINT [PK_tbl_Employee_Link_SalaryStructure] PRIMARY KEY CLUSTERED 
+(
+	[Link_ID] ASC
+)WITH (PAD_INDEX  = OFF, IGNORE_DUP_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+
+
+
+
+USE [SchoolManagement]
+GO
+/****** Object:  Table [dbo].[tbl_Employee_Attendance]    Script Date: 06/15/2015 16:26:36 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+SET ANSI_PADDING ON
+GO
+CREATE TABLE [dbo].[tbl_Employee_Attendance](
+	[SlNo] [int] IDENTITY(1,1) NOT NULL,
+	[ID] [varchar](50) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
+	[Status] [bit] NULL,
+	[Remarks] [varchar](max) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
+	[LeaveDate] [datetime] NULL,
+	[InsertionDate] [datetime] NULL CONSTRAINT [DF_tbl_Employee_Attendance_InsertionDate]  DEFAULT (getdate()),
+	[DayStatus] [int] NULL,
+	[LeaveType] [varchar](50) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
+	[FstLeave] [int] NULL,
+	[SndLeave] [int] NULL,
+	[Season] [varchar](20) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
+	[LeaveType1] [int] NULL,
+	[Date] [varchar](50) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
+	[LeaveTaken] [varchar](50) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
+	[LOcation_ID] [numeric](18, 0) NULL,
+	[FstProxy] [numeric](18, 0) NULL,
+	[SndProxy] [numeric](18, 0) NULL,
+ CONSTRAINT [PK_tbl_Employee_Attendance] PRIMARY KEY CLUSTERED 
+(
+	[SlNo] ASC
+)WITH (PAD_INDEX  = OFF, IGNORE_DUP_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+SET ANSI_PADDING OFF

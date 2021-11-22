@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="xmlspchallan" targetNamespace="http://tempuri.org/xmlspchallan.xsd" elementFormDefault="qualified" xmlns="http://tempuri.org/xmlspchallan.xsd" xmlns:mstns="http://tempuri.org/xmlspchallan.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="specimenin">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="sl" type="xs:string" />
+        <xs:element name="l" type="xs:string" />
+        <xs:element name="BookName" type="xs:string" />
+        <xs:element name="s" type="xs:string" />
+        <xs:element name="Quentity" type="xs:string" />
+        <xs:element name="Units" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  
+  <xs:element name="Transport">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Sl" type="xs:int" />
+        <xs:element name="Details" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Agentperfromence">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="BookName" type="xs:string" />
+        <xs:element name="Schoolname" type="xs:string" />
+        <xs:element name="countagent" type="xs:decimal" />
+        <xs:element name="countself" type="xs:decimal" />
+        <xs:element name="selfqty" type="xs:decimal" />
+        <xs:element name="selfamount" type="xs:decimal" />
+        <xs:element name="otherqty" type="xs:decimal" />
+        <xs:element name="otheramount" type="xs:decimal" />
+        <xs:element name="netqty" type="xs:decimal" />
+        <xs:element name="stddis" type="xs:decimal" />
+        <xs:element name="extdis" type="xs:decimal" />
+        <xs:element name="spedis" type="xs:decimal" />
+        <xs:element name="amount" type="xs:decimal" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

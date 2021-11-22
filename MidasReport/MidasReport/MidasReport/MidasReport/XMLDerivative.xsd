@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="XMLDerivative" targetNamespace="http://tempuri.org/XMLDerivative.xsd" elementFormDefault="qualified" xmlns="http://tempuri.org/XMLDerivative.xsd" xmlns:mstns="http://tempuri.org/XMLDerivative.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="Derivative">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Instrument" type="xs:string" />
+        <xs:element name="Classification" type="xs:string" />
+        <xs:element name="Expdate" type="xs:string" />
+        <xs:element name="QTY" type="xs:string" />
+        <xs:element name="Rate" type="xs:string" />
+        <xs:element name="Amount" type="xs:double" />
+        <xs:element name="CMP" type="xs:string" />
+        <xs:element name="MktValu" type="xs:double" />
+        <xs:element name="Absolate" type="xs:double" />
+        <xs:element name="Absolateper" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+
+  <xs:element name="Commodity">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Instrument" type="xs:string" />
+        <xs:element name="Classification" type="xs:string" />
+        <xs:element name="Expdate" type="xs:string" />
+        <xs:element name="QTY" type="xs:string" />
+        <xs:element name="Units" type="xs:string" />
+        <xs:element name="Rate" type="xs:string" />
+        <xs:element name="Amount" type="xs:double" />
+        <xs:element name="CMP" type="xs:string" />
+        <xs:element name="MktValu" type="xs:double" />
+        <xs:element name="Absolate" type="xs:double" />
+        <xs:element name="Absolateper" type="xs:string" />
+        
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  
+</xs:schema>

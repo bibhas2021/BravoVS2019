@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<xs:schema id="XMLless" 
+                  targetNamespace="http://tempuri.org/XMLless.xsd"
+                  elementFormDefault="qualified"
+                  xmlns="http://tempuri.org/XMLless.xsd"
+                  xmlns:mstns="http://tempuri.org/XMLless.xsd"
+                  xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="less">
+    <xs:complexType>
+      <xs:sequence>
+
+        <xs:element name="SLNO" type="xs:string" />
+        <xs:element name="Billno" type="xs:string" />
+        <xs:element name="date" type="xs:string" />
+        <xs:element name="item" type="xs:string" />
+        <xs:element name="salesamt" type="xs:string" />
+        <xs:element name="salesamt1" type="xs:string" />
+      
+
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

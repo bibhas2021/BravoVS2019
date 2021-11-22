@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="advance"
+    targetNamespace="http://tempuri.org/advance.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/advance.xsd"
+    xmlns:mstns="http://tempuri.org/advance.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="Advance_Rpt">
+	<xs:complexType>
+		<xs:sequence>
+			<xs:element name="Code" type="xs:string" />
+			<xs:element name="Name" type="xs:string" />
+      <xs:element name="wd" type="xs:string" />
+			<xs:element name="proxy" type="xs:string" />
+      <xs:element name="ed" type="xs:string" />
+      <xs:element name="Total" type="xs:string" />      
+			<xs:element name="id" type="xs:string" />
+			<xs:element name="Month" type="xs:string" />
+			<xs:element name="Session" type="xs:string" />
+			<xs:element name="Location" type="xs:string" />
+			<xs:element name="Company" type="xs:string" />
+      <xs:element name="edesg" type="xs:string" />
+			
+		</xs:sequence>
+	</xs:complexType>
+	</xs:element>
+
+  <xs:element name="SalSummary_Rpt">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Code" type="xs:string" />
+        <xs:element name="Name" type="xs:string" />
+        <xs:element name="basic" type="xs:string"/>
+        <xs:element name="wd" type="xs:string" />
+        <xs:element name="OT" type="xs:string" />
+        <xs:element name="TotalDays" type="xs:string" />
+        <xs:element name="rate" type="xs:string" />
+        <xs:element name="gross" type="xs:string" />
+        <xs:element name="pf" type="xs:string" />
+        <xs:element name="esi" type="xs:string" />
+        <xs:element name="loan" type="xs:string" />
+        <xs:element name="adv" type="xs:string" />
+        <xs:element name="kit" type="xs:string" />
+        
+        <xs:element name="tdedn" type="xs:string" />
+        <xs:element name="net" type="xs:string" />
+        
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="Ptax_Rpt">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Column1" type="xs:string" />
+        <xs:element name="Column2" type="xs:string" />
+        <xs:element name="Column3" type="xs:string" />
+        <xs:element name="Column4" type="xs:string" />
+        <xs:element name="Column5" type="xs:string" />
+        <xs:element name="Column6" type="xs:string" />
+        <xs:element name="Column7" type="xs:string" />
+        <xs:element name="Column8" type="xs:string" />
+        <xs:element name="Column9" type="xs:string" />
+        <xs:element name="Column10" type="xs:string" />
+        <xs:element name="Column11" type="xs:string" />
+        <xs:element name="Column12" type="xs:string" />
+        <xs:element name="Column13" type="xs:string" />
+        <xs:element name="Column14" type="xs:string" />
+        <xs:element name="Column15" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="userLog_Rpt">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Description" type="xs:string" />
+        <xs:element name="Machine" type="xs:string"    />
+        <xs:element name="Type" type="xs:string"      />
+        <xs:element name="Job" type="xs:string"      />
+        <xs:element name="DT" type="xs:string"      />
+        
+
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  
+</xs:schema>

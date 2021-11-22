@@ -1,0 +1,11 @@
+bin\Debug\EDPMessageBox.dll
+bin\Debug\EDPMessageBox.pdb
+bin\Debug\EDPComponent.dll
+bin\Debug\Interop.Office.dll
+bin\Debug\Interop.Excel.dll
+bin\Debug\EDPComponent.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\EDPMessageBox.Properties.Resources.resources
+obj\Debug\EDPMessageBox.csproj.GenerateResource.Cache
+obj\Debug\EDPMessageBox.dll
+obj\Debug\EDPMessageBox.pdb

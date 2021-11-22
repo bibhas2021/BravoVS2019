@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="XMLSummary" targetNamespace="http://tempuri.org/XMLSummary.xsd" elementFormDefault="qualified" xmlns="http://tempuri.org/XMLSummary.xsd" xmlns:mstns="http://tempuri.org/XMLSummary.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="element">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="DPID" type="xs:string" />
+        <xs:element name="AssetClass" type="xs:string" />
+        <xs:element name="Scripname" type="xs:string" />
+        <xs:element name="ISIN_NO" type="xs:string" />
+        <xs:element name="Openingqty" type="xs:string" />
+        <xs:element name="Debitqty" type="xs:string" />
+        <xs:element name="criditqty" type="xs:string" />
+        <xs:element name="Balanceqty" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="FDAccruedInterest">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Security" type="xs:string" />
+        <xs:element name="Classification" type="xs:string" />
+        <xs:element name="FDRNo" type="xs:string" />
+        <xs:element name="StDate" type="xs:string" />
+        <xs:element name="IntType" type="xs:string" />
+        <xs:element name="IntRate" type="xs:string" />
+        <xs:element name="Period" type="xs:string" />
+        <xs:element name="PeriodUnit" type="xs:string" />
+        <xs:element name="PrinAmt" type="xs:string" />
+        <xs:element name="MaturDate" type="xs:string" />
+        <xs:element name="MaturAmt" type="xs:string" />
+        <xs:element name="IntRec" type="xs:string" />
+        <xs:element name="AccruInt" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="FDPerformanceReport">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Security" type="xs:string" />        
+        <xs:element name="FDRNo" type="xs:string" />
+        <xs:element name="SubsAmt" type="xs:string" />
+        <xs:element name="AccInt1" type="xs:string" />
+        <xs:element name="AccInt2" type="xs:string" />
+        <xs:element name="Diff" type="xs:string" />
+        <xs:element name="IntIncome" type="xs:string" />
+        <xs:element name="TotalIncome" type="xs:string" />
+        <xs:element name="ROR" type="xs:string" />        
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  
+</xs:schema>
+
+
+
+
+
+
+
+
+

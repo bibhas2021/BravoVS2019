@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<xs:schema id="StockRegister" 
+                  targetNamespace="http://tempuri.org/StockRegister.xsd"
+                  elementFormDefault="qualified"
+                  xmlns="http://tempuri.org/StockRegister.xsd"
+                  xmlns:mstns="http://tempuri.org/StockRegister.xsd"
+                  xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+
+
+  <xs:element name="Register">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Date" type="xs:string" />
+        <xs:element name="VoucherNo" type="xs:string" />
+        <xs:element name="Party" type="xs:string" />
+        <xs:element name="Alise" type="xs:string" />
+        <xs:element name="Item" type="xs:string" />
+        <xs:element name="Unit" type="xs:string" />
+        <xs:element name="Qty" type="xs:string" />
+        <xs:element name="Qty2" type="xs:string" />
+        <xs:element name="Rate" type="xs:string" />
+        <xs:element name="Amount" type="xs:string" />
+        <xs:element name="POty" type="xs:string" />
+        <xs:element name="DueDate" type="xs:string" />
+        <xs:element name="Ex1" type="xs:string" />
+        <xs:element name="Ex2" type="xs:string" />
+        <xs:element name="Ex3" type="xs:string" />     
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="Register1">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Date" type="xs:string" />
+        <xs:element name="VoucherNo" type="xs:string" />
+        <xs:element name="Party" type="xs:string" />
+        <xs:element name="Alise" type="xs:string" />
+        <xs:element name="Item" type="xs:string" />
+        <xs:element name="Unit" type="xs:string" />
+        <xs:element name="Qty" type="xs:string" />
+        <xs:element name="Qty2" type="xs:string" />
+        <xs:element name="Rate" type="xs:string" />
+        <xs:element name="Amount" type="xs:string" />
+        <xs:element name="POty" type="xs:string" />
+        <xs:element name="DueDate" type="xs:string" />
+        <xs:element name="Ex1" type="xs:string" />
+        <xs:element name="Ex2" type="xs:string" />
+        <xs:element name="Ex3" type="xs:string" />
+        <xs:element name="Orderedqty" type="xs:string" />
+        <xs:element name="Suppliedqty" type="xs:string" />
+        <xs:element name="Pendingqty" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  
+</xs:schema>

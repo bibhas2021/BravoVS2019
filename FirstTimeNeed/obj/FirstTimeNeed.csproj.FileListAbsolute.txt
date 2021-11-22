@@ -1,0 +1,15 @@
+E:\MidasGoldP\FirstTimeNeed\bin\Debug\FirstTimeNeed.dll
+E:\MidasGoldP\FirstTimeNeed\bin\Debug\FirstTimeNeed.pdb
+E:\MidasGoldP\FirstTimeNeed\obj\Debug\ResolveAssemblyReference.cache
+E:\MidasGoldP\FirstTimeNeed\obj\Debug\FirstTimeNeed.dll
+E:\MidasGoldP\FirstTimeNeed\obj\Debug\FirstTimeNeed.pdb
+E:\Accord Four\Accord Four\FirstTimeNeed\bin\Debug\FirstTimeNeed.dll
+E:\Accord Four\Accord Four\FirstTimeNeed\bin\Debug\FirstTimeNeed.pdb
+E:\Accord Four\Accord Four\FirstTimeNeed\obj\Debug\ResolveAssemblyReference.cache
+E:\Accord Four\Accord Four\FirstTimeNeed\obj\Debug\FirstTimeNeed.dll
+E:\Accord Four\Accord Four\FirstTimeNeed\obj\Debug\FirstTimeNeed.pdb
+E:\Accord Four\FirstTimeNeed\bin\Debug\FirstTimeNeed.dll
+E:\Accord Four\FirstTimeNeed\bin\Debug\FirstTimeNeed.pdb
+E:\Accord Four\FirstTimeNeed\obj\Debug\ResolveAssemblyReference.cache
+E:\Accord Four\FirstTimeNeed\obj\Debug\FirstTimeNeed.dll
+E:\Accord Four\FirstTimeNeed\obj\Debug\FirstTimeNeed.pdb

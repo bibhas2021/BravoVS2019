@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="XMLSchema7"
+    targetNamespace="http://tempuri.org/XMLSchema7.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/XMLSchema7.xsd"
+    xmlns:mstns="http://tempuri.org/XMLSchema7.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="EmployRpt">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="firstname" type="xs:string" />
+				<xs:element name="middlename" type="xs:string" />
+				<xs:element name="lastname" type="xs:string" />
+				<xs:element name="designationname" type="xs:string" />
+				<xs:element name="location_name" type="xs:string" />
+				<xs:element name="dayspresent" type="xs:int" />
+				<xs:element name="fromdate" type="xs:string"/>
+				<xs:element name="todate" type="xs:string" />
+				<xs:element name="Month" type="xs:string" />
+				<xs:element name="DAYS" type="xs:string" />
+				
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

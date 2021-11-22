@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<xs:schema id="paysliprpt" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata"
+                  targetNamespace="http://tempuri.org/paysliprpt.xsd"
+                  elementFormDefault="qualified"
+                  xmlns="http://tempuri.org/paysliprpt.xsd"
+                  xmlns:mstns="http://tempuri.org/paysliprpt.xsd"
+                  xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="paysliprpt">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="sl" type="xs:string" />
+        <xs:element name="Particular" type="xs:string" />
+        <xs:element name="Quentity" type="xs:string" />
+        <xs:element name="Rate" type="xs:string" />
+        <xs:element name="StdDis" type="xs:string" />
+        <xs:element name="ExtraDis" type="xs:string" />
+        <xs:element name="SpecialDis" type="xs:string" />
+        <xs:element name="Amount" type="xs:string" />
+        <xs:element name="units" type="xs:string" />
+        </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+	<xs:element name="sss" >
+		<xs:complexType>
+			<xs:sequence>
+
+				<xs:element name="sl" type="xs:int" />
+				<xs:element name="EmployName" type="xs:string" />
+				<xs:element name="ID" type="xs:string" />
+				<xs:element name="BankAcountNo" type="xs:string" />
+				<xs:element name="Rank" type="xs:string" />
+				<xs:element name="Salary" type="xs:string" />
+				<xs:element name="W_Day" type="xs:string" />
+				<xs:element name="O_T" type="xs:string" />
+				<xs:element name="Tot_Day" type="xs:string" />
+				<xs:element name="Total_Earning" type="xs:string" />
+				<xs:element name="Total_Deduction" type="xs:string" />
+				<xs:element name="Net_Pay" type="xs:string" />
+				<xs:element name="FathTitle" type="xs:string" />
+				<xs:element name="FathFN" type="xs:string" />
+				<xs:element name="FathMN" type="xs:string" />
+				<xs:element name="FathLN" type="xs:string" />
+				<xs:element name="MothTitle" type="xs:string" />
+				<xs:element name="MothFN" type="xs:string" />
+				<xs:element name="MothMN" type="xs:string" />
+				<xs:element name="MothLN" type="xs:string" />
+				<xs:element name="HusTitle" type="xs:string" />
+				<xs:element name="HusFN" type="xs:string" />
+				<xs:element name="HusMN" type="xs:string" />
+				<xs:element name="HusLN" type="xs:string" />
+				<xs:element name="DateOfBirth" type="xs:string" />
+				<xs:element name="MaritalStatus" type="xs:string" />
+				<xs:element name="Gender" type="xs:string" />
+				<xs:element name="DesgId" type="xs:string" />
+				<xs:element name="JobType" type="xs:string" />
+				<xs:element name="PresentAddress" type="xs:string" />
+				<xs:element name="PermanentAddress" type="xs:string" />
+				<xs:element name="STD" type="xs:string" />
+				<xs:element name="Phone" type="xs:string" />
+				<xs:element name="Mobile" type="xs:string" />
+				<xs:element name="PANno" type="xs:string" />
+				<xs:element name="PassportNo" type="xs:string" />
+				<xs:element name="PF" type="xs:string" />
+				<xs:element name="PenssionNo" type="xs:string" />
+				<xs:element name="EDLI" type="xs:string" />
+				<xs:element name="ESIno" type="xs:string" />
+				<xs:element name="DateOfJoining" type="xs:string" />
+				<xs:element name="DateOfRetirement" type="xs:string" />
+				<xs:element name="GMIno" type="xs:string" />
+				<xs:element name="PenssionDate" type="xs:string" />
+				<xs:element name="EmailId" type="xs:string" />
+				<xs:element name="salid" type="xs:string" />
+				<xs:element name="SecId" type="xs:string" />
+				<xs:element name="EmpWorkingStatus" type="xs:string" />
+				<xs:element name="Presentbuilding" type="xs:string" />
+				<xs:element name="Presentstreet" type="xs:string" />
+				<xs:element name="Presentareia" type="xs:string" />
+				<xs:element name="Presentcity" type="xs:string" />
+				<xs:element name="Presentpin" type="xs:string" />
+				<xs:element name="Presentstate" type="xs:string" />
+				<xs:element name="Presentcountry" type="xs:string" />
+				<xs:element name="Permanentbuilding" type="xs:string" />
+				<xs:element name="Permanentstreet" type="xs:string" />
+				<xs:element name="Permanentareia" type="xs:string" />
+				<xs:element name="Permanentcity" type="xs:string" />
+				<xs:element name="Permanentpin" type="xs:string" />
+				<xs:element name="Permanentstate" type="xs:string" />
+				<xs:element name="Permanentcountry" type="xs:string" />
+				<xs:element name="Religion" type="xs:string" />
+				<xs:element name="Location_id" type="xs:string" />
+				<xs:element name="Company_id" type="xs:string" />
+				<xs:element name="PF_Deduction" type="xs:string" />
+				<xs:element name="CO_CODE" type="xs:string" />
+				<xs:element name="CO_NAME" type="xs:string" />
+				<xs:element name="CO_ADD" type="xs:string" />
+				<xs:element name="CO_ADD1" type="xs:string" />
+				<xs:element name="LocationName" type="xs:string" />
+				<xs:element name="Session" type="xs:string" />
+				<xs:element name="Misc" type="xs:string" />
+				<xs:element name="Misc2" type="xs:string" />
+				<xs:element name="Misc3" type="xs:string" />
+
+
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+
+
+	<xs:element name="ppp" >
+		<xs:complexType>
+			<xs:sequence>
+
+				<xs:element name="id" type="xs:string" />
+				<xs:element name="salid" type="xs:string" />
+				<xs:element name="EarningHead" type="xs:string" />
+				<xs:element name="TableName" type="xs:string" />
+				<xs:element name="slno" type="xs:string" />
+				<xs:element name="amount" type="xs:string" />
+				
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+
+	<xs:element name="ppq" >
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="id" type="xs:string" />
+				<xs:element name="salid" type="xs:string" />
+				<xs:element name="DeductHead" type="xs:string" />
+				<xs:element name="TableName" type="xs:string" />
+				<xs:element name="slno" type="xs:string" />
+				<xs:element name="amount" type="xs:string" />
+
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	
+	
+</xs:schema>

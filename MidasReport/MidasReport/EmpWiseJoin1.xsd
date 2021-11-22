@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="EmpWiseJoin1" targetNamespace="http://tempuri.org/EmpWiseJoin1.xsd" xmlns:mstns="http://tempuri.org/EmpWiseJoin1.xsd" xmlns="http://tempuri.org/EmpWiseJoin1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="EmpWiseJoin1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="EmpWiseJoin1" msprop:Generator_DataSetName="EmpWiseJoin1" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="EmpOrder" msprop:Generator_UserTableName="EmpOrder" msprop:Generator_RowDeletedName="EmpOrderRowDeleted" msprop:Generator_RowChangedName="EmpOrderRowChanged" msprop:Generator_RowClassName="EmpOrderRow" msprop:Generator_RowChangingName="EmpOrderRowChanging" msprop:Generator_RowEvArgName="EmpOrderRowChangeEvent" msprop:Generator_RowEvHandlerName="EmpOrderRowChangeEventHandler" msprop:Generator_TableClassName="EmpOrderDataTable" msprop:Generator_TableVarName="tableEmpOrder" msprop:Generator_RowDeletingName="EmpOrderRowDeleting" msprop:Generator_TablePropName="EmpOrder">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Date_x0020_Of_x0020_Joining" msprop:Generator_UserColumnName="Date Of Joining" msprop:Generator_ColumnVarNameInTable="columnDate_Of_Joining" msprop:Generator_ColumnPropNameInRow="Date_Of_Joining" msprop:Generator_ColumnPropNameInTable="Date_Of_JoiningColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Employee_x0020_Name" msprop:Generator_UserColumnName="Employee Name" msprop:Generator_ColumnVarNameInTable="columnEmployee_Name" msprop:Generator_ColumnPropNameInRow="Employee_Name" msprop:Generator_ColumnPropNameInTable="Employee_NameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Location" msprop:Generator_UserColumnName="Location" msprop:Generator_ColumnVarNameInTable="columnLocation" msprop:Generator_ColumnPropNameInRow="Location" msprop:Generator_ColumnPropNameInTable="LocationColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Designation" msprop:Generator_UserColumnName="Designation" msprop:Generator_ColumnVarNameInTable="columnDesignation" msprop:Generator_ColumnPropNameInRow="Designation" msprop:Generator_ColumnPropNameInTable="DesignationColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="PF_x0020_No" msprop:Generator_UserColumnName="PF No" msprop:Generator_ColumnVarNameInTable="columnPF_No" msprop:Generator_ColumnPropNameInRow="PF_No" msprop:Generator_ColumnPropNameInTable="PF_NoColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="ESI_x0020_No" msprop:Generator_UserColumnName="ESI No" msprop:Generator_ColumnVarNameInTable="columnESI_No" msprop:Generator_ColumnPropNameInRow="ESI_No" msprop:Generator_ColumnPropNameInTable="ESI_NoColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Bank_x0020_a_x002F_c_x0020_no" msprop:Generator_UserColumnName="Bank a/c no" msprop:Generator_ColumnVarNameInTable="_columnBank_a_c_no" msprop:Generator_ColumnPropNameInRow="_Bank_a_c_no" msprop:Generator_ColumnPropNameInTable="_Bank_a_c_noColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="IFSC_x0020_Code" msprop:Generator_UserColumnName="IFSC Code" msprop:Generator_ColumnVarNameInTable="columnIFSC_Code" msprop:Generator_ColumnPropNameInRow="IFSC_Code" msprop:Generator_ColumnPropNameInTable="IFSC_CodeColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Bank_x0020_Name" msprop:Generator_UserColumnName="Bank Name" msprop:Generator_ColumnVarNameInTable="columnBank_Name" msprop:Generator_ColumnPropNameInRow="Bank_Name" msprop:Generator_ColumnPropNameInTable="Bank_NameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Employee_Count" msprop:Generator_UserColumnName="Employee_Count" msprop:Generator_ColumnVarNameInTable="columnEmployee_Count" msprop:Generator_ColumnPropNameInRow="Employee_Count" msprop:Generator_ColumnPropNameInTable="Employee_CountColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Address" msprop:Generator_UserColumnName="Address" msprop:Generator_ColumnPropNameInRow="Address" msprop:Generator_ColumnVarNameInTable="columnAddress" msprop:Generator_ColumnPropNameInTable="AddressColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

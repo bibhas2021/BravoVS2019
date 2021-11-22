@@ -1,0 +1,959 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>EDPComponent</name>
+    </assembly>
+    <members>
+        <member name="F:EDPComponent.SimpleTextReport.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:EDPComponent.SimpleTextReport.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:EDPComponent.SimpleTextReport.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify 
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:EDPComponent.ControlPaint.DrawRoundedRectangle(System.Drawing.Graphics,System.Drawing.Pen,System.Drawing.Rectangle,System.Drawing.Size)">
+            <summary>
+            Draws a rectangle with rounded edges.
+            </summary>
+            <param name="g">The System.Drawing.Graphics object to be used to draw the rectangle.</param>
+            <param name="p">A System.Drawing.Pen object that determines the color, width, and style of the rectangle.</param>
+            <param name="rc">A System.Drawing.Rectangle structure that represents the rectangle to draw.</param>
+            <param name="size">Pixel indentation that determines the roundness of the corners.</param>
+        </member>
+        <member name="F:EDPComponent.FormBase.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:EDPComponent.FormBase.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:EDPComponent.FormBase.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:EDPComponent.frmListAddRemove.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:EDPComponent.frmListAddRemove.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:EDPComponent.frmListAddRemove.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:EDPComponent.UseAntiAlias">
+            <summary>
+            Set the SmoothingMode=AntiAlias until instance disposed.
+            </summary>
+        </member>
+        <member name="M:EDPComponent.UseAntiAlias.#ctor(System.Drawing.Graphics)">
+            <summary>
+            Initialize a new instance of the UseAntiAlias class.
+            </summary>
+            <param name="g">Graphics instance.</param>
+        </member>
+        <member name="M:EDPComponent.UseAntiAlias.Dispose">
+            <summary>
+            Revert the SmoothingMode back to original setting.
+            </summary>
+        </member>
+        <member name="T:EDPComponent.UseClearTypeGridFit">
+            <summary>
+            Set the TextRenderingHint.ClearTypeGridFit until instance disposed.
+            </summary>
+        </member>
+        <member name="M:EDPComponent.UseClearTypeGridFit.#ctor(System.Drawing.Graphics)">
+            <summary>
+            Initialize a new instance of the UseClearTypeGridFit class.
+            </summary>
+            <param name="g">Graphics instance.</param>
+        </member>
+        <member name="M:EDPComponent.UseClearTypeGridFit.Dispose">
+            <summary>
+            Revert the TextRenderingHint back to original setting.
+            </summary>
+        </member>
+        <member name="T:EDPComponent.UseClipping">
+            <summary>
+            Set the clipping region until instance disposed.
+            </summary>
+        </member>
+        <member name="M:EDPComponent.UseClipping.#ctor(System.Drawing.Graphics,System.Drawing.Drawing2D.GraphicsPath)">
+            <summary>
+            Initialize a new instance of the UseClipping class.
+            </summary>
+            <param name="g">Graphics instance.</param>
+            <param name="path">Clipping path.</param>
+        </member>
+        <member name="M:EDPComponent.UseClipping.#ctor(System.Drawing.Graphics,System.Drawing.Region)">
+            <summary>
+            Initialize a new instance of the UseClipping class.
+            </summary>
+            <param name="g">Graphics instance.</param>
+            <param name="region">Clipping region.</param>
+        </member>
+        <member name="M:EDPComponent.UseClipping.Dispose">
+            <summary>
+            Revert clipping back to origina setting.
+            </summary>
+        </member>
+        <member name="M:EDPComponent.ComboDialog.PopUp(System.Object,System.EventArgs)">
+            <summary>
+            If you use it by key board.
+            </summary>
+            <param name="sender">Pass the sender.</param>
+            <param name="e">Pass the event arguments.</param>
+        </member>
+        <member name="F:EDPComponent.ComboDialog.components">
+            <summary> 
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:EDPComponent.ComboDialog.Dispose(System.Boolean)">
+            <summary> 
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:EDPComponent.ComboDialog.InitializeComponent">
+            <summary> 
+            Required method for Designer support - do not modify 
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="P:EDPComponent.ComboDialog.ReturnValue">
+            <summary>
+            Get the return value for corresponding return index.
+            </summary>
+        </member>
+        <member name="F:EDPComponent.EDPPrintPreviewDialog.components">
+            <summary> 
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:EDPComponent.EDPPrintPreviewDialog.Dispose(System.Boolean)">
+            <summary> 
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:EDPComponent.EDPPrintPreviewDialog.InitializeComponent">
+            <summary> 
+            Required method for Designer support - do not modify 
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:EDPComponent.EDPMenuColorTable">
+            <summary>
+            Provide Office 2007 Blue Theme colors
+            </summary>
+        </member>
+        <member name="M:EDPComponent.EDPMenuColorTable.#ctor">
+            <summary>
+            Initialize a new instance of the Office2007ColorTable class.
+            </summary>
+        </member>
+        <member name="P:EDPComponent.EDPMenuColorTable.ButtonPressedGradientBegin">
+            <summary>
+            Gets the starting color of the gradient used when the button is pressed down.
+            </summary>
+        </member>
+        <member name="P:EDPComponent.EDPMenuColorTable.ButtonPressedGradientEnd">
+            <summary>
+            Gets the end color of the gradient used when the button is pressed down.
+            </summary>
+        </member>
+        <member name="P:EDPComponent.EDPMenuColorTable.ButtonPressedGradientMiddle">
+            <summary>
+            Gets the middle color of the gradient used when the button is pressed down.
+            </summary>
+        </member>
+        <member name="P:EDPComponent.EDPMenuColorTable.ButtonSelectedGradientBegin">
+            <summary>
+            Gets the starting color of the gradient used when the button is selected.
+            </summary>
+        </member>
+        <member name="P:EDPComponent.EDPMenuColorTable.ButtonSelectedGradientEnd">
+            <summary>
+            Gets the end color of the gradient used when the button is selected.
+            </summary>
+        </member>
+        <member name="P:EDPComponent.EDPMenuColorTable.ButtonSelectedGradientMiddle">
+            <summary>
+            Gets the middle color of the gradient used when the button is selected.
+            </summary>
+        </member>
+        <member name="P:EDPComponent.EDPMenuColorTable.ButtonSelectedHighlightBorder">
+            <summary>
+            Gets the border color to use with ButtonSelectedHighlight.
+            </summary>
+        </member>
+        <member name="P:EDPComponent.EDPMenuColorTable.CheckBackground">
+            <summary>
+            Gets the solid color to use when the check box is selected and gradients are being used.
+            </summary>
+        </member>
+        <member name="P:EDPComponent.EDPMenuColorTable.GripDark">
+            <summary>
+            Gets the color to use for shadow effects on the grip or move handle.
+            </summary>
+        </member>
+        <member name="P:EDPComponent.EDPMenuColorTable.GripLight">
+            <summary>
+            Gets the color to use for highlight effects on the grip or move handle.
+            </summary>
+        </member>
+        <member name="P:EDPComponent.EDPMenuColorTable.ImageMarginGradientBegin">
+            <summary>
+            Gets the starting color of the gradient used in the image margin of a ToolStripDropDownMenu.
+            </summary>
+        </member>
+        <member name="P:EDPComponent.EDPMenuColorTable.MenuBorder">
+            <summary>
+            Gets the border color or a MenuStrip.
+            </summary>
+        </member>
+        <member name="P:EDPComponent.EDPMenuColorTable.MenuItemPressedGradientBegin">
+            <summary>
+            Gets the starting color of the gradient used when a top-level ToolStripMenuItem is pressed down.
+            </summary>
+        </member>
+        <member name="P:EDPComponent.EDPMenuColorTable.MenuItemPressedGradientEnd">
+            <summary>
+            Gets the end color of the gradient used when a top-level ToolStripMenuItem is pressed down.
+            </summary>
+        </member>
+        <member name="P:EDPComponent.EDPMenuColorTable.MenuItemPressedGradientMiddle">
+            <summary>
+            Gets the middle color of the gradient used when a top-level ToolStripMenuItem is pressed down.
+            </summary>
+        </member>
+        <member name="P:EDPComponent.EDPMenuColorTable.MenuItemSelectedGradientBegin">
+            <summary>
+            Gets the starting color of the gradient used when the ToolStripMenuItem is selected.
+            </summary>
+        </member>
+        <member name="P:EDPComponent.EDPMenuColorTable.MenuItemSelectedGradientEnd">
+            <summary>
+            Gets the end color of the gradient used when the ToolStripMenuItem is selected.
+            </summary>
+        </member>
+        <member name="P:EDPComponent.EDPMenuColorTable.MenuStripGradientBegin">
+            <summary>
+            Gets the starting color of the gradient used in the MenuStrip.
+            </summary>
+        </member>
+        <member name="P:EDPComponent.EDPMenuColorTable.MenuStripGradientEnd">
+            <summary>
+            Gets the end color of the gradient used in the MenuStrip.
+            </summary>
+        </member>
+        <member name="P:EDPComponent.EDPMenuColorTable.OverflowButtonGradientBegin">
+            <summary>
+            Gets the starting color of the gradient used in the ToolStripOverflowButton.
+            </summary>
+        </member>
+        <member name="P:EDPComponent.EDPMenuColorTable.OverflowButtonGradientEnd">
+            <summary>
+            Gets the end color of the gradient used in the ToolStripOverflowButton.
+            </summary>
+        </member>
+        <member name="P:EDPComponent.EDPMenuColorTable.OverflowButtonGradientMiddle">
+            <summary>
+            Gets the middle color of the gradient used in the ToolStripOverflowButton.
+            </summary>
+        </member>
+        <member name="P:EDPComponent.EDPMenuColorTable.RaftingContainerGradientBegin">
+            <summary>
+            Gets the starting color of the gradient used in the ToolStripContainer.
+            </summary>
+        </member>
+        <member name="P:EDPComponent.EDPMenuColorTable.RaftingContainerGradientEnd">
+            <summary>
+            Gets the end color of the gradient used in the ToolStripContainer.
+            </summary>
+        </member>
+        <member name="P:EDPComponent.EDPMenuColorTable.SeparatorDark">
+            <summary>
+            Gets the color to use to for shadow effects on the ToolStripSeparator.
+            </summary>
+        </member>
+        <member name="P:EDPComponent.EDPMenuColorTable.SeparatorLight">
+            <summary>
+            Gets the color to use to for highlight effects on the ToolStripSeparator.
+            </summary>
+        </member>
+        <member name="P:EDPComponent.EDPMenuColorTable.StatusStripGradientBegin">
+            <summary>
+            Gets the starting color of the gradient used on the StatusStrip.
+            </summary>
+        </member>
+        <member name="P:EDPComponent.EDPMenuColorTable.StatusStripGradientEnd">
+            <summary>
+            Gets the end color of the gradient used on the StatusStrip.
+            </summary>
+        </member>
+        <member name="P:EDPComponent.EDPMenuColorTable.ToolStripBorder">
+            <summary>
+            Gets the border color to use on the bottom edge of the ToolStrip.
+            </summary>
+        </member>
+        <member name="P:EDPComponent.EDPMenuColorTable.ToolStripContentPanelGradientBegin">
+            <summary>
+            Gets the starting color of the gradient used in the ToolStripContentPanel.
+            </summary>
+        </member>
+        <member name="P:EDPComponent.EDPMenuColorTable.ToolStripContentPanelGradientEnd">
+            <summary>
+            Gets the end color of the gradient used in the ToolStripContentPanel.
+            </summary>
+        </member>
+        <member name="P:EDPComponent.EDPMenuColorTable.ToolStripDropDownBackground">
+            <summary>
+            Gets the solid background color of the ToolStripDropDown.
+            </summary>
+        </member>
+        <member name="P:EDPComponent.EDPMenuColorTable.ToolStripGradientBegin">
+            <summary>
+            Gets the starting color of the gradient used in the ToolStrip background.
+            </summary>
+        </member>
+        <member name="P:EDPComponent.EDPMenuColorTable.ToolStripGradientEnd">
+            <summary>
+            Gets the end color of the gradient used in the ToolStrip background.
+            </summary>
+        </member>
+        <member name="P:EDPComponent.EDPMenuColorTable.ToolStripGradientMiddle">
+            <summary>
+            Gets the middle color of the gradient used in the ToolStrip background.
+            </summary>
+        </member>
+        <member name="P:EDPComponent.EDPMenuColorTable.ToolStripPanelGradientBegin">
+            <summary>
+            Gets the starting color of the gradient used in the ToolStripPanel.
+            </summary>
+        </member>
+        <member name="P:EDPComponent.EDPMenuColorTable.ToolStripPanelGradientEnd">
+            <summary>
+            Gets the end color of the gradient used in the ToolStripPanel.
+            </summary>
+        </member>
+        <member name="F:EDPComponent.DateTimePickerEDP.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:EDPComponent.DateTimePickerEDP.Dispose(System.Boolean)">
+            <summary> 
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:EDPComponent.DateTimePickerEDP.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:EDPComponent.VistaButton">
+            <summary>
+            A replacement for the Windows Button Control.
+            </summary>
+        </member>
+        <member name="M:EDPComponent.VistaButton.#ctor">
+            <summary>
+            Initialize the component with it's
+            default settings.
+            </summary>
+        </member>
+        <member name="M:EDPComponent.VistaButton.Dispose(System.Boolean)">
+            <summary>
+            Release resources used by the control.
+            </summary>
+        </member>
+        <member name="M:EDPComponent.VistaButton.DrawOuterStroke(System.Drawing.Graphics)">
+            <summary>
+            Draws the outer border for the control
+            using the ButtonColor property.
+            </summary>
+            <param name="g">The graphics object used in the paint event.</param>
+        </member>
+        <member name="M:EDPComponent.VistaButton.DrawInnerStroke(System.Drawing.Graphics)">
+            <summary>
+            Draws the inner border for the control
+            using the HighlightColor property.
+            </summary>
+            <param name="g">The graphics object used in the paint event.</param>
+        </member>
+        <member name="M:EDPComponent.VistaButton.DrawBackground(System.Drawing.Graphics)">
+            <summary>
+            Draws the background for the control
+            using the background image and the 
+            BaseColor.
+            </summary>
+            <param name="g">The graphics object used in the paint event.</param>
+        </member>
+        <member name="M:EDPComponent.VistaButton.DrawHighlight(System.Drawing.Graphics)">
+            <summary>
+            Draws the Highlight over the top of the
+            control using the HightlightColor.
+            </summary>
+            <param name="g">The graphics object used in the paint event.</param>
+        </member>
+        <member name="M:EDPComponent.VistaButton.DrawGlow(System.Drawing.Graphics)">
+            <summary>
+            Draws the glow for the button when the
+            mouse is inside the client area using
+            the GlowColor property.
+            </summary>
+            <param name="g">The graphics object used in the paint event.</param>
+        </member>
+        <member name="M:EDPComponent.VistaButton.DrawText(System.Drawing.Graphics)">
+            <summary>
+            Draws the text for the button.
+            </summary>
+            <param name="g">The graphics object used in the paint event.</param>
+        </member>
+        <member name="M:EDPComponent.VistaButton.DrawImage(System.Drawing.Graphics)">
+            <summary>
+            Draws the image for the button
+            </summary>
+            <param name="g">The graphics object used in the paint event.</param>
+        </member>
+        <member name="P:EDPComponent.VistaButton.ButtonText">
+            <summary>
+            The text that is displayed on the button.
+            </summary>
+        </member>
+        <member name="P:EDPComponent.VistaButton.ForeColor">
+            <summary>
+            The color with which the text is drawn.
+            </summary>
+        </member>
+        <member name="P:EDPComponent.VistaButton.TextAlign">
+            <summary>
+            The alignment of the button text
+            that is displayed on the control.
+            </summary>
+        </member>
+        <member name="P:EDPComponent.VistaButton.Image">
+            <summary>
+            The image displayed on the button that 
+            is used to help the user identify
+            it's function if the text is ambiguous.
+            </summary>
+        </member>
+        <member name="P:EDPComponent.VistaButton.ImageAlign">
+            <summary>
+            The alignment of the image 
+            in relation to the button.
+            </summary>
+        </member>
+        <member name="P:EDPComponent.VistaButton.ImageSize">
+            <summary>
+            The size of the image to be displayed on the
+            button. This property defaults to 24x24.
+            </summary>
+        </member>
+        <member name="P:EDPComponent.VistaButton.ButtonStyle">
+            <summary>
+            Sets whether the button background is drawn 
+            while the mouse is outside of the client area.
+            </summary>
+        </member>
+        <member name="P:EDPComponent.VistaButton.CornerRadius">
+            <summary>
+            The radius for the button corners. The 
+            greater this value is, the more 'smooth' 
+            the corners are. This property should
+             not be greater than half of the 
+             controls height.
+            </summary>
+        </member>
+        <member name="P:EDPComponent.VistaButton.HighlightColor">
+            <summary>
+            The colour of the highlight on the top of the button.
+            </summary>
+        </member>
+        <member name="P:EDPComponent.VistaButton.ButtonColor">
+            <summary>
+            The bottom color of the button that 
+            will be drawn over the base color.
+            </summary>
+        </member>
+        <member name="P:EDPComponent.VistaButton.GlowColor">
+            <summary>
+            The colour that the button glows when
+            the mouse is inside the client area.
+            </summary>
+        </member>
+        <member name="P:EDPComponent.VistaButton.BackImage">
+            <summary>
+            The background image for the button, 
+            this image is drawn over the base 
+            color of the button.
+            </summary>
+        </member>
+        <member name="P:EDPComponent.VistaButton.BaseColor">
+            <summary>
+            The backing color that the rest of 
+            the button is drawn. For a glassier 
+            effect set this property to Transparent.
+            </summary>
+        </member>
+        <member name="T:EDPComponent.VistaButton.State">
+            <summary>
+            A private enumeration that determines 
+            the mouse state in relation to the 
+            current instance of the control.
+            </summary>
+        </member>
+        <member name="T:EDPComponent.VistaButton.Style">
+            <summary>
+            A public enumeration that determines whether
+            the button background is painted when the 
+            mouse is not inside the ClientArea.
+            </summary>
+        </member>
+        <member name="F:EDPComponent.VistaButton.Style.Default">
+            <summary>
+            Draw the button as normal
+            </summary>
+        </member>
+        <member name="F:EDPComponent.VistaButton.Style.Flat">
+            <summary>
+            Only draw the background on mouse over.
+            </summary>
+        </member>
+        <member name="F:EDPComponent.Box.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:EDPComponent.Box.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:EDPComponent.Box.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:EDPComponent.EDPMenuRenderer">
+            <summary>
+            Draw ToolStrips using the Office 2007 themed appearance.
+            </summary>
+        </member>
+        <member name="M:EDPComponent.EDPMenuRenderer.#ctor">
+            <summary>
+            Initialize a new instance of the Office2007Renderer class.
+            </summary>
+        </member>
+        <member name="M:EDPComponent.EDPMenuRenderer.OnRenderArrow(System.Windows.Forms.ToolStripArrowRenderEventArgs)">
+            <summary>
+            Raises the RenderArrow event. 
+            </summary>
+            <param name="e">An ToolStripArrowRenderEventArgs containing the event data.</param>
+        </member>
+        <member name="M:EDPComponent.EDPMenuRenderer.OnRenderButtonBackground(System.Windows.Forms.ToolStripItemRenderEventArgs)">
+            <summary>
+            Raises the RenderButtonBackground event. 
+            </summary>
+            <param name="e">An ToolStripItemRenderEventArgs containing the event data.</param>
+        </member>
+        <member name="M:EDPComponent.EDPMenuRenderer.OnRenderDropDownButtonBackground(System.Windows.Forms.ToolStripItemRenderEventArgs)">
+            <summary>
+            Raises the RenderDropDownButtonBackground event. 
+            </summary>
+            <param name="e">An ToolStripItemRenderEventArgs containing the event data.</param>
+        </member>
+        <member name="M:EDPComponent.EDPMenuRenderer.OnRenderItemCheck(System.Windows.Forms.ToolStripItemImageRenderEventArgs)">
+            <summary>
+            Raises the RenderItemCheck event. 
+            </summary>
+            <param name="e">An ToolStripItemImageRenderEventArgs containing the event data.</param>
+        </member>
+        <member name="M:EDPComponent.EDPMenuRenderer.OnRenderItemText(System.Windows.Forms.ToolStripItemTextRenderEventArgs)">
+            <summary>
+            Raises the RenderItemText event. 
+            </summary>
+            <param name="e">An ToolStripItemTextRenderEventArgs containing the event data.</param>
+        </member>
+        <member name="M:EDPComponent.EDPMenuRenderer.OnRenderItemImage(System.Windows.Forms.ToolStripItemImageRenderEventArgs)">
+            <summary>
+            Raises the RenderItemImage event. 
+            </summary>
+            <param name="e">An ToolStripItemImageRenderEventArgs containing the event data.</param>
+        </member>
+        <member name="M:EDPComponent.EDPMenuRenderer.OnRenderMenuItemBackground(System.Windows.Forms.ToolStripItemRenderEventArgs)">
+            <summary>
+            Raises the RenderMenuItemBackground event. 
+            </summary>
+            <param name="e">An ToolStripItemRenderEventArgs containing the event data.</param>
+        </member>
+        <member name="M:EDPComponent.EDPMenuRenderer.OnRenderSplitButtonBackground(System.Windows.Forms.ToolStripItemRenderEventArgs)">
+            <summary>
+            Raises the RenderSplitButtonBackground event. 
+            </summary>
+            <param name="e">An ToolStripItemRenderEventArgs containing the event data.</param>
+        </member>
+        <member name="M:EDPComponent.EDPMenuRenderer.OnRenderStatusStripSizingGrip(System.Windows.Forms.ToolStripRenderEventArgs)">
+            <summary>
+            Raises the RenderStatusStripSizingGrip event. 
+            </summary>
+            <param name="e">An ToolStripRenderEventArgs containing the event data.</param>
+        </member>
+        <member name="M:EDPComponent.EDPMenuRenderer.OnRenderToolStripContentPanelBackground(System.Windows.Forms.ToolStripContentPanelRenderEventArgs)">
+            <summary>
+            Raises the RenderToolStripContentPanelBackground event. 
+            </summary>
+            <param name="e">An ToolStripContentPanelRenderEventArgs containing the event data.</param>
+        </member>
+        <member name="M:EDPComponent.EDPMenuRenderer.OnRenderSeparator(System.Windows.Forms.ToolStripSeparatorRenderEventArgs)">
+            <summary>
+            Raises the RenderSeparator event. 
+            </summary>
+            <param name="e">An ToolStripSeparatorRenderEventArgs containing the event data.</param>
+        </member>
+        <member name="M:EDPComponent.EDPMenuRenderer.OnRenderToolStripBackground(System.Windows.Forms.ToolStripRenderEventArgs)">
+            <summary>
+            Raises the RenderToolStripBackground event. 
+            </summary>
+            <param name="e">An ToolStripRenderEventArgs containing the event data.</param>
+        </member>
+        <member name="M:EDPComponent.EDPMenuRenderer.OnRenderImageMargin(System.Windows.Forms.ToolStripRenderEventArgs)">
+            <summary>
+            Raises the RenderImageMargin event. 
+            </summary>
+            <param name="e">An ToolStripRenderEventArgs containing the event data.</param>
+        </member>
+        <member name="M:EDPComponent.EDPMenuRenderer.OnRenderToolStripBorder(System.Windows.Forms.ToolStripRenderEventArgs)">
+            <summary>
+            Raises the RenderToolStripBorder event. 
+            </summary>
+            <param name="e">An ToolStripRenderEventArgs containing the event data.</param>
+        </member>
+        <member name="T:EDPComponent.ShadowLabel">
+            <summary>
+            Summary description for ShadowLabel.
+            </summary>
+        </member>
+        <member name="F:EDPComponent.ShadowLabel._drawGradient">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:EDPComponent.ShadowLabel.Dispose(System.Boolean)">
+            <summary> 
+            Clean up any resources being used.
+            </summary>
+        </member>
+        <member name="M:EDPComponent.ShadowLabel.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:EDPComponent.FormBaseERP.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:EDPComponent.FormBaseERP.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:EDPComponent.FormBaseERP.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:EDPComponent.DataGridViewEDP.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:EDPComponent.DataGridViewEDP.Dispose(System.Boolean)">
+            <summary> 
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:EDPComponent.DataGridViewEDP.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:EDPComponent.MyXPButton">
+            <summary>
+            Summary description for UserControl1.
+            </summary>
+        </member>
+        <member name="F:EDPComponent.MyXPButton.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:EDPComponent.MyXPButton.#cctor">
+            <summary>
+            Initializes all static fields of the XpButton class.
+            </summary>
+        </member>
+        <member name="M:EDPComponent.MyXPButton.OnDrawNormal(System.Drawing.Graphics)">
+            <summary>
+            Draws the normal state of the XpButton.
+            </summary>
+            <param name="g">The System.Drawing.Graphics object to be used to paint the XpButton.</param>
+        </member>
+        <member name="M:EDPComponent.MyXPButton.OnDrawHover(System.Drawing.Graphics)">
+            <summary>
+            Draws the hover state of the XpButton.
+            </summary>
+            <param name="g">The System.Drawing.Graphics object to be used to paint the XpButton.</param>
+        </member>
+        <member name="M:EDPComponent.MyXPButton.OnDrawPressed(System.Drawing.Graphics)">
+            <summary>
+            Draws the pressed state of the XpButton.
+            </summary>
+            <param name="g">The System.Drawing.Graphics object to be used to paint the XpButton.</param>
+        </member>
+        <member name="M:EDPComponent.MyXPButton.OnDrawNormalEllipse(System.Drawing.Graphics)">
+            <summary>
+            Draws the default state of the XpButton.
+            </summary>
+            <param name="g">The System.Drawing.Graphics object to be used to paint the XpButton.</param>
+        </member>
+        <member name="M:EDPComponent.MyXPButton.OnDrawDisabled(System.Drawing.Graphics)">
+            <summary>
+            Draws the disabled state of the XpButton.
+            </summary>
+            <param name="g">The System.Drawing.Graphics object to be used to paint the XpButton.</param>
+        </member>
+        <member name="M:EDPComponent.MyXPButton.OnDrawTextAndImage(System.Drawing.Graphics)">
+            <summary>
+            Draws the text of the XpButton.
+            </summary>
+            <param name="g">The System.Drawing.Graphics object to be used to paint the XpButton.</param>
+        </member>
+        <member name="M:EDPComponent.MyXPButton.DrawNormalButton(System.Drawing.Graphics)">
+            <summary>
+            Draws the ordinary look of the XpButton object.
+            </summary>
+            <param name="g">The System.Drawing.Graphics object to be used to paint the XpButton.</param>
+        </member>
+        <member name="M:EDPComponent.MyXPButton.DrawOuterShadow(System.Drawing.Graphics)">
+            <summary>
+            Draws the outer shadow of the XpButton object.
+            </summary>
+            <param name="g">The System.Drawing.Graphics object to be used to paint the outer shadow.</param>
+        </member>
+        <member name="M:EDPComponent.MyXPButton.DrawBorder(System.Drawing.Graphics)">
+            <summary>
+            Draws the dark blue border of the XpButton object.
+            </summary>
+            <param name="g">The System.Drawing.Graphics object to be used to paint the border.</param>
+        </member>
+        <member name="M:EDPComponent.MyXPButton.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+        </member>
+        <member name="M:EDPComponent.MyXPButton.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify 
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="P:EDPComponent.MyXPButton.FlatStyle">
+            <summary>
+            Initializes a new instance of the XpButton class.
+            </summary>
+        </member>
+        <member name="P:EDPComponent.MyXPButton.BorderRectangle">
+            <value>Gets the clipping rectangle of the XpButton object's border.</value>
+        </member>
+        <member name="F:EDPComponent.MyXPButton.ControlState.Normal">
+            <summary>The XP control is in the normal state.</summary>
+        </member>
+        <member name="F:EDPComponent.MyXPButton.ControlState.Hover">
+            <summary>The XP control is in the hover state.</summary>
+        </member>
+        <member name="F:EDPComponent.MyXPButton.ControlState.Pressed">
+            <summary>The XP control is in the pressed state.</summary>
+        </member>
+        <member name="F:EDPComponent.MyXPButton.ControlState.Default">
+            <summary>The XP control object is in the default state.</summary>
+        </member>
+        <member name="F:EDPComponent.MyXPButton.ControlState.Disabled">
+            <summary>The XP control object is in the disabled state.</summary>
+        </member>
+        <member name="T:EDPComponent.ProgressBar">
+            <summary>
+            A replacement for the default ProgressBar control.
+            </summary>
+        </member>
+        <member name="F:EDPComponent.ProgressBar.components">
+            <summary> 
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:EDPComponent.ProgressBar.#ctor">
+            <summary>
+            Create the control and initialize it.
+            </summary>
+        </member>
+        <member name="M:EDPComponent.ProgressBar.Dispose(System.Boolean)">
+            <summary> 
+            Clean up any resources being used.
+            </summary>
+        </member>
+        <member name="M:EDPComponent.ProgressBar.InitializeComponent">
+            <summary> 
+            Required method for Designer support - do not modify 
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:EDPComponent.ProgressBar.SetPercent">
+            protected
+        </member>
+        <member name="P:EDPComponent.ProgressBar.Value">
+            <summary>
+            The value that is displayed on the progress bar.
+            </summary>
+        </member>
+        <member name="P:EDPComponent.ProgressBar.ShowPercentage">
+            <summary>
+            The Percentage will be Shown or Not.
+            </summary>
+        </member>
+        <member name="P:EDPComponent.ProgressBar.MaxValue">
+            <summary>
+            The maximum value for the Value property.
+            </summary>
+        </member>
+        <member name="P:EDPComponent.ProgressBar.MinValue">
+            <summary>
+            The minimum value for the Value property.
+            </summary>
+        </member>
+        <member name="P:EDPComponent.ProgressBar.StartColor">
+            <summary>
+            The start color for the progress bar.
+            210, 000, 000 = Red
+            210, 202, 000 = Yellow
+            000, 163, 211 = Blue
+            000, 211, 040 = Green
+            </summary>
+        </member>
+        <member name="P:EDPComponent.ProgressBar.EndColor">
+            <summary>
+            The end color for the progress bar.
+            210, 000, 000 = Red
+            210, 202, 000 = Yellow
+            000, 163, 211 = Blue
+            000, 211, 040 = Green
+            </summary>
+        </member>
+        <member name="P:EDPComponent.ProgressBar.HighlightColor">
+            <summary>
+            The color of the highlights.
+            </summary>
+        </member>
+        <member name="P:EDPComponent.ProgressBar.BackgroundColor">
+            <summary>
+            The color of the background.
+            </summary>
+        </member>
+        <member name="P:EDPComponent.ProgressBar.Animate">
+            <summary>
+            Whether the glow is animated.
+            </summary>
+        </member>
+        <member name="P:EDPComponent.ProgressBar.GlowColor">
+            <summary>
+            The color of the glow.
+            </summary>
+        </member>
+        <member name="E:EDPComponent.ProgressBar.ValueChanged">
+            <summary>
+            When the Value property is changed.
+            </summary>
+        </member>
+        <member name="E:EDPComponent.ProgressBar.MinChanged">
+            <summary>
+            When the MinValue property is changed.
+            </summary>
+        </member>
+        <member name="E:EDPComponent.ProgressBar.MaxChanged">
+            <summary>
+            When the MaxValue property is changed.
+            </summary>
+        </member>
+        <member name="T:EDPComponent.ProgressBar.ValueChangedHandler">
+            <summary>
+            When the Value property is changed.
+            </summary>
+        </member>
+        <member name="T:EDPComponent.ProgressBar.MinChangedHandler">
+            <summary>
+            When the MinValue property is changed.
+            </summary>
+        </member>
+        <member name="T:EDPComponent.ProgressBar.MaxChangedHandler">
+            <summary>
+            When the MaxValue property is changed.
+            </summary>
+        </member>
+        <member name="P:EDPComponent.ComboColumn.ReturnValue">
+            <summary>
+            Get the return value for corresponding return index.
+            </summary>
+        </member>
+        <member name="T:EDPComponent.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:EDPComponent.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:EDPComponent.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+    </members>
+</doc>

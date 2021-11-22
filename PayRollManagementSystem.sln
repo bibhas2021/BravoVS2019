@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MidasReport", "MidasReport\MidasReport\MidasReport.csproj", "{F7ED1D73-1A3E-4133-A8CA-28312088D122}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utility", "EdpUtility\Utility.csproj", "{00F186FE-7EC7-4457-8DBF-03CAF31A38A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstTimeNeed", "FirstTimeNeed\FirstTimeNeed.csproj", "{1132A906-04E6-4379-A55F-104E1D3F23EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EDPVersion", "Version\EDPVersion.csproj", "{C775615A-9BF3-4827-92B5-03B051E39128}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PayRollManagementSystem", "PayRollManagementSystem\PayRollManagementSystem.csproj", "{04CC0CD8-6DFE-473B-A4B6-ECF508897734}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Edpcom", "Edpcom\Edpcom\Edpcom.csproj", "{66352AE0-139E-4CC3-9807-10FBAAC08297}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7ED1D73-1A3E-4133-A8CA-28312088D122}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7ED1D73-1A3E-4133-A8CA-28312088D122}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7ED1D73-1A3E-4133-A8CA-28312088D122}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7ED1D73-1A3E-4133-A8CA-28312088D122}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00F186FE-7EC7-4457-8DBF-03CAF31A38A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00F186FE-7EC7-4457-8DBF-03CAF31A38A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00F186FE-7EC7-4457-8DBF-03CAF31A38A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00F186FE-7EC7-4457-8DBF-03CAF31A38A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1132A906-04E6-4379-A55F-104E1D3F23EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1132A906-04E6-4379-A55F-104E1D3F23EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1132A906-04E6-4379-A55F-104E1D3F23EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1132A906-04E6-4379-A55F-104E1D3F23EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C775615A-9BF3-4827-92B5-03B051E39128}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C775615A-9BF3-4827-92B5-03B051E39128}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C775615A-9BF3-4827-92B5-03B051E39128}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C775615A-9BF3-4827-92B5-03B051E39128}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04CC0CD8-6DFE-473B-A4B6-ECF508897734}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04CC0CD8-6DFE-473B-A4B6-ECF508897734}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04CC0CD8-6DFE-473B-A4B6-ECF508897734}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04CC0CD8-6DFE-473B-A4B6-ECF508897734}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66352AE0-139E-4CC3-9807-10FBAAC08297}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66352AE0-139E-4CC3-9807-10FBAAC08297}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66352AE0-139E-4CC3-9807-10FBAAC08297}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66352AE0-139E-4CC3-9807-10FBAAC08297}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38EAFE0F-0BD9-4F88-9D0D-5172234363EC}
+	EndGlobalSection
+EndGlobal

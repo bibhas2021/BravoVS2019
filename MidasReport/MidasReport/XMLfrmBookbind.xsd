@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<xs:schema id="XMLfrmBookbind" 
+                  targetNamespace="http://tempuri.org/XMLfrmBookbind.xsd"
+                  elementFormDefault="qualified"
+                  xmlns="http://tempuri.org/XMLfrmBookbind.xsd"
+                  xmlns:mstns="http://tempuri.org/XMLfrmBookbind.xsd"
+                  xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <xs:element name="element">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="SlNo" type="xs:int" />
+        <xs:element name="BookName" type="xs:string" />
+        <xs:element name="Size" type="xs:string" />
+        <xs:element name="SingleFormat" type="xs:int" />
+        <xs:element name="SinglePages" type="xs:int" />
+        <xs:element name="BiFormat" type="xs:int" />
+        <xs:element name="BiPages" type="xs:int" />
+        <xs:element name="TotalFormat" type="xs:int" />
+        <xs:element name="TotalPages" type="xs:int" />
+        <xs:element name="Qty" type="xs:string" />
+        <xs:element name="SingleRate" type="xs:float" />
+        <xs:element name="FourRate" type="xs:float" />
+        <xs:element name="Rate" type="xs:float" />        
+
+
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

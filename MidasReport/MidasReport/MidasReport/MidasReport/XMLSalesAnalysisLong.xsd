@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<xs:schema id="XMLSalesAnalysisLong" 
+                  targetNamespace="http://tempuri.org/XMLSalesAnalysisLong.xsd"
+                  elementFormDefault="qualified"
+                  xmlns="http://tempuri.org/XMLSalesAnalysisLong.xsd"
+                  xmlns:mstns="http://tempuri.org/XMLSalesAnalysisLong.xsd"
+                  xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="SalesAnalysisLongSingleColumn">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Solddate" type="xs:string" />
+        <xs:element name="SoldVch" type="xs:string" />
+        <xs:element name="Conm" type="xs:string" />
+        <xs:element name="Soldquantity" type="xs:string" />
+        <xs:element name="Soldamount" type="xs:string" />
+        <xs:element name="Purchasedate" type="xs:string" />
+        <xs:element name="Purchaseamount" type="xs:string" />
+        <xs:element name="Bookprof" type="xs:string" />
+        <xs:element name="Infltind" type="xs:string" />
+        <xs:element name="Amtdct" type="xs:string" />
+        <xs:element name="Capgn" type="xs:string" />
+        <xs:element name="Caploss" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  
+</xs:schema>

@@ -1,0 +1,23 @@
+public static Int32 GetLeaveId(String strLeaveName)
+        {
+            Int32 intLeaveId = 0;
+
+            DataTable dt = clsDataAccess.RunQDTbl("select LeaveId from tbl_Employee_Config_LeaveDetails where ShortName='" + strLeaveName.Trim().ToUpper() + "'");
+            if (dt.Rows.Count > 0)
+            {
+                intLeaveId = Convert.ToInt32(dt.Rows[0]["LeaveId"]);
+            }
+
+            return intLeaveId;
+        }
+
+        public static String GetLeaveShortName(Int32 intLeaveId)
+        {
+            String strLeaveName = String.Empty;
+            DataTable dt = clsDataAccess.RunQDTbl("select * from tbl_Employee_Config_LeaveDetails where LeaveId="+intLeaveId+"");
+            if (dt.Rows.Count > 0)
+            {
+                strLeaveName = Convert.ToString(dt.Rows[0]["ShortName"]);
+            }
+            return strLeaveName;
+        }

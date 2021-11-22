@@ -1,0 +1,12 @@
+bin\Debug\EDPVersion.dll.config
+bin\Debug\EDPVersion.dll
+bin\Debug\EDPVersion.pdb
+bin\Debug\FirstTimeNeed.dll
+bin\Debug\EDPMessageBox.dll
+bin\Debug\FirstTimeNeed.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\EDPVersion.Properties.Resources.resources
+obj\Debug\EDPVersion.versionEDP.resources
+obj\Debug\EDPVersion.csproj.GenerateResource.Cache
+obj\Debug\EDPVersion.dll
+obj\Debug\EDPVersion.pdb

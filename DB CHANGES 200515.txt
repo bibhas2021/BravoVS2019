@@ -1,0 +1,126 @@
+
+--------------------------- 13/05/15
+
+go
+ Create PROCEDURE [dbo].[MENU_GENERATE] @PARENT VARCHAR(20) AS BEGIN SELECT * FROM MENUTABLE where MENUCODE=@PARENT END
+go
+
+
+--------------------------- 14/05/15
+
+CREATE TABLE [dbo].[UserControl](
+	[Ficode] [char](10) NOT NULL,
+	[Gcode] [char](10) NOT NULL,
+	[UGcode] [char](10) NOT NULL,
+	[SuperUser] [char](10) NOT NULL,
+	[USER_CODE] [char](10) NOT NULL,
+	[USGcode] [char](10) NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[Ficode] ASC,
+	[Gcode] ASC,
+	[UGcode] ASC,
+	[SuperUser] ASC,
+	[USER_CODE] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+
+
+go
+INSERT [dbo].[UserControl] ([Ficode], [Gcode], [UGcode], [SuperUser], [USER_CODE], [USGcode]) VALUES (N'1         ', N'1         ', N'1         ', N'1         ', N'1         ', N'0         ')
+go
+INSERT [dbo].[pasword] ([USER_CODE], [USER_DESC], [PLV_CODE], [USER_LEV], [PSWD_DESC], [EXCLUSIVE_USE_RIGHT], [PSWD_VALIDTILL_DATE], [PSWD_VALIDTILL_SESSION], [PSWD_CHANGE_ATFIRSTSESSION], [PSWD_VALIDITY], [WebAccess]) VALUES (N'1', N'49 ', N'0', N'Superuser', N'49 ', 0, CAST(0x0000A33B00000000 AS DateTime), 0, 0, N'D', 0)
+go
+
+
+CREATE TABLE [dbo].[AccordFourlogDetail](
+	[LOG_UCODE] [varchar](6) NOT NULL,
+	[LOG_GCODE] [char](10) NOT NULL,
+	[LOG_CCODE] [char](10) NOT NULL,
+	[AUTOINCRE] [int] IDENTITY(1,1) NOT NULL,
+	[Company_NAME] [varchar](100) NULL,
+	[FORM_CODE] [int] NULL,
+	[DATE_FROM] [datetime] NULL,
+	[TIME_FROM] [varchar](50) NULL,
+	[DATE_TO] [datetime] NULL,
+	[TIME_TO] [varchar](50) NULL,
+	[LOG_STAT] [int] NULL,
+	[MACHINE_NAME] [varchar](20) NULL,
+	[Exclusive] [bit] NULL,
+	[session_no] [int] NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[LOG_UCODE] ASC,
+	[LOG_GCODE] ASC,
+	[LOG_CCODE] ASC,
+	[AUTOINCRE] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+INSERT [dbo].[AccordFourlogDetail] 
+([LOG_UCODE], [LOG_GCODE], [LOG_CCODE],  [Company_NAME], [FORM_CODE], [DATE_FROM], [TIME_FROM], 
+[DATE_TO], [TIME_TO], [LOG_STAT], [MACHINE_NAME], [Exclusive], [session_no]) VALUES 
+('1', '2', '3','CHETNA', 0, CAST(0x0000A49800000000 AS DateTime), '12:21:03 PM', NULL, NULL, 0,'SOUMYA', 0, 4783)
+Go
+
+
+CREATE TABLE [dbo].[TransactControl](
+	[USER_CODE] [varchar](6) NOT NULL,
+	[FICode] [char](10) NOT NULL,
+	[GCODE] [char](10) NOT NULL,
+	[T_ENTRY] [char](10) NOT NULL,
+	[BOOL_ADD] [bit] NULL,
+	[BOOL_MODIFY] [bit] NULL,
+	[BOOL_VIEW] [bit] NULL,
+	[BOOL_DELETE] [bit] NULL,
+	[BOOL_CANCEL] [bit] NULL,
+	[Desccode] [numeric](18, 0) NOT NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[USER_CODE] ASC,
+	[FICode] ASC,
+	[GCODE] ASC,
+	[T_ENTRY] ASC,
+	[Desccode] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+
+UPDATE company SET CO_SDATE='2015-04-01 00:00:00.000' , CO_EDATE='2016-03-31 00:00:00.000'
+WHERE CO_CODE =1
+
+GO
+
+
+CREATE TABLE [dbo].[TypeDoc_Config](
+	[FICode] [char](10) NOT NULL,
+	[GCODE] [char](10) NOT NULL,
+	[T_ENTRY] [char](20) NOT NULL,
+	[Desccode] [numeric](18, 0) NOT NULL,
+	[OPTION_CODE] [varchar](12) NOT NULL,
+	[STR_VAL] [varchar](max) NULL,
+	[DATE_VAL] [datetime] NULL,
+	[BOOL_VAL] [varchar](30) NULL,
+	[NUM_VAL] [numeric](18, 0) NULL,
+	[DFLT_VAL] [varchar](50) NOT NULL,
+	[PARENT_CODE] [numeric](18, 0) NULL,
+	[MEMO_VAL] [varchar](max) NULL,
+	[Script] [varchar](max) NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[FICode] ASC,
+	[GCODE] ASC,
+	[T_ENTRY] ASC,
+	[Desccode] ASC,
+	[OPTION_CODE] ASC,
+	[DFLT_VAL] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+
+GO
+
+

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<xs:schema id="XMLdpwisestock" 
+                  targetNamespace="http://tempuri.org/XMLdpwisestock.xsd"
+                  elementFormDefault="qualified"
+                  xmlns="http://tempuri.org/XMLdpwisestock.xsd"
+                  xmlns:mstns="http://tempuri.org/XMLdpwisestock.xsd"
+                  xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="element">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="DP_ID" type="xs:string" />
+        <xs:element name="Asset_Class" type="xs:string" />
+        <xs:element name="ScripName" type="xs:string" />
+        <xs:element name="Date" type="xs:string" />
+        <xs:element name="Description" type="xs:string" />
+        <xs:element name="Qty_Crdit" type="xs:string" />
+        <xs:element name="Qty_debit" type="xs:string" />
+        <xs:element name="Balance_Qty" type="xs:string" />
+        
+
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+</xs:schema>
+
+
+
+
+
+

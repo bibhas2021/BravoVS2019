@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<xs:schema id="XMLSchema4" 
+                  targetNamespace="http://tempuri.org/XMLSchema4.xsd"
+                  elementFormDefault="qualified"
+                  xmlns="http://tempuri.org/XMLSchema4.xsd"
+                  xmlns:mstns="http://tempuri.org/XMLSchema4.xsd"
+                  xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="inout">
+    <xs:complexType>
+      <xs:sequence>
+
+        <xs:element name="SLNO" type="xs:string" />
+        <xs:element name="Billno" type="xs:string" />
+        <xs:element name="date" type="xs:string" />
+     
+
+
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

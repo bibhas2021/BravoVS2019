@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<xs:schema id="xmlAllReport" targetNamespace="http://tempuri.org/xmlAllReport.xsd" elementFormDefault="qualified" xmlns="http://tempuri.org/xmlAllReport.xsd" xmlns:mstns="http://tempuri.org/xmlAllReport.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema">   
+  <xs:element name="AllReportColumn">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Col1" type="xs:string" />
+        <xs:element name="Col2" type="xs:string" />
+        <xs:element name="Col3" type="xs:string" />
+        <xs:element name="Col4" type="xs:string" />
+        <xs:element name="Col5" type="xs:string" />
+        <xs:element name="Col6" type="xs:string" />
+        <xs:element name="Col7" type="xs:string" />
+        <xs:element name="Col8" type="xs:string" />
+        <xs:element name="Col9" type="xs:string" />
+        <xs:element name="Col10" type="xs:string" />
+        <xs:element name="Col11" type="xs:string" />
+        <xs:element name="Col12" type="xs:string" />
+        <xs:element name="Col13" type="xs:string" />
+        <xs:element name="Col14" type="xs:string" />
+        <xs:element name="Col15" type="xs:string" />
+        <xs:element name="Col16" type="xs:string" />
+        <xs:element name="Col17" type="xs:string" />
+        <xs:element name="Col18" type="xs:string" />
+        <xs:element name="Col19" type="xs:string" />
+        <xs:element name="Col20" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<xs:schema id="XMLmfglance" 
+                  targetNamespace="http://tempuri.org/XMLmfglance.xsd"
+                  elementFormDefault="qualified"
+                  xmlns="http://tempuri.org/XMLmfglance.xsd"
+                  xmlns:mstns="http://tempuri.org/XMLmfglance.xsd"
+                  xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+
+  <xs:element name="MFglance">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Sl.No" type="xs:string" />
+        <xs:element name="Company" type="xs:string" />
+        <xs:element name="Totalsub" type="xs:string" />
+        <xs:element name="Totalred" type="xs:string" />
+        <xs:element name="Unitsub" type="xs:string" />
+        <xs:element name="Unitred" type="xs:string" />
+        <xs:element name="Unithold" type="xs:string" />
+        <xs:element name="Avgsubnav" type="xs:string" />
+        <xs:element name="Divrein" type="xs:string" />
+        <xs:element name="Divrece" type="xs:string" />
+        <xs:element name="Curnav" type="xs:string" />
+        <xs:element name="Curval" type="xs:string" />
+        <xs:element name="Realprof" type="xs:string" />
+        <xs:element name="Realprofp" type="xs:string" />
+        <xs:element name="Unreal" type="xs:string" />
+        <xs:element name="Unrealp" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

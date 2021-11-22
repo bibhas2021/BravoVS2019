@@ -1,0 +1,22 @@
+E:\MidasGoldP\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+E:\MidasGoldP\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+E:\MidasGoldP\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+E:\MidasGoldP\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+E:\MidasGoldP\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+E:\Accord Four\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+E:\Accord Four\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+E:\Accord Four\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+E:\Accord Four\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+E:\Accord Four\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+E:\Accord Four\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+E:\Accord Four\Edpcom\Edpcom\obj\Debug\Edpcom.pdb
+E:\Pradipta Podder\Accord Four Project 2014 June 18\Edpcom\Edpcom\bin\Debug\Edpcom.dll
+E:\Pradipta Podder\Accord Four Project 2014 June 18\Edpcom\Edpcom\bin\Debug\Edpcom.pdb
+E:\Pradipta Podder\Accord Four Project 2014 June 18\Edpcom\Edpcom\obj\Debug\ResolveAssemblyReference.cache
+E:\Pradipta Podder\Accord Four Project 2014 June 18\Edpcom\Edpcom\obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+E:\Pradipta Podder\Accord Four Project 2014 June 18\Edpcom\Edpcom\obj\Debug\Edpcom.frmListAddRemoveTree.resources
+E:\Pradipta Podder\Accord Four Project 2014 June 18\Edpcom\Edpcom\obj\Debug\Edpcom.ItemSelaction.resources
+E:\Pradipta Podder\Accord Four Project 2014 June 18\Edpcom\Edpcom\obj\Debug\Edpcom.Properties.Resources.resources
+E:\Pradipta Podder\Accord Four Project 2014 June 18\Edpcom\Edpcom\obj\Debug\Edpcom.csproj.GenerateResource.Cache
+E:\Pradipta Podder\Accord Four Project 2014 June 18\Edpcom\Edpcom\obj\Debug\Edpcom.dll
+E:\Pradipta Podder\Accord Four Project 2014 June 18\Edpcom\Edpcom\obj\Debug\Edpcom.pdb

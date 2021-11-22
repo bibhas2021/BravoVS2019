@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="frmpfesi" targetNamespace="http://tempuri.org/frmpfesi.xsd" xmlns:mstns="http://tempuri.org/frmpfesi.xsd" xmlns="http://tempuri.org/frmpfesi.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="frmpfesi" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="frmpfesi" msprop:Generator_DataSetName="frmpfesi" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="ESI" msprop:Generator_UserTableName="ESI" msprop:Generator_RowDeletedName="ESIRowDeleted" msprop:Generator_RowChangedName="ESIRowChanged" msprop:Generator_RowClassName="ESIRow" msprop:Generator_RowChangingName="ESIRowChanging" msprop:Generator_RowEvArgName="ESIRowChangeEvent" msprop:Generator_RowEvHandlerName="ESIRowChangeEventHandler" msprop:Generator_TableClassName="ESIDataTable" msprop:Generator_TableVarName="tableESI" msprop:Generator_RowDeletingName="ESIRowDeleting" msprop:Generator_TablePropName="ESI">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="sl" msprop:Generator_UserColumnName="sl" msprop:Generator_ColumnPropNameInRow="sl" msprop:Generator_ColumnVarNameInTable="columnsl" msprop:Generator_ColumnPropNameInTable="slColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Employee_x0020_Name" msprop:Generator_UserColumnName="Employee Name" msprop:Generator_ColumnPropNameInRow="Employee_Name" msprop:Generator_ColumnVarNameInTable="columnEmployee_Name" msprop:Generator_ColumnPropNameInTable="Employee_NameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="ESI_x0020_NO" msprop:Generator_UserColumnName="ESI NO" msprop:Generator_ColumnPropNameInRow="ESI_NO" msprop:Generator_ColumnVarNameInTable="columnESI_NO" msprop:Generator_ColumnPropNameInTable="ESI_NOColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Location" msprop:Generator_UserColumnName="Location" msprop:Generator_ColumnPropNameInRow="Location" msprop:Generator_ColumnVarNameInTable="columnLocation" msprop:Generator_ColumnPropNameInTable="LocationColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="W_Day" msprop:Generator_UserColumnName="W_Day" msprop:Generator_ColumnPropNameInRow="W_Day" msprop:Generator_ColumnVarNameInTable="columnW_Day" msprop:Generator_ColumnPropNameInTable="W_DayColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Gross_x0020_Salary" msprop:Generator_UserColumnName="Gross Salary" msprop:Generator_ColumnPropNameInRow="Gross_Salary" msprop:Generator_ColumnVarNameInTable="columnGross_Salary" msprop:Generator_ColumnPropNameInTable="Gross_SalaryColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="ESI" msprop:Generator_UserColumnName="ESI" msprop:Generator_ColumnPropNameInRow="ESI" msprop:Generator_ColumnVarNameInTable="columnESI" msprop:Generator_ColumnPropNameInTable="ESIColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Employer" msprop:Generator_UserColumnName="Employer" msprop:Generator_ColumnPropNameInRow="Employer" msprop:Generator_ColumnVarNameInTable="columnEmployer" msprop:Generator_ColumnPropNameInTable="EmployerColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="TotalEarning" msprop:Generator_UserColumnName="TotalEarning" msprop:Generator_ColumnPropNameInRow="TotalEarning" msprop:Generator_ColumnVarNameInTable="columnTotalEarning" msprop:Generator_ColumnPropNameInTable="TotalEarningColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

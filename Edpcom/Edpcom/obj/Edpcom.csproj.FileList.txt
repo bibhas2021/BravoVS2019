@@ -1,0 +1,10 @@
+bin\Debug\Edpcom.dll
+bin\Debug\Edpcom.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Edpcom.frmActiveMainSubGrp.resources
+obj\Debug\Edpcom.frmListAddRemoveTree.resources
+obj\Debug\Edpcom.ItemSelaction.resources
+obj\Debug\Edpcom.Properties.Resources.resources
+obj\Debug\Edpcom.csproj.GenerateResource.Cache
+obj\Debug\Edpcom.dll
+obj\Debug\Edpcom.pdb

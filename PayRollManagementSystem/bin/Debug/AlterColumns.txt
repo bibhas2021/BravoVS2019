@@ -1,0 +1,311 @@
+alter table tbl_Employee_Mast ADD Location_id numeric(18,0)
+
+delete from tbl_Employee_Config_LeaveDetails where LeaveId=368
+
+update  tbl_Employee_Config_LeaveDetails set LeaveHead = 'Ab' ,ShortName='Ab'  where LeaveId=367
+
+update  tbl_Employee_Attendance set FstLeave = 367 ,SndLeave=367  where SndLeave=368
+
+
+USE [SchoolManagement]
+GO
+/****** Object:  Table [tbl_Employee_Lumpsum]    Script Date: 06/29/2015 13:43:16 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+SET ANSI_PADDING ON
+GO
+create table [tbl_Employee_Lumpsum](
+	[LUMPID] [int] NOT NULL,
+	[LUMPNAME] [varchar](50) COLLATE SQL_Latin1_General_CP1_CI_AS NOT NULL,
+	[LUMPTYPE] [int] NOT NULL,
+	[GRADE] [int] NOT NULL,
+	[STRUCID] [int] NULL,
+	[AMOUNT] [numeric](15, 2) NOT NULL,
+ CONSTRAINT [PK_tbl_Employee_Lumpsum] PRIMARY KEY CLUSTERED 
+(
+	[LUMPID] ASC,
+	[LUMPTYPE] ASC,
+	[GRADE] ASC
+)WITH (PAD_INDEX  = OFF, IGNORE_DUP_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+SET ANSI_PADDING OFF
+
+
+
+
+ALTER TABLE [tbl_Employee_SalaryMast] ADD [Basic] [numeric](18, 2) NOT NULL DEFAULT ((0)) 
+GO
+
+ALTER TABLE [tbl_Employee_SalaryMast] ADD [Location_id] [numeric](18, 0) NOT NULL DEFAULT ((0)) 
+GO
+
+ALTER TABLE [tbl_Employee_SalaryMast] ADD [OT] [numeric](18, 0) NOT NULL DEFAULT ((0)) 
+GO
+
+ALTER TABLE [tbl_Employee_SalaryDet] ADD [Location_id] [numeric](18, 0) NOT NULL DEFAULT ((0)) 
+
+
+update  tbl_Employee_Mast set Location_id = 2
+
+delete  from  tbl_Employee_Link_SalaryStructure
+
+
+////////////////////////// 06.07.15  ////////////////////////////////////////////
+
+USE [SchoolManagement]
+GO
+/****** Object:  Table [tbl_Employee_Proxy_Attendance]    Script Date: 07/06/2015 13:55:31 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+SET ANSI_PADDING ON
+GO
+create table [tbl_Employee_Proxy_Attendance](
+	[Proxy_ID] [numeric](18, 0) IDENTITY(1,1) NOT NULL,
+	[Employee_ID] [varchar](50) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
+	[Proxy_Day] [numeric](18, 2) NULL,
+	[Month] [varchar](50) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
+	[Session] [varchar](50) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
+	[Location_ID] [numeric](18, 0) NULL,
+ CONSTRAINT [PK_tbl_Employee_Proxy_Attendance] PRIMARY KEY CLUSTERED 
+(
+	[Proxy_ID] ASC
+)WITH (PAD_INDEX  = OFF, IGNORE_DUP_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+SET ANSI_PADDING OFF
+
+
+ALTER TABLE [tbl_Employee_SalaryMast] ADD [Basic] [numeric](18, 2) NOT NULL DEFAULT ((0)) 
+GO
+
+ALTER TABLE [tbl_Employee_SalaryMast] ADD [Location_id] [numeric](18, 0) NOT NULL DEFAULT ((0)) 
+GO
+
+ALTER TABLE [tbl_Employee_SalaryMast] ADD [OT] [numeric](18, 0) NOT NULL DEFAULT ((0)) 
+GO
+
+ALTER TABLE [tbl_Employee_SalaryDet] ADD [Location_id] [numeric](18, 0) NOT NULL DEFAULT ((0)) 
+
+
+
+create table [tbl_Sal_Heads_Print]
+(
+	[Location_id] [numeric](18, 0) NOT NULL ,
+	[BankAcountNo]  bit  NOT NULL,
+	[RefBankAcountNo] [numeric](18, 0) NOT NULL ,
+	[DesignationName]  bit  NOT NULL,
+	[RefDesignationName] [numeric](18, 0) NOT NULL ,
+	[Basic]  bit  NOT NULL,
+	[RefBasic] [numeric](18, 0) NOT NULL ,
+	[DaysPresent]  bit  NOT NULL,
+	[RefDaysPresent] [numeric](18, 0) NOT NULL ,
+	[OT]  bit  NOT NULL,
+	[RefOT] [numeric](18, 0) NOT NULL ,
+	[TotalDays]  bit  NOT NULL,
+	[RefTotalDays] [numeric](18, 0) NOT NULL 
+
+)
+
+GO
+
+go
+INSERT menutable ([MENUCODE], [PARENTCODE], [MENUDESC], [DETAILDESC], [ENABLE_MENU], [FORMCODE], [SHORTCUT_KEY], [TOOLBARBTN]) VALUES (N'40080000000', N'40000000000', N'Salary Sheet Print Setup', N'Salary Sheet Print Setup', 1, NULL, NULL, 0)
+go
+
+
+ALTER TABLE [tbl_Employee_SalaryMast] ADD [Calculate_day] [numeric](18, 0) NOT NULL DEFAULT ((0)) 
+
+
+
+///////14.07.15///////////////
+
+
+update Menutable set MENUDESC = 'Salary Sheet' where MENUCODE = 40040000000
+
+update Menutable set ENABLE_MENU = 0  where MENUCODE = 20060000000
+
+///////////////End 14.07.15/////////////////
+
+
+////////////// 22.07.15 ////////////////////
+
+alter table tbl_Employee_Mast ADD Company_id numeric(18,0) NOT NULL DEFAULT ((1)) 
+update tbl_Employee_Mast set Company_id=1 
+
+/////////////End 22.07.15 ///////////////////////////
+
+
+/////////////// 21.08.15 ////////////////////////////
+
+update MenuTable set menudesc='Salary Allotment Report' where MENUCODE=40040000000
+update MenuTable set menudesc='PF/ESI Report' where MENUCODE=40090000000
+
+///////////// End 21.08.15 /////////////////////////
+
+
+////////////// 25.08.15 ////////////////////////////
+
+ALTER TABLE tbl_Employee_SalaryMast DROP CONSTRAINT PK_tbl_Employee_SalaryMast
+ALTER TABLE tbl_Employee_SalaryMast ADD PRIMARY KEY(Emp_Id,Month,Session,Location_id)
+
+ALTER TABLE tbl_Employee_SalaryDet DROP CONSTRAINT PK_tbl_Employee_SalaryDet
+ALTER TABLE tbl_Employee_SalaryDet ADD PRIMARY KEY(EmpId,SalId,TableName,Month,Session,Location_id)
+
+////////////// End 25.08.15 /////////////////////////
+
+
+////////////// 26.08.15 ////////////////////////////
+
+ALTER TABLE [tbl_Employee_Assign_SalStructure] ADD [Daily_wages] [int] NULL DEFAULT ((0)) 
+
+///////////// End 26.08.15 /////////////////////////
+
+////////////// 27.08.15 1 ////////////////////////////
+
+ALTER TABLE [tbl_Employee_Assign_SalStructure] ADD [Revenue_Stamp] [int] NULL DEFAULT ((0)) 
+ALTER TABLE [tbl_Employee_Assign_SalStructure] ADD [Stamp_Amount] varchar (50) NULL DEFAULT ((0)) 
+
+update tbl_Employee_Assign_SalStructure set Revenue_Stamp=0,Stamp_Amount=0 
+
+/////////////// End 27.08.15 ////////////////////////////////
+
+//////////////// 28.08.15 2 /////////////////////////////////
+
+ALTER TABLE [tbl_Employee_Mast] ADD [PF_Deduction] [int] NULL DEFAULT ((0)) 
+
+//////////////// End 28.08.15 /////////////////////////////
+
+////////////////// 24.09.15 ///////////////////////////////
+
+ALTER TABLE [tbl_Employee_SalaryMast] ALTER column [TotalDays] [numeric](18,2)
+ALTER TABLE [tbl_Employee_SalaryMast] ALTER column [OT] [numeric](18,2)
+
+/////////////////// End 24.09.15 ////////////////////////
+
+
+//////////////////   06.10.15  ////////////////////////
+
+alter table tbl_Employee_SalaryDet ADD Company_id numeric(18,0) NOT NULL DEFAULT ((0)) 
+
+alter table tbl_Employee_SalaryMast ADD Company_id numeric(18,0) NOT NULL  DEFAULT ((0)) 
+
+alter table tbl_Employee_Proxy_Attendance ADD Company_id numeric(18,0) NOT NULL DEFAULT ((0)) 
+
+alter table tbl_Employee_Attendance ADD Company_id numeric(18,0) NOT NULL  DEFAULT ((0)) 
+
+alter table tbl_Employee_Assign_SalStructure ADD Location_id numeric(18,0) NOT NULL  DEFAULT ((0))
+
+alter table tbl_Employee_Assign_SalStructure ADD Company_id numeric(18,0) NOT NULL  DEFAULT ((0)) 
+
+
+/////////////////  End 06.10.15 /////////////////////////
+
+
+////////////////// 18.11.15 ///////////////////////////
+
+select * from Companywiseid_Relation order by ID  
+insert into Companywiseid_Relation(id,Company_ID,Location_ID) values(31,'1','0')
+insert into Companywiseid_Relation(id,Company_ID,Location_ID) values(32,'2','0')
+insert into Companywiseid_Relation(id,Company_ID,Location_ID) values(33,'3','0')
+insert into Companywiseid_Relation(id,Company_ID,Location_ID) values(34,'4','0')
+insert into Companywiseid_Relation(id,Company_ID,Location_ID) values(35,'5','0')
+
+create table [AccessLocation](
+	[USER_CODE] [varchar](6) NOT NULL,
+	[FICode] [char](10) NOT NULL,
+	[GCODE] [char](10) NOT NULL,
+	[LOC_CODE] [numeric](18, 0) NOT NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[USER_CODE] ASC,
+	[FICode] ASC,
+	[GCODE] ASC,
+	[LOC_CODE] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+//////////////////// End 18.11.15 ///////////////////////////////
+
+
+
+////////////////////// 19.11.15 ////////////////////////
+
+update tbl_Employee_SalaryMast set Company_id = 
+case 
+when (Location_id in(9,51,57) ) then 2
+else 1
+end
+
+
+update tbl_Employee_SalaryDet set Company_id = 
+case 
+when (Location_id in(9,51,57) ) then 2
+else 1
+end
+
+update tbl_Employee_Proxy_Attendance set Company_id = 
+case 
+when (Location_id in(9,51,57) ) then 2
+else 1
+end
+
+update tbl_Employee_Attendance set Company_id = 
+case 
+when (LOcation_id in(9,51,57) ) then 2
+else 1
+end
+
+
+update tbl_Employee_Assign_SalStructure set Location_id = 
+case 
+when (sal_struct =30) then      8	
+when (sal_struct =31) then	30
+when (sal_struct =32) then	37
+when (sal_struct =34) then	27
+when (sal_struct =35) then	25
+when (sal_struct =37) then	32
+when (sal_struct =38) then	29
+when (sal_struct =39) then	24
+when (sal_struct =40) then	46
+when (sal_struct =41) then	34
+when (sal_struct =43) then	26
+when (sal_struct =44) then	50
+when (sal_struct =45) then	51
+when (sal_struct =46) then	54
+when (sal_struct =47) then	52
+when (sal_struct =48) then	53
+when (sal_struct =49) then      55
+when (sal_struct =50) then	57
+when (sal_struct =51) then	35
+when (sal_struct =52) then	33
+when (sal_struct =53) then	40
+when (sal_struct =36) then	28
+when (sal_struct =54) then	58
+when (sal_struct =55) then	19
+when (sal_struct =32) then	59
+when (sal_struct =56) then	60
+when (sal_struct =57) then	31
+else 0
+end
+
+
+update tbl_Employee_Assign_SalStructure set Company_id = 
+case 
+when (Location_id in(9,51,57) ) then 2
+else 1
+end
+
+/////////////////////// End 19.11.15 ////////////////////
+
+
+
+
+
+

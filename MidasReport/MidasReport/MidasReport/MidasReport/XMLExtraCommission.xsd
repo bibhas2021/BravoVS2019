@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<xs:schema id="XMLExtraCommission" 
+                  targetNamespace="http://tempuri.org/XMLExtraCommission.xsd"
+                  elementFormDefault="qualified"
+                  xmlns="http://tempuri.org/XMLExtraCommission.xsd"
+                  xmlns:mstns="http://tempuri.org/XMLExtraCommission.xsd"
+                  xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <xs:element name="ExtraComm">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Book_name" type="xs:string" />
+        <xs:element name="CommType" type="xs:string" />
+        <xs:element name="Qnty" type="xs:int" />
+        <xs:element name="price" type="xs:float" />
+        <xs:element name="SaleAmount" type="xs:float" />
+        <xs:element name="Rate" type="xs:float" />
+        <xs:element name="CommAmt" type="xs:float" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="SpecialComm">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="BillDate" type="xs:string" />
+        <xs:element name="billno" type="xs:string" />
+        <xs:element name="agent_name" type="xs:string" />
+        <xs:element name="SpecialDiscount" type="xs:double" />       
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element> 
+  <xs:element name="Remunaration">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="agent_name" type="xs:string" />
+        <xs:element name="Remunaration" type="xs:string" />       
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element> 
+  
+</xs:schema>

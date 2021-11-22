@@ -1,0 +1,33 @@
+<WACCOPTION : Series_No;Boolean Value;String Value> || <MENU : MENUCODE;MENUDESC;ENABLE_MENU;SHORTCUT_KEY;TOOLBARBTN>
+<TypeDoc_Config : OPTION_CODE;T_ENTRY;BOOL_VAL;Script>
+[WACCOPTION]
+*5.9;False;""
+*5.10;False;""
+
+[MENU]
+;
+
+[TypeDoc_Config]
+;
+
+[Company_Details]
+Country;Bangladesh;
+State;Others;
+
+[Environment_Envelope]
+*Demo;
+*LITE;
+*MEDIUM;
+ENTERPRISE;
+
+[Environment_Menu]
+;
+
+[Environment_Bit]
+32;
+
+[SDATE]
+01;04
+
+[UNIT_UNIT]
+KG;MTR;PCS

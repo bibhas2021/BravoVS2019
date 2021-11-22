@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<xs:schema id="XMLSchema3" 
+                  targetNamespace="http://tempuri.org/XMLSchema3.xsd"
+                  elementFormDefault="qualified"
+                  xmlns="http://tempuri.org/XMLSchema3.xsd"
+                  xmlns:mstns="http://tempuri.org/XMLSchema3.xsd"
+                  xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="CashBookSingleColumn">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Date" type="xs:string" />
+        <xs:element name="VoucherNo" type="xs:string" />
+        <xs:element name="Description" type="xs:string" />
+        <xs:element name="SubDesc" type="xs:string" />
+        <xs:element name="DebitAmt" type="xs:string" />
+        <xs:element name="CreditAmt" type="xs:string" />
+        <xs:element name="Balance" type="xs:string" />        
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="BankBook">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Date" type="xs:string" />
+        <xs:element name="VoucherNo" type="xs:string" />
+        <xs:element name="Description" type="xs:string" />
+        <xs:element name="SubDesc" type="xs:string" />
+        <xs:element name="DebitAmt" type="xs:string" />
+        <xs:element name="CreditAmt" type="xs:string" />
+        <xs:element name="Balance" type="xs:string" />
+        <xs:element name="Balance2" type="xs:string" />
+        <xs:element name="Heading" type="xs:string" />
+        <xs:element name="Total" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+<xs:element name="CashBank">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Company_Name" type="xs:string" />
+        <xs:element name="Cash" type="xs:string" />
+        <xs:element name="Bank1" type="xs:string" />
+        <xs:element name="Bank2" type="xs:string" />
+        <xs:element name="Bank3" type="xs:string" />
+        <xs:element name="Bank4" type="xs:string" />
+        <xs:element name="Bank5" type="xs:string" />
+        <xs:element name="Bank6" type="xs:string" />
+        <xs:element name="Bank7" type="xs:string" />
+        <!--<xs:element name="Bank1" type="xs:string" />-->
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

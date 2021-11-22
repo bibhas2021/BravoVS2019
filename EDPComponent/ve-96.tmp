@@ -1,0 +1,147 @@
+namespace EDPComponent
+{
+    partial class FormBaseERP
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.components = new System.ComponentModel.Container();
+            this.picMin = new System.Windows.Forms.PictureBox();
+            this.picClose = new System.Windows.Forms.PictureBox();
+            this.picMax = new System.Windows.Forms.PictureBox();
+            this.picTitle = new System.Windows.Forms.PictureBox();
+            this.toolTip1 = new System.Windows.Forms.ToolTip(this.components);
+            this.lblHead = new EDPComponent.ShadowLabel(this.components);
+            ((System.ComponentModel.ISupportInitialize)(this.picMin)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picClose)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picMax)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picTitle)).BeginInit();
+            this.SuspendLayout();
+            // 
+            // picMin
+            // 
+//            this.picMin.Image = global::EDPComponent.Properties.Resources.MinimizeIcon;
+            this.picMin.Location = new System.Drawing.Point(651, 2);
+            this.picMin.Name = "picMin";
+            this.picMin.Size = new System.Drawing.Size(21, 20);
+            this.picMin.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
+            this.picMin.TabIndex = 40;
+            this.picMin.TabStop = false;
+            this.toolTip1.SetToolTip(this.picMin, "Minimize");
+            this.picMin.Click += new System.EventHandler(this.picMin_Click);
+            // 
+            // picClose
+            // 
+            this.picClose.Image = global::EDPComponent.Properties.Resources.CloseIcon;
+            this.picClose.Location = new System.Drawing.Point(693, 2);
+            this.picClose.Name = "picClose";
+            this.picClose.Size = new System.Drawing.Size(21, 20);
+            this.picClose.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
+            this.picClose.TabIndex = 39;
+            this.picClose.TabStop = false;
+            this.toolTip1.SetToolTip(this.picClose, "Close");
+            this.picClose.Click += new System.EventHandler(this.picClose_Click);
+            // 
+            // picMax
+            // 
+            this.picMax.Image = global::EDPComponent.Properties.Resources.MaximizeIcon;
+            this.picMax.Location = new System.Drawing.Point(672, 2);
+            this.picMax.Name = "picMax";
+            this.picMax.Size = new System.Drawing.Size(21, 20);
+            this.picMax.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
+            this.picMax.TabIndex = 38;
+            this.picMax.TabStop = false;
+            this.toolTip1.SetToolTip(this.picMax, "Maximize");
+            this.picMax.Click += new System.EventHandler(this.picMax_Click);
+            // 
+            // picTitle
+            // 
+            this.picTitle.Dock = System.Windows.Forms.DockStyle.Top;
+            this.picTitle.Image = global::EDPComponent.Properties.Resources.t1;
+            this.picTitle.Location = new System.Drawing.Point(0, 0);
+            this.picTitle.Name = "picTitle";
+            this.picTitle.Size = new System.Drawing.Size(716, 24);
+            this.picTitle.TabIndex = 36;
+            this.picTitle.TabStop = false;
+            // 
+            // lblHead
+            // 
+            this.lblHead.Angle = 0F;
+            this.lblHead.AutoSize = true;
+            this.lblHead.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.lblHead.EndColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(192)))), ((int)(((byte)(255)))));
+            this.lblHead.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblHead.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
+            this.lblHead.Location = new System.Drawing.Point(2, 4);
+            this.lblHead.Name = "lblHead";
+            this.lblHead.ShadowColor = System.Drawing.Color.Black;
+            this.lblHead.Size = new System.Drawing.Size(87, 17);
+            this.lblHead.StartColor = System.Drawing.Color.LavenderBlush;
+            this.lblHead.TabIndex = 41;
+            this.lblHead.Text = "Header Text";
+            this.lblHead.XOffset = 0F;
+            this.lblHead.YOffset = 0F;
+            // 
+            // FormBaseERP
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.WhiteSmoke;
+            this.ClientSize = new System.Drawing.Size(716, 405);
+            this.ControlBox = false;
+            this.Controls.Add(this.lblHead);
+            this.Controls.Add(this.picMin);
+            this.Controls.Add(this.picClose);
+            this.Controls.Add(this.picMax);
+            this.Controls.Add(this.picTitle);
+            this.Name = "FormBaseERP";
+            this.ShowInTaskbar = false;
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.SizeChanged += new System.EventHandler(this.FormBase_SizeChanged);
+            this.Shown += new System.EventHandler(this.FormBaseERP_Shown);
+            this.Load += new System.EventHandler(this.FormBase_Load);
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(FormBaseERP_FormClosing);
+            this.KeyDown += new System.Windows.Forms.KeyEventHandler(FormBaseERP_KeyDown);
+            ((System.ComponentModel.ISupportInitialize)(this.picMin)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picClose)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picMax)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picTitle)).EndInit();
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
+        }
+
+
+        #endregion
+
+        private System.Windows.Forms.PictureBox picMin;
+        private System.Windows.Forms.PictureBox picClose;
+        private System.Windows.Forms.PictureBox picMax;
+        private System.Windows.Forms.PictureBox picTitle;
+        private System.Windows.Forms.ToolTip toolTip1;
+        private ShadowLabel lblHead;
+    }
+}
